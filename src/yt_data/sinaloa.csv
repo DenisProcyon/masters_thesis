@@ -1,0 +1,8 @@
+state,dimension,word_count,comments_count,avg_sentiment
+Sinaloa,INCOME,17,16,-0.1875
+Sinaloa,ACCESS TO HEALTH SERVICES,23,23,-0.7608695652173914
+Sinaloa,EDUCATIONAL LAG,0,0,0.0
+Sinaloa,ACCESS TO SOCIAL SECURITY,0,0,0.0
+Sinaloa,HOUSING,5,5,-0.4
+Sinaloa,ACCESS TO FOOD,34,32,-0.21875
+Sinaloa,SOCIAL COHESION,2,2,-1.0

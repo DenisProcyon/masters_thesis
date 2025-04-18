@@ -1,0 +1,8 @@
+state,dimension,word_count,comments_count,avg_sentiment
+Baja California,INCOME,24,22,-0.38636363636363635
+Baja California,ACCESS TO HEALTH SERVICES,2,2,0.0
+Baja California,EDUCATIONAL LAG,0,0,0.0
+Baja California,ACCESS TO SOCIAL SECURITY,2,2,0.25
+Baja California,HOUSING,10,9,-0.6111111111111112
+Baja California,ACCESS TO FOOD,21,21,-0.23809523809523808
+Baja California,SOCIAL COHESION,5,5,-0.4
