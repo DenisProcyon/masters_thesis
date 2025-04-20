@@ -947,3 +947,327 @@
 2025-04-19 17:14:11,122 INFO Collection for keyword Tamaulipas sin trabajo was not found in db. Creating...
 2025-04-19 17:14:11,223 INFO Collection for Tamaulipas sin trabajo was created
 2025-04-19 17:14:11,271 INFO Inserted 98 new videos into collection Tamaulipas sin trabajo
+2025-04-20 20:50:59,135 WARNING Logger Mongo was configured with True console stream
+2025-04-20 20:50:59,497 INFO Connected to thesis database on 206.81.16.39
+2025-04-20 21:06:18,627 WARNING No videos found for keyword Baja California pobreza
+2025-04-20 21:06:19,696 WARNING Removed 5 duplicates from entries
+2025-04-20 21:06:19,748 INFO Collection for keyword Baja California pobreza was not found in db. Creating...
+2025-04-20 21:06:19,855 INFO Collection for Baja California pobreza was created
+2025-04-20 21:06:19,993 INFO Inserted 95 new videos into collection Baja California pobreza
+2025-04-20 21:06:20,038 WARNING No videos found for keyword Baja California crisis
+2025-04-20 21:06:20,889 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:20,938 INFO Collection for keyword Baja California crisis was not found in db. Creating...
+2025-04-20 21:06:21,039 INFO Collection for Baja California crisis was created
+2025-04-20 21:06:21,132 INFO Inserted 100 new videos into collection Baja California crisis
+2025-04-20 21:06:21,177 WARNING No videos found for keyword Baja California problemas sociales
+2025-04-20 21:06:22,179 WARNING Removed 3 duplicates from entries
+2025-04-20 21:06:22,226 INFO Collection for keyword Baja California problemas sociales was not found in db. Creating...
+2025-04-20 21:06:22,332 INFO Collection for Baja California problemas sociales was created
+2025-04-20 21:06:22,383 INFO Inserted 97 new videos into collection Baja California problemas sociales
+2025-04-20 21:06:22,428 WARNING No videos found for keyword Baja California desempleo
+2025-04-20 21:06:23,324 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:23,369 INFO Collection for keyword Baja California desempleo was not found in db. Creating...
+2025-04-20 21:06:23,467 INFO Collection for Baja California desempleo was created
+2025-04-20 21:06:23,515 INFO Inserted 100 new videos into collection Baja California desempleo
+2025-04-20 21:06:23,558 WARNING No videos found for keyword Baja California inseguridad
+2025-04-20 21:06:24,458 WARNING Removed 3 duplicates from entries
+2025-04-20 21:06:24,505 INFO Collection for keyword Baja California inseguridad was not found in db. Creating...
+2025-04-20 21:06:24,607 INFO Collection for Baja California inseguridad was created
+2025-04-20 21:06:24,656 INFO Inserted 97 new videos into collection Baja California inseguridad
+2025-04-20 21:06:24,701 WARNING No videos found for keyword Baja California salud
+2025-04-20 21:06:25,430 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:25,481 INFO Collection for keyword Baja California salud was not found in db. Creating...
+2025-04-20 21:06:25,582 INFO Collection for Baja California salud was created
+2025-04-20 21:06:25,633 INFO Inserted 100 new videos into collection Baja California salud
+2025-04-20 21:06:25,676 WARNING No videos found for keyword Baja California educación
+2025-04-20 21:06:26,550 WARNING Removed 4 duplicates from entries
+2025-04-20 21:06:26,594 INFO Collection for keyword Baja California educación was not found in db. Creating...
+2025-04-20 21:06:26,704 INFO Collection for Baja California educación was created
+2025-04-20 21:06:26,756 INFO Inserted 96 new videos into collection Baja California educación
+2025-04-20 21:06:26,799 WARNING No videos found for keyword Baja California vivienda
+2025-04-20 21:06:27,610 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:27,656 INFO Collection for keyword Baja California vivienda was not found in db. Creating...
+2025-04-20 21:06:27,756 INFO Collection for Baja California vivienda was created
+2025-04-20 21:06:27,803 INFO Inserted 100 new videos into collection Baja California vivienda
+2025-04-20 21:06:27,852 WARNING No videos found for keyword Baja California sin agua
+2025-04-20 21:06:28,763 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:28,815 INFO Collection for keyword Baja California sin agua was not found in db. Creating...
+2025-04-20 21:06:28,913 INFO Collection for Baja California sin agua was created
+2025-04-20 21:06:28,960 INFO Inserted 100 new videos into collection Baja California sin agua
+2025-04-20 21:06:29,004 WARNING No videos found for keyword Baja California hambre
+2025-04-20 21:06:29,936 WARNING Removed 1 duplicates from entries
+2025-04-20 21:06:29,982 INFO Collection for keyword Baja California hambre was not found in db. Creating...
+2025-04-20 21:06:30,079 INFO Collection for Baja California hambre was created
+2025-04-20 21:06:30,128 INFO Inserted 99 new videos into collection Baja California hambre
+2025-04-20 21:06:30,171 WARNING No videos found for keyword Baja California delincuencia
+2025-04-20 21:06:31,059 WARNING Removed 1 duplicates from entries
+2025-04-20 21:06:31,107 INFO Collection for keyword Baja California delincuencia was not found in db. Creating...
+2025-04-20 21:06:31,207 INFO Collection for Baja California delincuencia was created
+2025-04-20 21:06:31,253 INFO Inserted 99 new videos into collection Baja California delincuencia
+2025-04-20 21:06:31,295 WARNING No videos found for keyword Baja California violencia
+2025-04-20 21:06:32,126 WARNING Removed 2 duplicates from entries
+2025-04-20 21:06:32,171 INFO Collection for keyword Baja California violencia was not found in db. Creating...
+2025-04-20 21:06:32,268 INFO Collection for Baja California violencia was created
+2025-04-20 21:06:32,315 INFO Inserted 98 new videos into collection Baja California violencia
+2025-04-20 21:06:32,361 WARNING No videos found for keyword Baja California carteles
+2025-04-20 21:06:33,115 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:33,161 INFO Collection for keyword Baja California carteles was not found in db. Creating...
+2025-04-20 21:06:33,260 INFO Collection for Baja California carteles was created
+2025-04-20 21:06:33,307 INFO Inserted 100 new videos into collection Baja California carteles
+2025-04-20 21:06:33,350 WARNING No videos found for keyword Baja California corrupción
+2025-04-20 21:06:34,110 WARNING Removed 1 duplicates from entries
+2025-04-20 21:06:34,154 INFO Collection for keyword Baja California corrupción was not found in db. Creating...
+2025-04-20 21:06:34,255 INFO Collection for Baja California corrupción was created
+2025-04-20 21:06:34,303 INFO Inserted 99 new videos into collection Baja California corrupción
+2025-04-20 21:06:34,346 WARNING No videos found for keyword Baja California sin trabajo
+2025-04-20 21:06:35,057 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:35,103 INFO Collection for keyword Baja California sin trabajo was not found in db. Creating...
+2025-04-20 21:06:35,207 INFO Collection for Baja California sin trabajo was created
+2025-04-20 21:06:35,260 INFO Inserted 100 new videos into collection Baja California sin trabajo
+2025-04-20 21:06:35,305 WARNING No videos found for keyword Zacatecas pobreza
+2025-04-20 21:06:36,183 WARNING Removed 3 duplicates from entries
+2025-04-20 21:06:36,229 INFO Collection for keyword Zacatecas pobreza was not found in db. Creating...
+2025-04-20 21:06:36,326 INFO Collection for Zacatecas pobreza was created
+2025-04-20 21:06:36,374 INFO Inserted 97 new videos into collection Zacatecas pobreza
+2025-04-20 21:06:36,417 WARNING No videos found for keyword Zacatecas crisis
+2025-04-20 21:06:37,239 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:37,287 INFO Collection for keyword Zacatecas crisis was not found in db. Creating...
+2025-04-20 21:06:37,387 INFO Collection for Zacatecas crisis was created
+2025-04-20 21:06:37,435 INFO Inserted 100 new videos into collection Zacatecas crisis
+2025-04-20 21:06:37,478 WARNING No videos found for keyword Zacatecas problemas sociales
+2025-04-20 21:06:38,326 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:38,371 INFO Collection for keyword Zacatecas problemas sociales was not found in db. Creating...
+2025-04-20 21:06:38,482 INFO Collection for Zacatecas problemas sociales was created
+2025-04-20 21:06:38,530 INFO Inserted 100 new videos into collection Zacatecas problemas sociales
+2025-04-20 21:06:38,575 WARNING No videos found for keyword Zacatecas desempleo
+2025-04-20 21:06:39,311 WARNING Removed 1 duplicates from entries
+2025-04-20 21:06:39,358 INFO Collection for keyword Zacatecas desempleo was not found in db. Creating...
+2025-04-20 21:06:39,457 INFO Collection for Zacatecas desempleo was created
+2025-04-20 21:06:39,504 INFO Inserted 99 new videos into collection Zacatecas desempleo
+2025-04-20 21:06:39,551 WARNING No videos found for keyword Zacatecas inseguridad
+2025-04-20 21:06:40,483 WARNING Removed 2 duplicates from entries
+2025-04-20 21:06:40,530 INFO Collection for keyword Zacatecas inseguridad was not found in db. Creating...
+2025-04-20 21:06:40,629 INFO Collection for Zacatecas inseguridad was created
+2025-04-20 21:06:40,678 INFO Inserted 98 new videos into collection Zacatecas inseguridad
+2025-04-20 21:06:40,722 WARNING No videos found for keyword Zacatecas salud
+2025-04-20 21:06:41,507 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:41,554 INFO Collection for keyword Zacatecas salud was not found in db. Creating...
+2025-04-20 21:06:41,655 INFO Collection for Zacatecas salud was created
+2025-04-20 21:06:41,705 INFO Inserted 100 new videos into collection Zacatecas salud
+2025-04-20 21:06:41,749 WARNING No videos found for keyword Zacatecas educación
+2025-04-20 21:06:42,426 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:42,473 INFO Collection for keyword Zacatecas educación was not found in db. Creating...
+2025-04-20 21:06:42,572 INFO Collection for Zacatecas educación was created
+2025-04-20 21:06:42,632 INFO Inserted 100 new videos into collection Zacatecas educación
+2025-04-20 21:06:42,678 WARNING No videos found for keyword Zacatecas vivienda
+2025-04-20 21:06:43,840 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:43,886 INFO Collection for keyword Zacatecas vivienda was not found in db. Creating...
+2025-04-20 21:06:43,987 INFO Collection for Zacatecas vivienda was created
+2025-04-20 21:06:44,036 INFO Inserted 100 new videos into collection Zacatecas vivienda
+2025-04-20 21:06:44,079 WARNING No videos found for keyword Zacatecas sin agua
+2025-04-20 21:06:45,094 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:45,144 INFO Collection for keyword Zacatecas sin agua was not found in db. Creating...
+2025-04-20 21:06:45,242 INFO Collection for Zacatecas sin agua was created
+2025-04-20 21:06:45,290 INFO Inserted 100 new videos into collection Zacatecas sin agua
+2025-04-20 21:06:45,333 WARNING No videos found for keyword Zacatecas hambre
+2025-04-20 21:06:46,115 WARNING Removed 1 duplicates from entries
+2025-04-20 21:06:46,161 INFO Collection for keyword Zacatecas hambre was not found in db. Creating...
+2025-04-20 21:06:46,260 INFO Collection for Zacatecas hambre was created
+2025-04-20 21:06:46,309 INFO Inserted 99 new videos into collection Zacatecas hambre
+2025-04-20 21:06:46,352 WARNING No videos found for keyword Zacatecas delincuencia
+2025-04-20 21:06:47,228 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:47,275 INFO Collection for keyword Zacatecas delincuencia was not found in db. Creating...
+2025-04-20 21:06:47,377 INFO Collection for Zacatecas delincuencia was created
+2025-04-20 21:06:47,439 INFO Inserted 100 new videos into collection Zacatecas delincuencia
+2025-04-20 21:06:47,482 WARNING No videos found for keyword Zacatecas violencia
+2025-04-20 21:06:48,470 WARNING Removed 2 duplicates from entries
+2025-04-20 21:06:48,516 INFO Collection for keyword Zacatecas violencia was not found in db. Creating...
+2025-04-20 21:06:48,619 INFO Collection for Zacatecas violencia was created
+2025-04-20 21:06:48,669 INFO Inserted 98 new videos into collection Zacatecas violencia
+2025-04-20 21:06:48,711 WARNING No videos found for keyword Zacatecas carteles
+2025-04-20 21:06:49,365 WARNING Removed 1 duplicates from entries
+2025-04-20 21:06:49,411 INFO Collection for keyword Zacatecas carteles was not found in db. Creating...
+2025-04-20 21:06:49,509 INFO Collection for Zacatecas carteles was created
+2025-04-20 21:06:49,556 INFO Inserted 99 new videos into collection Zacatecas carteles
+2025-04-20 21:06:49,599 WARNING No videos found for keyword Zacatecas corrupción
+2025-04-20 21:06:50,165 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:50,216 INFO Collection for keyword Zacatecas corrupción was not found in db. Creating...
+2025-04-20 21:06:50,318 INFO Collection for Zacatecas corrupción was created
+2025-04-20 21:06:50,365 INFO Inserted 100 new videos into collection Zacatecas corrupción
+2025-04-20 21:06:50,409 WARNING No videos found for keyword Zacatecas sin trabajo
+2025-04-20 21:06:51,291 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:51,337 INFO Collection for keyword Zacatecas sin trabajo was not found in db. Creating...
+2025-04-20 21:06:51,435 INFO Collection for Zacatecas sin trabajo was created
+2025-04-20 21:06:51,484 INFO Inserted 100 new videos into collection Zacatecas sin trabajo
+2025-04-20 21:06:51,530 WARNING No videos found for keyword Colima pobreza
+2025-04-20 21:06:52,423 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:52,469 INFO Collection for keyword Colima pobreza was not found in db. Creating...
+2025-04-20 21:06:52,571 INFO Collection for Colima pobreza was created
+2025-04-20 21:06:52,619 INFO Inserted 100 new videos into collection Colima pobreza
+2025-04-20 21:06:52,668 WARNING No videos found for keyword Colima crisis
+2025-04-20 21:06:53,487 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:53,533 INFO Collection for keyword Colima crisis was not found in db. Creating...
+2025-04-20 21:06:53,647 INFO Collection for Colima crisis was created
+2025-04-20 21:06:53,695 INFO Inserted 100 new videos into collection Colima crisis
+2025-04-20 21:06:53,738 WARNING No videos found for keyword Colima problemas sociales
+2025-04-20 21:06:54,717 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:54,764 INFO Collection for keyword Colima problemas sociales was not found in db. Creating...
+2025-04-20 21:06:54,863 INFO Collection for Colima problemas sociales was created
+2025-04-20 21:06:54,911 INFO Inserted 100 new videos into collection Colima problemas sociales
+2025-04-20 21:06:54,954 WARNING No videos found for keyword Colima desempleo
+2025-04-20 21:06:55,533 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:55,579 INFO Collection for keyword Colima desempleo was not found in db. Creating...
+2025-04-20 21:06:55,680 INFO Collection for Colima desempleo was created
+2025-04-20 21:06:55,730 INFO Inserted 100 new videos into collection Colima desempleo
+2025-04-20 21:06:55,773 WARNING No videos found for keyword Colima inseguridad
+2025-04-20 21:06:56,762 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:56,807 INFO Collection for keyword Colima inseguridad was not found in db. Creating...
+2025-04-20 21:06:56,905 INFO Collection for Colima inseguridad was created
+2025-04-20 21:06:56,953 INFO Inserted 100 new videos into collection Colima inseguridad
+2025-04-20 21:06:57,008 WARNING No videos found for keyword Colima salud
+2025-04-20 21:06:57,694 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:57,742 INFO Collection for keyword Colima salud was not found in db. Creating...
+2025-04-20 21:06:57,849 INFO Collection for Colima salud was created
+2025-04-20 21:06:57,899 INFO Inserted 100 new videos into collection Colima salud
+2025-04-20 21:06:57,943 WARNING No videos found for keyword Colima educación
+2025-04-20 21:06:58,596 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:58,644 INFO Collection for keyword Colima educación was not found in db. Creating...
+2025-04-20 21:06:58,749 INFO Collection for Colima educación was created
+2025-04-20 21:06:58,800 INFO Inserted 100 new videos into collection Colima educación
+2025-04-20 21:06:58,845 WARNING No videos found for keyword Colima vivienda
+2025-04-20 21:06:59,724 WARNING Removed 0 duplicates from entries
+2025-04-20 21:06:59,771 INFO Collection for keyword Colima vivienda was not found in db. Creating...
+2025-04-20 21:06:59,880 INFO Collection for Colima vivienda was created
+2025-04-20 21:06:59,931 INFO Inserted 100 new videos into collection Colima vivienda
+2025-04-20 21:06:59,978 WARNING No videos found for keyword Colima sin agua
+2025-04-20 21:07:00,861 WARNING Removed 0 duplicates from entries
+2025-04-20 21:07:00,908 INFO Collection for keyword Colima sin agua was not found in db. Creating...
+2025-04-20 21:07:01,010 INFO Collection for Colima sin agua was created
+2025-04-20 21:07:01,057 INFO Inserted 100 new videos into collection Colima sin agua
+2025-04-20 21:07:01,100 WARNING No videos found for keyword Colima hambre
+2025-04-20 21:07:01,847 WARNING Removed 1 duplicates from entries
+2025-04-20 21:07:01,894 INFO Collection for keyword Colima hambre was not found in db. Creating...
+2025-04-20 21:07:01,996 INFO Collection for Colima hambre was created
+2025-04-20 21:07:02,049 INFO Inserted 99 new videos into collection Colima hambre
+2025-04-20 21:07:02,104 WARNING No videos found for keyword Colima delincuencia
+2025-04-20 21:07:02,968 WARNING Removed 0 duplicates from entries
+2025-04-20 21:07:03,017 INFO Collection for keyword Colima delincuencia was not found in db. Creating...
+2025-04-20 21:07:03,118 INFO Collection for Colima delincuencia was created
+2025-04-20 21:07:03,168 INFO Inserted 100 new videos into collection Colima delincuencia
+2025-04-20 21:07:03,225 WARNING No videos found for keyword Colima violencia
+2025-04-20 21:07:03,426 WARNING No videos found for keyword Colima carteles
+2025-04-20 21:07:03,521 WARNING No videos found for keyword Colima corrupción
+2025-04-20 21:07:03,618 WARNING No videos found for keyword Colima sin trabajo
+2025-04-20 21:07:03,827 WARNING No videos found for keyword Jalisco pobreza
+2025-04-20 21:07:03,924 WARNING No videos found for keyword Jalisco crisis
+2025-04-20 21:07:04,013 WARNING No videos found for keyword Jalisco problemas sociales
+2025-04-20 21:07:04,105 WARNING No videos found for keyword Jalisco desempleo
+2025-04-20 21:07:04,200 WARNING No videos found for keyword Jalisco inseguridad
+2025-04-20 21:07:04,923 WARNING Removed 0 duplicates from entries
+2025-04-20 21:07:04,970 INFO Collection for keyword Jalisco inseguridad was not found in db. Creating...
+2025-04-20 21:07:05,069 INFO Collection for Jalisco inseguridad was created
+2025-04-20 21:07:05,119 INFO Inserted 100 new videos into collection Jalisco inseguridad
+2025-04-20 21:07:05,165 WARNING No videos found for keyword Jalisco salud
+2025-04-20 21:07:05,677 WARNING No videos found for keyword Jalisco educación
+2025-04-20 21:07:06,071 WARNING No videos found for keyword Jalisco vivienda
+2025-04-20 21:07:06,185 WARNING No videos found for keyword Jalisco sin agua
+2025-04-20 21:07:06,279 WARNING No videos found for keyword Jalisco hambre
+2025-04-20 21:07:06,370 WARNING No videos found for keyword Jalisco delincuencia
+2025-04-20 21:07:06,464 WARNING No videos found for keyword Jalisco violencia
+2025-04-20 21:07:06,554 WARNING No videos found for keyword Jalisco carteles
+2025-04-20 21:07:06,644 WARNING No videos found for keyword Jalisco corrupción
+2025-04-20 21:07:06,736 WARNING No videos found for keyword Jalisco sin trabajo
+2025-04-20 21:08:36,551 WARNING Logger Mongo was configured with True console stream
+2025-04-20 21:08:36,905 INFO Connected to thesis database on 206.81.16.39
+2025-04-20 21:36:42,946 WARNING No videos found for keyword Colima violencia
+2025-04-20 21:36:44,000 WARNING Removed 0 duplicates from entries
+2025-04-20 21:36:44,047 INFO Collection for keyword Colima violencia was not found in db. Creating...
+2025-04-20 21:36:44,146 INFO Collection for Colima violencia was created
+2025-04-20 21:36:44,280 INFO Inserted 100 new videos into collection Colima violencia
+2025-04-20 21:36:44,326 WARNING No videos found for keyword Colima carteles
+2025-04-20 21:36:45,283 WARNING Removed 0 duplicates from entries
+2025-04-20 21:36:45,330 INFO Collection for keyword Colima carteles was not found in db. Creating...
+2025-04-20 21:36:45,428 INFO Collection for Colima carteles was created
+2025-04-20 21:36:45,522 INFO Inserted 100 new videos into collection Colima carteles
+2025-04-20 21:36:45,567 WARNING No videos found for keyword Colima corrupción
+2025-04-20 21:36:46,381 WARNING Removed 1 duplicates from entries
+2025-04-20 21:36:46,426 INFO Collection for keyword Colima corrupción was not found in db. Creating...
+2025-04-20 21:36:46,528 INFO Collection for Colima corrupción was created
+2025-04-20 21:36:46,587 INFO Inserted 99 new videos into collection Colima corrupción
+2025-04-20 21:36:46,635 WARNING No videos found for keyword Colima sin trabajo
+2025-04-20 21:36:47,939 WARNING Removed 0 duplicates from entries
+2025-04-20 21:36:47,985 INFO Collection for keyword Colima sin trabajo was not found in db. Creating...
+2025-04-20 21:36:48,084 INFO Collection for Colima sin trabajo was created
+2025-04-20 21:36:48,134 INFO Inserted 100 new videos into collection Colima sin trabajo
+2025-04-20 21:46:00,362 WARNING No videos found for keyword Jalisco pobreza
+2025-04-20 21:46:01,313 WARNING Removed 4 duplicates from entries
+2025-04-20 21:46:01,364 INFO Collection for keyword Jalisco pobreza was not found in db. Creating...
+2025-04-20 21:46:01,478 INFO Collection for Jalisco pobreza was created
+2025-04-20 21:46:01,624 INFO Inserted 96 new videos into collection Jalisco pobreza
+2025-04-20 21:46:01,670 WARNING No videos found for keyword Jalisco crisis
+2025-04-20 21:46:02,459 WARNING Removed 1 duplicates from entries
+2025-04-20 21:46:02,505 INFO Collection for keyword Jalisco crisis was not found in db. Creating...
+2025-04-20 21:46:02,612 INFO Collection for Jalisco crisis was created
+2025-04-20 21:46:02,701 INFO Inserted 99 new videos into collection Jalisco crisis
+2025-04-20 21:46:02,743 WARNING No videos found for keyword Jalisco problemas sociales
+2025-04-20 21:46:03,443 WARNING Removed 1 duplicates from entries
+2025-04-20 21:46:03,490 INFO Collection for keyword Jalisco problemas sociales was not found in db. Creating...
+2025-04-20 21:46:03,592 INFO Collection for Jalisco problemas sociales was created
+2025-04-20 21:46:03,641 INFO Inserted 99 new videos into collection Jalisco problemas sociales
+2025-04-20 21:46:03,694 WARNING No videos found for keyword Jalisco desempleo
+2025-04-20 21:46:04,509 WARNING Removed 0 duplicates from entries
+2025-04-20 21:46:04,556 INFO Collection for keyword Jalisco desempleo was not found in db. Creating...
+2025-04-20 21:46:04,660 INFO Collection for Jalisco desempleo was created
+2025-04-20 21:46:04,711 INFO Inserted 100 new videos into collection Jalisco desempleo
+2025-04-20 21:46:04,887 WARNING No videos found for keyword Jalisco salud
+2025-04-20 21:46:05,789 WARNING Removed 0 duplicates from entries
+2025-04-20 21:46:05,834 INFO Collection for keyword Jalisco salud was not found in db. Creating...
+2025-04-20 21:46:05,936 INFO Collection for Jalisco salud was created
+2025-04-20 21:46:05,984 INFO Inserted 100 new videos into collection Jalisco salud
+2025-04-20 21:46:06,028 WARNING No videos found for keyword Jalisco educación
+2025-04-20 21:46:06,817 WARNING Removed 1 duplicates from entries
+2025-04-20 21:46:06,866 INFO Collection for keyword Jalisco educación was not found in db. Creating...
+2025-04-20 21:46:06,969 INFO Collection for Jalisco educación was created
+2025-04-20 21:46:07,018 INFO Inserted 99 new videos into collection Jalisco educación
+2025-04-20 21:46:07,062 WARNING No videos found for keyword Jalisco vivienda
+2025-04-20 21:46:07,902 WARNING Removed 3 duplicates from entries
+2025-04-20 21:46:07,950 INFO Collection for keyword Jalisco vivienda was not found in db. Creating...
+2025-04-20 21:46:08,057 INFO Collection for Jalisco vivienda was created
+2025-04-20 21:46:08,104 INFO Inserted 97 new videos into collection Jalisco vivienda
+2025-04-20 21:46:08,148 WARNING No videos found for keyword Jalisco sin agua
+2025-04-20 21:46:08,865 WARNING Removed 0 duplicates from entries
+2025-04-20 21:46:08,911 INFO Collection for keyword Jalisco sin agua was not found in db. Creating...
+2025-04-20 21:46:09,011 INFO Collection for Jalisco sin agua was created
+2025-04-20 21:46:09,059 INFO Inserted 100 new videos into collection Jalisco sin agua
+2025-04-20 21:46:09,102 WARNING No videos found for keyword Jalisco hambre
+2025-04-20 21:46:09,968 WARNING Removed 3 duplicates from entries
+2025-04-20 21:46:10,014 INFO Collection for keyword Jalisco hambre was not found in db. Creating...
+2025-04-20 21:46:10,115 INFO Collection for Jalisco hambre was created
+2025-04-20 21:46:10,165 INFO Inserted 97 new videos into collection Jalisco hambre
+2025-04-20 21:46:10,216 WARNING No videos found for keyword Jalisco delincuencia
+2025-04-20 21:46:10,960 WARNING Removed 0 duplicates from entries
+2025-04-20 21:46:11,006 INFO Collection for keyword Jalisco delincuencia was not found in db. Creating...
+2025-04-20 21:46:11,111 INFO Collection for Jalisco delincuencia was created
+2025-04-20 21:46:11,164 INFO Inserted 100 new videos into collection Jalisco delincuencia
+2025-04-20 21:46:11,211 WARNING No videos found for keyword Jalisco violencia
+2025-04-20 21:46:12,141 WARNING Removed 1 duplicates from entries
+2025-04-20 21:46:12,188 INFO Collection for keyword Jalisco violencia was not found in db. Creating...
+2025-04-20 21:46:12,292 INFO Collection for Jalisco violencia was created
+2025-04-20 21:46:12,345 INFO Inserted 99 new videos into collection Jalisco violencia
+2025-04-20 21:46:12,390 WARNING No videos found for keyword Jalisco carteles
+2025-04-20 21:46:13,368 WARNING Removed 1 duplicates from entries
+2025-04-20 21:46:13,411 INFO Collection for keyword Jalisco carteles was not found in db. Creating...
+2025-04-20 21:46:13,508 INFO Collection for Jalisco carteles was created
+2025-04-20 21:46:13,555 INFO Inserted 99 new videos into collection Jalisco carteles
+2025-04-20 21:46:13,598 WARNING No videos found for keyword Jalisco corrupción
+2025-04-20 21:46:14,450 WARNING Removed 0 duplicates from entries
+2025-04-20 21:46:14,501 INFO Collection for keyword Jalisco corrupción was not found in db. Creating...
+2025-04-20 21:46:14,601 INFO Collection for Jalisco corrupción was created
+2025-04-20 21:46:14,654 INFO Inserted 100 new videos into collection Jalisco corrupción
+2025-04-20 21:46:14,699 WARNING No videos found for keyword Jalisco sin trabajo
+2025-04-20 21:46:15,625 WARNING Removed 0 duplicates from entries
+2025-04-20 21:46:15,673 INFO Collection for keyword Jalisco sin trabajo was not found in db. Creating...
+2025-04-20 21:46:15,778 INFO Collection for Jalisco sin trabajo was created
+2025-04-20 21:46:15,829 INFO Inserted 100 new videos into collection Jalisco sin trabajo
+2025-04-20 21:50:08,204 WARNING Logger Mongo was configured with True console stream
+2025-04-20 21:50:08,496 INFO Connected to thesis database on 206.81.16.39

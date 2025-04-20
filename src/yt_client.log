@@ -729,3 +729,218 @@
 2025-04-19 17:14:09,848 INFO Got 100 videos for Tamaulipas corrupción
 2025-04-19 17:14:10,463 INFO Got 50 videos for Tamaulipas sin trabajo
 2025-04-19 17:14:11,077 INFO Got 100 videos for Tamaulipas sin trabajo
+2025-04-20 20:50:59,499 WARNING Logger yt_client was configured with True console stream
+2025-04-20 20:50:59,643 INFO Got 99 videos for Tamaulipas pobreza from mongo
+2025-04-20 20:50:59,693 INFO Got 100 videos for Tamaulipas crisis from mongo
+2025-04-20 20:50:59,743 INFO Got 99 videos for Tamaulipas problemas sociales from mongo
+2025-04-20 20:50:59,793 INFO Got 100 videos for Tamaulipas desempleo from mongo
+2025-04-20 20:50:59,840 INFO Got 100 videos for Tamaulipas inseguridad from mongo
+2025-04-20 20:50:59,902 INFO Got 98 videos for Tamaulipas salud from mongo
+2025-04-20 20:50:59,949 INFO Got 100 videos for Tamaulipas educación from mongo
+2025-04-20 20:50:59,996 INFO Got 100 videos for Tamaulipas vivienda from mongo
+2025-04-20 20:51:00,046 INFO Got 94 videos for Tamaulipas sin agua from mongo
+2025-04-20 20:51:00,092 INFO Got 98 videos for Tamaulipas hambre from mongo
+2025-04-20 20:51:00,139 INFO Got 99 videos for Tamaulipas delincuencia from mongo
+2025-04-20 20:51:00,186 INFO Got 100 videos for Tamaulipas violencia from mongo
+2025-04-20 20:51:00,233 INFO Got 95 videos for Tamaulipas carteles from mongo
+2025-04-20 20:51:00,280 INFO Got 99 videos for Tamaulipas corrupción from mongo
+2025-04-20 20:51:00,327 INFO Got 98 videos for Tamaulipas sin trabajo from mongo
+2025-04-20 21:06:19,182 INFO Got 50 videos for Baja California pobreza
+2025-04-20 21:06:19,693 INFO Got 100 videos for Baja California pobreza
+2025-04-20 21:06:20,444 INFO Got 50 videos for Baja California crisis
+2025-04-20 21:06:20,886 INFO Got 100 videos for Baja California crisis
+2025-04-20 21:06:21,663 INFO Got 50 videos for Baja California problemas sociales
+2025-04-20 21:06:22,177 INFO Got 100 videos for Baja California problemas sociales
+2025-04-20 21:06:22,869 INFO Got 50 videos for Baja California desempleo
+2025-04-20 21:06:23,323 INFO Got 100 videos for Baja California desempleo
+2025-04-20 21:06:24,007 INFO Got 50 videos for Baja California inseguridad
+2025-04-20 21:06:24,456 INFO Got 100 videos for Baja California inseguridad
+2025-04-20 21:06:25,015 INFO Got 50 videos for Baja California salud
+2025-04-20 21:06:25,428 INFO Got 100 videos for Baja California salud
+2025-04-20 21:06:26,144 INFO Got 50 videos for Baja California educación
+2025-04-20 21:06:26,549 INFO Got 100 videos for Baja California educación
+2025-04-20 21:06:27,202 INFO Got 50 videos for Baja California vivienda
+2025-04-20 21:06:27,605 INFO Got 100 videos for Baja California vivienda
+2025-04-20 21:06:28,295 INFO Got 50 videos for Baja California sin agua
+2025-04-20 21:06:28,761 INFO Got 100 videos for Baja California sin agua
+2025-04-20 21:06:29,523 INFO Got 50 videos for Baja California hambre
+2025-04-20 21:06:29,933 INFO Got 100 videos for Baja California hambre
+2025-04-20 21:06:30,630 INFO Got 50 videos for Baja California delincuencia
+2025-04-20 21:06:31,056 INFO Got 100 videos for Baja California delincuencia
+2025-04-20 21:06:31,707 INFO Got 50 videos for Baja California violencia
+2025-04-20 21:06:32,125 INFO Got 100 videos for Baja California violencia
+2025-04-20 21:06:32,777 INFO Got 50 videos for Baja California carteles
+2025-04-20 21:06:33,114 INFO Got 100 videos for Baja California carteles
+2025-04-20 21:06:33,828 INFO Got 50 videos for Baja California corrupción
+2025-04-20 21:06:34,109 INFO Got 100 videos for Baja California corrupción
+2025-04-20 21:06:34,642 INFO Got 50 videos for Baja California sin trabajo
+2025-04-20 21:06:35,054 INFO Got 100 videos for Baja California sin trabajo
+2025-04-20 21:06:35,770 INFO Got 50 videos for Zacatecas pobreza
+2025-04-20 21:06:36,180 INFO Got 100 videos for Zacatecas pobreza
+2025-04-20 21:06:36,827 INFO Got 50 videos for Zacatecas crisis
+2025-04-20 21:06:37,237 INFO Got 100 videos for Zacatecas crisis
+2025-04-20 21:06:37,860 INFO Got 50 videos for Zacatecas problemas sociales
+2025-04-20 21:06:38,325 INFO Got 100 videos for Zacatecas problemas sociales
+2025-04-20 21:06:38,945 INFO Got 50 videos for Zacatecas desempleo
+2025-04-20 21:06:39,309 INFO Got 100 videos for Zacatecas desempleo
+2025-04-20 21:06:39,970 INFO Got 50 videos for Zacatecas inseguridad
+2025-04-20 21:06:40,481 INFO Got 100 videos for Zacatecas inseguridad
+2025-04-20 21:06:41,105 INFO Got 50 videos for Zacatecas salud
+2025-04-20 21:06:41,503 INFO Got 100 videos for Zacatecas salud
+2025-04-20 21:06:42,146 INFO Got 50 videos for Zacatecas educación
+2025-04-20 21:06:42,424 INFO Got 100 videos for Zacatecas educación
+2025-04-20 21:06:43,024 INFO Got 50 videos for Zacatecas vivienda
+2025-04-20 21:06:43,838 INFO Got 100 videos for Zacatecas vivienda
+2025-04-20 21:06:44,681 INFO Got 50 videos for Zacatecas sin agua
+2025-04-20 21:06:45,092 INFO Got 100 videos for Zacatecas sin agua
+2025-04-20 21:06:45,805 INFO Got 50 videos for Zacatecas hambre
+2025-04-20 21:06:46,113 INFO Got 100 videos for Zacatecas hambre
+2025-04-20 21:06:46,740 INFO Got 50 videos for Zacatecas delincuencia
+2025-04-20 21:06:47,226 INFO Got 100 videos for Zacatecas delincuencia
+2025-04-20 21:06:47,951 INFO Got 50 videos for Zacatecas violencia
+2025-04-20 21:06:48,468 INFO Got 100 videos for Zacatecas violencia
+2025-04-20 21:06:49,082 INFO Got 50 videos for Zacatecas carteles
+2025-04-20 21:06:49,364 INFO Got 100 videos for Zacatecas carteles
+2025-04-20 21:06:49,900 INFO Got 50 videos for Zacatecas corrupción
+2025-04-20 21:06:50,163 INFO Got 100 videos for Zacatecas corrupción
+2025-04-20 21:06:50,924 INFO Got 50 videos for Zacatecas sin trabajo
+2025-04-20 21:06:51,289 INFO Got 100 videos for Zacatecas sin trabajo
+2025-04-20 21:06:52,051 INFO Got 50 videos for Colima pobreza
+2025-04-20 21:06:52,421 INFO Got 100 videos for Colima pobreza
+2025-04-20 21:06:53,078 INFO Got 50 videos for Colima crisis
+2025-04-20 21:06:53,486 INFO Got 100 videos for Colima crisis
+2025-04-20 21:06:54,125 INFO Got 50 videos for Colima problemas sociales
+2025-04-20 21:06:54,715 INFO Got 100 videos for Colima problemas sociales
+2025-04-20 21:06:55,179 INFO Got 50 videos for Colima desempleo
+2025-04-20 21:06:55,532 INFO Got 100 videos for Colima desempleo
+2025-04-20 21:06:56,251 INFO Got 50 videos for Colima inseguridad
+2025-04-20 21:06:56,761 INFO Got 100 videos for Colima inseguridad
+2025-04-20 21:06:57,420 INFO Got 50 videos for Colima salud
+2025-04-20 21:06:57,693 INFO Got 100 videos for Colima salud
+2025-04-20 21:06:58,215 INFO Got 50 videos for Colima educación
+2025-04-20 21:06:58,595 INFO Got 100 videos for Colima educación
+2025-04-20 21:06:59,397 INFO Got 50 videos for Colima vivienda
+2025-04-20 21:06:59,722 INFO Got 100 videos for Colima vivienda
+2025-04-20 21:07:00,450 INFO Got 50 videos for Colima sin agua
+2025-04-20 21:07:00,858 INFO Got 100 videos for Colima sin agua
+2025-04-20 21:07:01,398 INFO Got 50 videos for Colima hambre
+2025-04-20 21:07:01,846 INFO Got 100 videos for Colima hambre
+2025-04-20 21:07:02,655 INFO Got 50 videos for Colima delincuencia
+2025-04-20 21:07:02,964 INFO Got 100 videos for Colima delincuencia
+2025-04-20 21:07:03,381 ERROR Error getting videos by keyword Colima violencia: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Colima+violencia&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:03,476 ERROR Error getting videos by keyword Colima carteles: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Colima+carteles&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:03,571 ERROR Error getting videos by keyword Colima corrupción: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Colima+corrupci%C3%B3n&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:03,776 ERROR Error getting videos by keyword Colima sin trabajo: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Colima+sin+trabajo&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:03,879 ERROR Error getting videos by keyword Jalisco pobreza: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+pobreza&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:03,971 ERROR Error getting videos by keyword Jalisco crisis: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+crisis&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:04,061 ERROR Error getting videos by keyword Jalisco problemas sociales: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+problemas+sociales&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:04,156 ERROR Error getting videos by keyword Jalisco desempleo: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+desempleo&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:04,647 INFO Got 50 videos for Jalisco inseguridad
+2025-04-20 21:07:04,921 INFO Got 100 videos for Jalisco inseguridad
+2025-04-20 21:07:05,570 INFO Got 50 videos for Jalisco salud
+2025-04-20 21:07:05,632 ERROR Error getting videos by keyword Jalisco salud: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+salud&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&pageToken=CDIQAA&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:05,977 INFO Got 50 videos for Jalisco educación
+2025-04-20 21:07:06,026 ERROR Error getting videos by keyword Jalisco educación: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+educaci%C3%B3n&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&pageToken=CDIQAA&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:06,140 ERROR Error getting videos by keyword Jalisco vivienda: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+vivienda&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:06,234 ERROR Error getting videos by keyword Jalisco sin agua: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+sin+agua&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:06,326 ERROR Error getting videos by keyword Jalisco hambre: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+hambre&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:06,420 ERROR Error getting videos by keyword Jalisco delincuencia: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+delincuencia&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:06,509 ERROR Error getting videos by keyword Jalisco violencia: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+violencia&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:06,601 ERROR Error getting videos by keyword Jalisco carteles: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+carteles&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:06,692 ERROR Error getting videos by keyword Jalisco corrupción: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+corrupci%C3%B3n&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:07:06,783 ERROR Error getting videos by keyword Jalisco sin trabajo: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+sin+trabajo&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-20 21:08:36,907 WARNING Logger yt_client was configured with True console stream
+2025-04-20 21:08:37,047 INFO Got 95 videos for Baja California pobreza from mongo
+2025-04-20 21:08:37,095 INFO Got 100 videos for Baja California crisis from mongo
+2025-04-20 21:08:37,196 INFO Got 97 videos for Baja California problemas sociales from mongo
+2025-04-20 21:08:37,244 INFO Got 100 videos for Baja California desempleo from mongo
+2025-04-20 21:08:37,290 INFO Got 97 videos for Baja California inseguridad from mongo
+2025-04-20 21:08:37,339 INFO Got 100 videos for Baja California salud from mongo
+2025-04-20 21:08:37,385 INFO Got 96 videos for Baja California educación from mongo
+2025-04-20 21:08:37,432 INFO Got 100 videos for Baja California vivienda from mongo
+2025-04-20 21:08:37,478 INFO Got 100 videos for Baja California sin agua from mongo
+2025-04-20 21:08:37,523 INFO Got 99 videos for Baja California hambre from mongo
+2025-04-20 21:08:37,572 INFO Got 99 videos for Baja California delincuencia from mongo
+2025-04-20 21:08:37,617 INFO Got 98 videos for Baja California violencia from mongo
+2025-04-20 21:08:37,663 INFO Got 100 videos for Baja California carteles from mongo
+2025-04-20 21:08:37,708 INFO Got 99 videos for Baja California corrupción from mongo
+2025-04-20 21:08:37,755 INFO Got 100 videos for Baja California sin trabajo from mongo
+2025-04-20 21:21:27,252 INFO Got 97 videos for Zacatecas pobreza from mongo
+2025-04-20 21:21:27,341 INFO Got 100 videos for Zacatecas crisis from mongo
+2025-04-20 21:21:27,388 INFO Got 100 videos for Zacatecas problemas sociales from mongo
+2025-04-20 21:21:27,437 INFO Got 99 videos for Zacatecas desempleo from mongo
+2025-04-20 21:21:27,485 INFO Got 98 videos for Zacatecas inseguridad from mongo
+2025-04-20 21:21:27,534 INFO Got 100 videos for Zacatecas salud from mongo
+2025-04-20 21:21:27,584 INFO Got 100 videos for Zacatecas educación from mongo
+2025-04-20 21:21:27,632 INFO Got 100 videos for Zacatecas vivienda from mongo
+2025-04-20 21:21:27,680 INFO Got 100 videos for Zacatecas sin agua from mongo
+2025-04-20 21:21:27,734 INFO Got 99 videos for Zacatecas hambre from mongo
+2025-04-20 21:21:27,787 INFO Got 100 videos for Zacatecas delincuencia from mongo
+2025-04-20 21:21:27,838 INFO Got 98 videos for Zacatecas violencia from mongo
+2025-04-20 21:21:27,886 INFO Got 99 videos for Zacatecas carteles from mongo
+2025-04-20 21:21:27,931 INFO Got 100 videos for Zacatecas corrupción from mongo
+2025-04-20 21:21:27,977 INFO Got 100 videos for Zacatecas sin trabajo from mongo
+2025-04-20 21:36:42,406 INFO Got 100 videos for Colima pobreza from mongo
+2025-04-20 21:36:42,455 INFO Got 100 videos for Colima crisis from mongo
+2025-04-20 21:36:42,501 INFO Got 100 videos for Colima problemas sociales from mongo
+2025-04-20 21:36:42,548 INFO Got 100 videos for Colima desempleo from mongo
+2025-04-20 21:36:42,596 INFO Got 100 videos for Colima inseguridad from mongo
+2025-04-20 21:36:42,644 INFO Got 100 videos for Colima salud from mongo
+2025-04-20 21:36:42,692 INFO Got 100 videos for Colima educación from mongo
+2025-04-20 21:36:42,740 INFO Got 100 videos for Colima vivienda from mongo
+2025-04-20 21:36:42,797 INFO Got 100 videos for Colima sin agua from mongo
+2025-04-20 21:36:42,846 INFO Got 99 videos for Colima hambre from mongo
+2025-04-20 21:36:42,896 INFO Got 100 videos for Colima delincuencia from mongo
+2025-04-20 21:36:43,428 INFO Got 50 videos for Colima violencia
+2025-04-20 21:36:43,999 INFO Got 100 videos for Colima violencia
+2025-04-20 21:36:44,775 INFO Got 50 videos for Colima carteles
+2025-04-20 21:36:45,282 INFO Got 100 videos for Colima carteles
+2025-04-20 21:36:45,968 INFO Got 50 videos for Colima corrupción
+2025-04-20 21:36:46,380 INFO Got 100 videos for Colima corrupción
+2025-04-20 21:36:47,305 INFO Got 50 videos for Colima sin trabajo
+2025-04-20 21:36:47,938 INFO Got 100 videos for Colima sin trabajo
+2025-04-20 21:46:00,849 INFO Got 50 videos for Jalisco pobreza
+2025-04-20 21:46:01,310 INFO Got 100 videos for Jalisco pobreza
+2025-04-20 21:46:02,190 INFO Got 50 videos for Jalisco crisis
+2025-04-20 21:46:02,459 INFO Got 100 videos for Jalisco crisis
+2025-04-20 21:46:03,176 INFO Got 50 videos for Jalisco problemas sociales
+2025-04-20 21:46:03,442 INFO Got 100 videos for Jalisco problemas sociales
+2025-04-20 21:46:04,035 INFO Got 50 videos for Jalisco desempleo
+2025-04-20 21:46:04,507 INFO Got 100 videos for Jalisco desempleo
+2025-04-20 21:46:04,842 INFO Got 100 videos for Jalisco inseguridad from mongo
+2025-04-20 21:46:05,384 INFO Got 50 videos for Jalisco salud
+2025-04-20 21:46:05,789 INFO Got 100 videos for Jalisco salud
+2025-04-20 21:46:06,508 INFO Got 50 videos for Jalisco educación
+2025-04-20 21:46:06,815 INFO Got 100 videos for Jalisco educación
+2025-04-20 21:46:07,530 INFO Got 50 videos for Jalisco vivienda
+2025-04-20 21:46:07,900 INFO Got 100 videos for Jalisco vivienda
+2025-04-20 21:46:08,397 INFO Got 50 videos for Jalisco sin agua
+2025-04-20 21:46:08,863 INFO Got 100 videos for Jalisco sin agua
+2025-04-20 21:46:09,541 INFO Got 50 videos for Jalisco hambre
+2025-04-20 21:46:09,967 INFO Got 100 videos for Jalisco hambre
+2025-04-20 21:46:10,644 INFO Got 50 videos for Jalisco delincuencia
+2025-04-20 21:46:10,959 INFO Got 100 videos for Jalisco delincuencia
+2025-04-20 21:46:11,730 INFO Got 50 videos for Jalisco violencia
+2025-04-20 21:46:12,139 INFO Got 100 videos for Jalisco violencia
+2025-04-20 21:46:12,857 INFO Got 50 videos for Jalisco carteles
+2025-04-20 21:46:13,367 INFO Got 100 videos for Jalisco carteles
+2025-04-20 21:46:14,009 INFO Got 50 videos for Jalisco corrupción
+2025-04-20 21:46:14,446 INFO Got 100 videos for Jalisco corrupción
+2025-04-20 21:46:15,212 INFO Got 50 videos for Jalisco sin trabajo
+2025-04-20 21:46:15,623 INFO Got 100 videos for Jalisco sin trabajo
+2025-04-20 21:50:08,497 WARNING Logger yt_client was configured with True console stream
+2025-04-20 21:50:08,614 INFO Got 96 videos for Jalisco pobreza from mongo
+2025-04-20 21:50:08,654 INFO Got 99 videos for Jalisco crisis from mongo
+2025-04-20 21:50:08,694 INFO Got 99 videos for Jalisco problemas sociales from mongo
+2025-04-20 21:50:08,736 INFO Got 100 videos for Jalisco desempleo from mongo
+2025-04-20 21:50:08,776 INFO Got 100 videos for Jalisco inseguridad from mongo
+2025-04-20 21:50:08,820 INFO Got 100 videos for Jalisco salud from mongo
+2025-04-20 21:50:08,861 INFO Got 99 videos for Jalisco educación from mongo
+2025-04-20 21:50:08,902 INFO Got 97 videos for Jalisco vivienda from mongo
+2025-04-20 21:50:08,942 INFO Got 100 videos for Jalisco sin agua from mongo
+2025-04-20 21:50:08,982 INFO Got 97 videos for Jalisco hambre from mongo
+2025-04-20 21:50:09,023 INFO Got 100 videos for Jalisco delincuencia from mongo
+2025-04-20 21:50:09,063 INFO Got 99 videos for Jalisco violencia from mongo
+2025-04-20 21:50:09,104 INFO Got 99 videos for Jalisco carteles from mongo
+2025-04-20 21:50:09,143 INFO Got 100 videos for Jalisco corrupción from mongo
+2025-04-20 21:50:09,183 INFO Got 100 videos for Jalisco sin trabajo from mongo
