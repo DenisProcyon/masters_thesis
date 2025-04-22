@@ -944,3 +944,51 @@
 2025-04-20 21:50:09,104 INFO Got 99 videos for Jalisco carteles from mongo
 2025-04-20 21:50:09,143 INFO Got 100 videos for Jalisco corrupción from mongo
 2025-04-20 21:50:09,183 INFO Got 100 videos for Jalisco sin trabajo from mongo
+2025-04-22 11:01:49,904 WARNING Logger yt_client was configured with True console stream
+2025-04-22 11:01:50,082 INFO Got 95 videos for Baja California pobreza from mongo
+2025-04-22 11:01:50,200 INFO Got 100 videos for Baja California crisis from mongo
+2025-04-22 11:01:50,263 INFO Got 97 videos for Baja California problemas sociales from mongo
+2025-04-22 11:01:50,325 INFO Got 100 videos for Baja California desempleo from mongo
+2025-04-22 11:01:50,385 INFO Got 97 videos for Baja California inseguridad from mongo
+2025-04-22 11:01:50,447 INFO Got 100 videos for Baja California salud from mongo
+2025-04-22 11:01:50,507 INFO Got 96 videos for Baja California educación from mongo
+2025-04-22 11:01:50,566 INFO Got 100 videos for Baja California vivienda from mongo
+2025-04-22 11:01:50,723 INFO Got 100 videos for Baja California sin agua from mongo
+2025-04-22 11:01:50,785 INFO Got 99 videos for Baja California hambre from mongo
+2025-04-22 11:01:50,845 INFO Got 99 videos for Baja California delincuencia from mongo
+2025-04-22 11:01:50,904 INFO Got 98 videos for Baja California violencia from mongo
+2025-04-22 11:01:50,969 INFO Got 100 videos for Baja California carteles from mongo
+2025-04-22 11:01:51,032 INFO Got 99 videos for Baja California corrupción from mongo
+2025-04-22 11:01:51,090 INFO Got 100 videos for Baja California sin trabajo from mongo
+2025-04-22 11:16:27,366 WARNING Logger yt_client was configured with True console stream
+2025-04-22 11:16:27,842 INFO Got 95 videos for Baja California pobreza from mongo
+2025-04-22 11:16:28,956 INFO Got 100 videos for Baja California crisis from mongo
+2025-04-22 11:16:29,028 INFO Got 97 videos for Baja California problemas sociales from mongo
+2025-04-22 11:16:29,131 INFO Got 100 videos for Baja California desempleo from mongo
+2025-04-22 11:16:29,288 INFO Got 97 videos for Baja California inseguridad from mongo
+2025-04-22 11:16:29,435 INFO Got 100 videos for Baja California salud from mongo
+2025-04-22 11:16:29,496 INFO Got 96 videos for Baja California educación from mongo
+2025-04-22 11:16:29,577 INFO Got 100 videos for Baja California vivienda from mongo
+2025-04-22 11:16:29,652 INFO Got 100 videos for Baja California sin agua from mongo
+2025-04-22 11:16:29,809 INFO Got 99 videos for Baja California hambre from mongo
+2025-04-22 11:16:30,047 INFO Got 99 videos for Baja California delincuencia from mongo
+2025-04-22 11:16:30,124 INFO Got 98 videos for Baja California violencia from mongo
+2025-04-22 11:16:30,199 INFO Got 100 videos for Baja California carteles from mongo
+2025-04-22 11:16:30,378 INFO Got 99 videos for Baja California corrupción from mongo
+2025-04-22 11:16:30,453 INFO Got 100 videos for Baja California sin trabajo from mongo
+2025-04-22 13:16:08,022 WARNING Logger yt_client was configured with True console stream
+2025-04-22 13:16:08,226 INFO Got 99 videos for Sinaloa pobreza from mongo
+2025-04-22 13:16:08,286 INFO Got 99 videos for Sinaloa crisis from mongo
+2025-04-22 13:16:08,345 INFO Got 97 videos for Sinaloa problemas sociales from mongo
+2025-04-22 13:16:08,406 INFO Got 99 videos for Sinaloa desempleo from mongo
+2025-04-22 13:16:08,464 INFO Got 100 videos for Sinaloa inseguridad from mongo
+2025-04-22 13:16:08,522 INFO Got 98 videos for Sinaloa salud from mongo
+2025-04-22 13:16:08,585 INFO Got 100 videos for Sinaloa educación from mongo
+2025-04-22 13:16:08,644 INFO Got 98 videos for Sinaloa vivienda from mongo
+2025-04-22 13:16:08,753 INFO Got 96 videos for Sinaloa sin agua from mongo
+2025-04-22 13:16:08,813 INFO Got 100 videos for Sinaloa hambre from mongo
+2025-04-22 13:16:08,873 INFO Got 100 videos for Sinaloa delincuencia from mongo
+2025-04-22 13:16:08,932 INFO Got 97 videos for Sinaloa violencia from mongo
+2025-04-22 13:16:08,991 INFO Got 98 videos for Sinaloa carteles from mongo
+2025-04-22 13:16:09,053 INFO Got 95 videos for Sinaloa corrupción from mongo
+2025-04-22 13:16:09,113 INFO Got 98 videos for Sinaloa sin trabajo from mongo
