@@ -1,84 +1,14 @@
 Top 10 words for INCOME:
-  pobreza: 167
-  desempleo: 115
-  méxico: 70
-  mexico: 66
-  crisis: 65
-  país: 62
-  mexicanos: 59
-  trabajo: 58
-  gente: 53
-  unidos: 46
 
 Top 10 words for ACCESS TO HEALTH SERVICES:
-  enfermedad: 45
-  trabajo: 21
-  agua: 19
-  años: 14
-  seguro: 13
-  personas: 10
-  caso: 10
-  social: 9
-  vida: 8
-  políticos: 8
 
 Top 10 words for EDUCATIONAL LAG:
-  narcotráfico: 9
-  méxico: 5
-  presunto: 5
-  problema: 4
-  abordar: 4
-  maestros: 3
-  ninis: 3
-  derechos: 3
-  humanos: 3
-  enfoque: 3
 
 Top 10 words for ACCESS TO SOCIAL SECURITY:
-  seguro: 11
-  social: 5
-  años: 5
-  explotación: 4
-  año: 4
-  trabajo: 4
-  falta: 3
-  prestaciones: 3
-  trabajando: 3
-  meses: 3
 
 Top 10 words for HOUSING:
-  agua: 36
-  casas: 9
-  inundaciones: 9
-  mar: 8
-  luz: 6
-  captación: 6
-  abandonadas: 5
-  gastar: 5
-  mundo: 5
-  california: 4
 
 Top 10 words for ACCESS TO FOOD:
-  hambre: 87
-  vida: 29
-  cosa: 21
-  agua: 18
-  andan: 15
-  ando: 15
-  cosas: 15
-  puro: 15
-  loco: 14
-  escasez: 13
 
 Top 10 words for SOCIAL COHESION:
-  racismo: 26
-  gente: 24
-  discriminación: 16
-  conflicto: 15
-  cabos: 13
-  presidente: 10
-  trabajo: 10
-  familia: 10
-  personas: 10
-  méxico: 9
 

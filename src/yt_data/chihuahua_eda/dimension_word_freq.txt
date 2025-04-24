@@ -1,0 +1,84 @@
+Top 10 words for INCOME:
+  inflación: 79
+  méxico: 61
+  crisis: 55
+  pobreza: 53
+  gobierno: 44
+  presidente: 39
+  mexicanos: 35
+  mexico: 32
+  país: 28
+  amlo: 28
+
+Top 10 words for ACCESS TO HEALTH SERVICES:
+  enfermedad: 278
+  tratamiento: 71
+  perro: 67
+  veterinario: 52
+  gracias: 49
+  perrito: 45
+  años: 44
+  perrita: 37
+  hola: 27
+  meses: 24
+
+Top 10 words for EDUCATIONAL LAG:
+  clases: 22
+  mañana: 19
+  maestra: 4
+  loquísimos: 3
+  corriendo: 3
+  groseria: 2
+  clase: 2
+  gritando: 2
+  salen: 2
+  compañero: 2
+
+Top 10 words for ACCESS TO SOCIAL SECURITY:
+  ley: 11
+  méxico: 9
+  país: 8
+  unidos: 7
+  derecho: 7
+  leyes: 6
+  trabajadores: 6
+  empresas: 6
+  mexicanos: 6
+  guerra: 6
+
+Top 10 words for HOUSING:
+  enteró: 6
+  casas: 6
+  abandonadas: 5
+  inundaciones: 4
+  calle: 4
+  luz: 3
+  años: 3
+  españa: 3
+  vergüenza: 3
+  gata: 3
+
+Top 10 words for ACCESS TO FOOD:
+  hambre: 50
+  gato: 13
+  amy: 13
+  perra: 12
+  perro: 12
+  comida: 12
+  shadow: 11
+  come: 9
+  mundo: 8
+  dios: 8
+
+Top 10 words for SOCIAL COHESION:
+  gata: 13
+  conflicto: 10
+  desconfianza: 8
+  planta: 8
+  perrita: 8
+  azovstal: 7
+  cama: 7
+  presidente: 6
+  años: 6
+  pieza: 6
+

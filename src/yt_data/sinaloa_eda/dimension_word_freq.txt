@@ -1,84 +1,84 @@
 Top 10 words for INCOME:
-  pobreza: 146
-  méxico: 103
-  gobierno: 96
-  vida: 89
-  país: 88
-  pueblo: 82
-  mexicanos: 81
-  vas: 78
-  gente: 77
-  crisis: 75
+  pobreza: 66
+  inflación: 59
+  méxico: 48
+  mexicanos: 43
+  años: 39
+  amlo: 36
+  gobierno: 34
+  trabajo: 32
+  dinero: 31
+  país: 29
 
 Top 10 words for ACCESS TO HEALTH SERVICES:
-  enfermedad: 79
-  vas: 58
-  hagas: 57
-  familia: 49
-  vida: 45
-  personas: 44
-  dios: 41
-  hice: 36
-  esperas: 32
-  pobreza: 25
+  enfermedad: 56
+  dios: 22
+  personas: 12
+  medicinas: 11
+  familia: 10
+  literalmente: 9
+  ignoran: 9
+  mensaje: 9
+  esperas: 9
+  imss: 9
 
 Top 10 words for EDUCATIONAL LAG:
-  narcotráfico: 9
-  méxico: 7
-  problema: 7
-  combatir: 4
-  analfabetismo: 4
-  educación: 4
-  abordar: 4
-  gringos: 4
-  país: 3
-  adicciones: 3
+  mañana: 6
+  clases: 5
+  jajajaja: 4
+  diciembre: 3
+  bonito: 2
+  niño: 2
+  educación: 2
+  delincuentes: 2
+  general: 2
+  portillo: 2
 
 Top 10 words for ACCESS TO SOCIAL SECURITY:
-  mundialll: 41
-  derechos: 21
-  países: 18
-  etc: 16
-  país: 14
-  salud: 14
-  vida: 14
-  agua: 13
-  explotación: 12
-  educación: 12
+  informal: 8
+  paz: 7
+  guerra: 7
+  explotación: 6
+  mexico: 6
+  país: 5
+  tigre: 5
+  fallido: 5
+  laboral: 4
+  peje: 4
 
 Top 10 words for HOUSING:
-  agua: 98
-  ipsofacto: 42
-  impiosqna: 30
-  sdhpsism: 30
-  inicuosqna: 22
-  dios: 22
-  celestial: 20
-  amlo: 19
-  inundaciones: 17
-  mexicanos: 15
+  agua: 9
+  casas: 8
+  abandonadas: 8
+  gente: 4
+  favor: 4
+  luz: 4
+  casa: 4
+  calle: 4
+  méxico: 3
+  tanta: 3
 
 Top 10 words for ACCESS TO FOOD:
-  hambre: 206
-  vida: 53
-  gente: 52
-  agua: 42
-  mundialll: 41
-  méxico: 37
-  muerto: 34
-  país: 30
-  muertos: 30
-  cosa: 26
+  hambre: 160
+  vida: 31
+  cosa: 22
+  loco: 21
+  comida: 17
+  familia: 16
+  puro: 16
+  dios: 15
+  andan: 15
+  ando: 15
 
 Top 10 words for SOCIAL COHESION:
-  conflicto: 27
-  pandillas: 22
-  méxico: 15
-  presidente: 14
-  años: 13
-  gente: 10
-  desconfianza: 10
-  ley: 9
-  gobierno: 8
-  personas: 8
+  conflicto: 13
+  presidente: 10
+  años: 6
+  trabajo: 6
+  discriminación: 6
+  vida: 6
+  méxico: 5
+  mayores: 5
+  narco: 4
+  etc: 4
 

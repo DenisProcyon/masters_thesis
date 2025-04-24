@@ -1,0 +1,84 @@
+Top 10 words for INCOME:
+  pobreza: 143
+  méxico: 66
+  país: 52
+  jodido: 51
+  mexico: 49
+  mexicanos: 48
+  gente: 46
+  dinero: 40
+  inflación: 32
+  crisis: 29
+
+Top 10 words for ACCESS TO HEALTH SERVICES:
+  enfermedad: 79
+  dios: 13
+  personas: 12
+  gracias: 11
+  familia: 10
+  literalmente: 7
+  ignoran: 7
+  mensaje: 7
+  guarde: 7
+  discapacidad: 7
+
+Top 10 words for EDUCATIONAL LAG:
+  analfabetismo: 5
+  etc: 5
+  gente: 3
+  mierda: 2
+  pobreza: 2
+  delincuente: 2
+  educación: 2
+  maquilladores: 1
+  maquillistas: 1
+  madre: 1
+
+Top 10 words for ACCESS TO SOCIAL SECURITY:
+  explotación: 12
+  años: 11
+  guanajuato: 10
+  informal: 8
+  fox: 8
+  grupo: 8
+  vicente: 7
+  méxico: 6
+  policías: 6
+  fiscal: 6
+
+Top 10 words for HOUSING:
+  agua: 28
+  hijos: 18
+  casas: 15
+  abandonadas: 11
+  luz: 10
+  méxico: 8
+  gente: 8
+  asta: 8
+  grupo: 8
+  vida: 8
+
+Top 10 words for ACCESS TO FOOD:
+  hambre: 195
+  muertos: 25
+  país: 17
+  gente: 16
+  méxico: 15
+  gracias: 13
+  rico: 12
+  muerto: 11
+  guanajuato: 11
+  veo: 10
+
+Top 10 words for SOCIAL COHESION:
+  discriminación: 43
+  racismo: 17
+  méxico: 14
+  conflicto: 13
+  desconfianza: 11
+  seguridad: 9
+  gobierno: 8
+  persona: 7
+  pandillas: 6
+  iba: 6
+
