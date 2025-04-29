@@ -2353,3 +2353,757 @@
 2025-04-24 18:19:26,202 INFO Got 100 videos for Tamaulipas comunidad from mongo
 2025-04-24 18:19:26,248 INFO Got 100 videos for Tamaulipas sociedad from mongo
 2025-04-24 18:19:26,293 INFO Got 100 videos for Tamaulipas integración from mongo
+2025-04-25 15:38:47,969 WARNING Logger yt_client was configured with True console stream
+2025-04-25 15:38:48,126 INFO Got 94 videos for Tamaulipas economía from mongo
+2025-04-25 15:38:48,230 INFO Got 96 videos for Tamaulipas trabajo from mongo
+2025-04-25 15:38:48,284 INFO Got 97 videos for Tamaulipas empleo from mongo
+2025-04-25 15:38:48,343 INFO Got 98 videos for Tamaulipas salud from mongo
+2025-04-25 15:38:48,394 INFO Got 100 videos for Tamaulipas hospital from mongo
+2025-04-25 15:38:48,444 INFO Got 98 videos for Tamaulipas servicios médicos from mongo
+2025-04-25 15:38:48,497 INFO Got 100 videos for Tamaulipas médico from mongo
+2025-04-25 15:38:48,549 INFO Got 100 videos for Tamaulipas educación from mongo
+2025-04-25 15:38:48,601 INFO Got 100 videos for Tamaulipas escuela from mongo
+2025-04-25 15:38:48,652 INFO Got 98 videos for Tamaulipas universidad from mongo
+2025-04-25 15:38:48,703 INFO Got 98 videos for Tamaulipas estudiantes from mongo
+2025-04-25 15:38:48,760 INFO Got 99 videos for Tamaulipas seguridad social from mongo
+2025-04-25 15:38:48,809 INFO Got 100 videos for Tamaulipas beneficios from mongo
+2025-04-25 15:38:48,866 INFO Got 100 videos for Tamaulipas protección social from mongo
+2025-04-25 15:38:48,918 INFO Got 98 videos for Tamaulipas seguro social from mongo
+2025-04-25 15:38:48,969 INFO Got 100 videos for Tamaulipas vivienda from mongo
+2025-04-25 15:38:49,023 INFO Got 99 videos for Tamaulipas hogar from mongo
+2025-04-25 15:38:49,077 INFO Got 100 videos for Tamaulipas habitaciónes from mongo
+2025-04-25 15:38:49,128 INFO Got 98 videos for Tamaulipas servicios básicos from mongo
+2025-04-25 15:38:49,179 INFO Got 99 videos for Tamaulipas alimentación from mongo
+2025-04-25 15:38:49,229 INFO Got 96 videos for Tamaulipas comida from mongo
+2025-04-25 15:38:49,279 INFO Got 99 videos for Tamaulipas alimentos from mongo
+2025-04-25 15:38:49,338 INFO Got 100 videos for Tamaulipas comunidad from mongo
+2025-04-25 15:38:49,390 INFO Got 100 videos for Tamaulipas sociedad from mongo
+2025-04-25 15:38:49,443 INFO Got 100 videos for Tamaulipas integración from mongo
+2025-04-25 15:56:42,394 INFO Got 100 videos for Baja California economía from mongo
+2025-04-25 15:56:42,528 INFO Got 100 videos for Baja California trabajo from mongo
+2025-04-25 15:56:42,613 INFO Got 86 videos for Baja California empleo from mongo
+2025-04-25 15:56:42,719 INFO Got 100 videos for Baja California salud from mongo
+2025-04-25 15:56:42,842 INFO Got 95 videos for Baja California hospital from mongo
+2025-04-25 15:56:42,898 INFO Got 99 videos for Baja California servicios médicos from mongo
+2025-04-25 15:56:42,954 INFO Got 99 videos for Baja California médico from mongo
+2025-04-25 15:56:43,011 INFO Got 96 videos for Baja California educación from mongo
+2025-04-25 15:56:43,756 INFO Got 50 videos for Baja California escuela
+2025-04-25 15:56:45,217 INFO Got 100 videos for Baja California escuela
+2025-04-25 15:56:46,592 INFO Got 50 videos for Baja California universidad
+2025-04-25 15:56:47,073 INFO Got 100 videos for Baja California universidad
+2025-04-25 15:56:48,098 INFO Got 50 videos for Baja California estudiantes
+2025-04-25 15:56:48,510 INFO Got 100 videos for Baja California estudiantes
+2025-04-25 15:56:49,370 INFO Got 50 videos for Baja California seguridad social
+2025-04-25 15:56:49,775 INFO Got 100 videos for Baja California seguridad social
+2025-04-25 15:56:50,830 INFO Got 50 videos for Baja California beneficios
+2025-04-25 15:56:51,339 INFO Got 100 videos for Baja California beneficios
+2025-04-25 15:56:52,174 INFO Got 50 videos for Baja California protección social
+2025-04-25 15:56:52,703 INFO Got 100 videos for Baja California protección social
+2025-04-25 15:56:53,529 INFO Got 50 videos for Baja California seguro social
+2025-04-25 15:56:53,945 INFO Got 100 videos for Baja California seguro social
+2025-04-25 15:56:54,397 INFO Got 100 videos for Baja California vivienda from mongo
+2025-04-25 15:56:54,991 INFO Got 50 videos for Baja California hogar
+2025-04-25 15:56:55,408 INFO Got 100 videos for Baja California hogar
+2025-04-25 15:56:56,242 INFO Got 50 videos for Baja California habitaciónes
+2025-04-25 15:56:56,667 INFO Got 100 videos for Baja California habitaciónes
+2025-04-25 15:56:57,471 INFO Got 50 videos for Baja California servicios básicos
+2025-04-25 15:56:57,920 INFO Got 100 videos for Baja California servicios básicos
+2025-04-25 15:56:58,729 INFO Got 50 videos for Baja California alimentación
+2025-04-25 15:56:59,203 INFO Got 100 videos for Baja California alimentación
+2025-04-25 15:57:00,105 INFO Got 50 videos for Baja California comida
+2025-04-25 15:57:00,577 INFO Got 100 videos for Baja California comida
+2025-04-25 15:57:01,423 INFO Got 50 videos for Baja California alimentos
+2025-04-25 15:57:01,760 INFO Got 100 videos for Baja California alimentos
+2025-04-25 15:57:02,613 INFO Got 50 videos for Baja California comunidad
+2025-04-25 15:57:03,023 INFO Got 100 videos for Baja California comunidad
+2025-04-25 15:57:03,842 INFO Got 50 videos for Baja California sociedad
+2025-04-25 15:57:04,293 INFO Got 100 videos for Baja California sociedad
+2025-04-25 15:57:05,133 INFO Got 50 videos for Baja California integración
+2025-04-25 15:57:05,580 INFO Got 100 videos for Baja California integración
+2025-04-25 16:01:28,949 INFO Got 50 videos for Zacatecas economía
+2025-04-25 16:01:29,479 INFO Got 100 videos for Zacatecas economía
+2025-04-25 16:01:30,551 INFO Got 50 videos for Zacatecas trabajo
+2025-04-25 16:01:30,974 INFO Got 100 videos for Zacatecas trabajo
+2025-04-25 16:01:31,996 INFO Got 50 videos for Zacatecas empleo
+2025-04-25 16:01:32,427 INFO Got 100 videos for Zacatecas empleo
+2025-04-25 16:01:32,942 INFO Got 100 videos for Zacatecas salud from mongo
+2025-04-25 16:01:33,423 INFO Got 50 videos for Zacatecas hospital
+2025-04-25 16:01:33,758 INFO Got 100 videos for Zacatecas hospital
+2025-04-25 16:01:34,841 INFO Got 50 videos for Zacatecas servicios médicos
+2025-04-25 16:01:35,327 INFO Got 100 videos for Zacatecas servicios médicos
+2025-04-25 16:01:36,173 INFO Got 50 videos for Zacatecas médico
+2025-04-25 16:01:36,635 INFO Got 100 videos for Zacatecas médico
+2025-04-25 16:01:37,051 INFO Got 100 videos for Zacatecas educación from mongo
+2025-04-25 16:01:37,550 INFO Got 50 videos for Zacatecas escuela
+2025-04-25 16:01:37,972 INFO Got 100 videos for Zacatecas escuela
+2025-04-25 16:01:38,836 INFO Got 50 videos for Zacatecas universidad
+2025-04-25 16:01:39,311 INFO Got 100 videos for Zacatecas universidad
+2025-04-25 16:01:40,084 INFO Got 50 videos for Zacatecas estudiantes
+2025-04-25 16:01:40,549 INFO Got 100 videos for Zacatecas estudiantes
+2025-04-25 16:01:41,320 INFO Got 50 videos for Zacatecas seguridad social
+2025-04-25 16:01:41,802 INFO Got 100 videos for Zacatecas seguridad social
+2025-04-25 16:01:42,673 INFO Got 50 videos for Zacatecas beneficios
+2025-04-25 16:01:43,095 INFO Got 100 videos for Zacatecas beneficios
+2025-04-25 16:01:43,903 INFO Got 50 videos for Zacatecas protección social
+2025-04-25 16:01:44,314 INFO Got 100 videos for Zacatecas protección social
+2025-04-25 16:01:45,113 INFO Got 50 videos for Zacatecas seguro social
+2025-04-25 16:01:45,571 INFO Got 100 videos for Zacatecas seguro social
+2025-04-25 16:01:45,987 INFO Got 100 videos for Zacatecas vivienda from mongo
+2025-04-25 16:01:46,485 INFO Got 50 videos for Zacatecas hogar
+2025-04-25 16:01:46,782 INFO Got 100 videos for Zacatecas hogar
+2025-04-25 16:01:47,541 INFO Got 50 videos for Zacatecas habitaciónes
+2025-04-25 16:01:47,964 INFO Got 100 videos for Zacatecas habitaciónes
+2025-04-25 16:01:48,713 INFO Got 50 videos for Zacatecas servicios básicos
+2025-04-25 16:01:49,118 INFO Got 100 videos for Zacatecas servicios básicos
+2025-04-25 16:01:49,976 INFO Got 50 videos for Zacatecas alimentación
+2025-04-25 16:01:50,340 INFO Got 100 videos for Zacatecas alimentación
+2025-04-25 16:01:51,145 INFO Got 50 videos for Zacatecas comida
+2025-04-25 16:01:51,309 ERROR Error getting videos by keyword Zacatecas comida: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Zacatecas+comida&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&pageToken=CDIQAA&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:01:51,424 ERROR Error getting videos by keyword Zacatecas alimentos: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Zacatecas+alimentos&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:01:51,647 ERROR Error getting videos by keyword Zacatecas comunidad: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Zacatecas+comunidad&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:01:52,156 INFO Got 50 videos for Zacatecas sociedad
+2025-04-25 16:01:52,325 ERROR Error getting videos by keyword Zacatecas sociedad: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Zacatecas+sociedad&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&pageToken=CDIQAA&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:01:52,438 ERROR Error getting videos by keyword Zacatecas integración: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Zacatecas+integraci%C3%B3n&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyA4xP91ZHU6_-zNbS2Hs_xxA7N66ZUnXUo&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:04:29,950 WARNING Logger yt_client was configured with True console stream
+2025-04-25 16:04:30,127 INFO Got 100 videos for Zacatecas economía from mongo
+2025-04-25 16:04:30,185 INFO Got 100 videos for Zacatecas trabajo from mongo
+2025-04-25 16:04:30,239 INFO Got 100 videos for Zacatecas empleo from mongo
+2025-04-25 16:04:30,295 INFO Got 100 videos for Zacatecas salud from mongo
+2025-04-25 16:04:30,350 INFO Got 100 videos for Zacatecas hospital from mongo
+2025-04-25 16:04:30,406 INFO Got 99 videos for Zacatecas servicios médicos from mongo
+2025-04-25 16:04:30,463 INFO Got 97 videos for Zacatecas médico from mongo
+2025-04-25 16:04:30,517 INFO Got 100 videos for Zacatecas educación from mongo
+2025-04-25 16:04:30,581 INFO Got 100 videos for Zacatecas escuela from mongo
+2025-04-25 16:04:30,641 INFO Got 100 videos for Zacatecas universidad from mongo
+2025-04-25 16:04:30,697 INFO Got 99 videos for Zacatecas estudiantes from mongo
+2025-04-25 16:04:30,755 INFO Got 100 videos for Zacatecas seguridad social from mongo
+2025-04-25 16:04:30,818 INFO Got 89 videos for Zacatecas beneficios from mongo
+2025-04-25 16:04:30,892 INFO Got 100 videos for Zacatecas protección social from mongo
+2025-04-25 16:04:30,955 INFO Got 100 videos for Zacatecas seguro social from mongo
+2025-04-25 16:04:31,018 INFO Got 100 videos for Zacatecas vivienda from mongo
+2025-04-25 16:04:31,073 INFO Got 95 videos for Zacatecas hogar from mongo
+2025-04-25 16:04:31,140 INFO Got 94 videos for Zacatecas habitaciónes from mongo
+2025-04-25 16:04:31,207 INFO Got 99 videos for Zacatecas servicios básicos from mongo
+2025-04-25 16:04:31,266 INFO Got 96 videos for Zacatecas alimentación from mongo
+2025-04-25 16:04:31,883 INFO Got 50 videos for Zacatecas comida
+2025-04-25 16:04:32,333 INFO Got 100 videos for Zacatecas comida
+2025-04-25 16:04:33,350 INFO Got 50 videos for Zacatecas alimentos
+2025-04-25 16:04:33,838 INFO Got 100 videos for Zacatecas alimentos
+2025-04-25 16:04:34,782 INFO Got 50 videos for Zacatecas comunidad
+2025-04-25 16:04:35,248 INFO Got 100 videos for Zacatecas comunidad
+2025-04-25 16:04:36,029 INFO Got 50 videos for Zacatecas sociedad
+2025-04-25 16:04:36,552 INFO Got 100 videos for Zacatecas sociedad
+2025-04-25 16:04:37,382 INFO Got 50 videos for Zacatecas integración
+2025-04-25 16:04:37,862 INFO Got 100 videos for Zacatecas integración
+2025-04-25 16:20:46,569 INFO Got 50 videos for Colima economía
+2025-04-25 16:20:47,248 INFO Got 100 videos for Colima economía
+2025-04-25 16:20:48,090 INFO Got 50 videos for Colima trabajo
+2025-04-25 16:20:48,569 INFO Got 100 videos for Colima trabajo
+2025-04-25 16:20:49,393 INFO Got 50 videos for Colima empleo
+2025-04-25 16:20:49,812 INFO Got 100 videos for Colima empleo
+2025-04-25 16:20:50,217 INFO Got 100 videos for Colima salud from mongo
+2025-04-25 16:20:50,753 INFO Got 50 videos for Colima hospital
+2025-04-25 16:20:51,274 INFO Got 100 videos for Colima hospital
+2025-04-25 16:20:52,106 INFO Got 50 videos for Colima servicios médicos
+2025-04-25 16:20:52,560 INFO Got 100 videos for Colima servicios médicos
+2025-04-25 16:20:53,312 INFO Got 50 videos for Colima médico
+2025-04-25 16:20:53,741 INFO Got 100 videos for Colima médico
+2025-04-25 16:20:54,119 INFO Got 100 videos for Colima educación from mongo
+2025-04-25 16:20:54,650 INFO Got 50 videos for Colima escuela
+2025-04-25 16:20:55,132 INFO Got 100 videos for Colima escuela
+2025-04-25 16:20:55,970 INFO Got 50 videos for Colima universidad
+2025-04-25 16:20:56,507 INFO Got 100 videos for Colima universidad
+2025-04-25 16:20:57,247 INFO Got 50 videos for Colima estudiantes
+2025-04-25 16:20:57,850 INFO Got 100 videos for Colima estudiantes
+2025-04-25 16:20:58,645 INFO Got 50 videos for Colima seguridad social
+2025-04-25 16:20:59,101 INFO Got 100 videos for Colima seguridad social
+2025-04-25 16:20:59,874 INFO Got 50 videos for Colima beneficios
+2025-04-25 16:21:00,370 INFO Got 100 videos for Colima beneficios
+2025-04-25 16:21:01,176 INFO Got 50 videos for Colima protección social
+2025-04-25 16:21:01,715 INFO Got 100 videos for Colima protección social
+2025-04-25 16:21:02,336 INFO Got 50 videos for Colima seguro social
+2025-04-25 16:21:02,824 INFO Got 100 videos for Colima seguro social
+2025-04-25 16:21:03,230 INFO Got 100 videos for Colima vivienda from mongo
+2025-04-25 16:21:03,750 INFO Got 50 videos for Colima hogar
+2025-04-25 16:21:04,180 INFO Got 100 videos for Colima hogar
+2025-04-25 16:21:04,994 INFO Got 50 videos for Colima habitaciónes
+2025-04-25 16:21:05,476 INFO Got 100 videos for Colima habitaciónes
+2025-04-25 16:21:06,060 INFO Got 50 videos for Colima servicios básicos
+2025-04-25 16:21:06,767 INFO Got 100 videos for Colima servicios básicos
+2025-04-25 16:21:07,673 INFO Got 50 videos for Colima alimentación
+2025-04-25 16:21:08,185 INFO Got 100 videos for Colima alimentación
+2025-04-25 16:21:09,027 INFO Got 50 videos for Colima comida
+2025-04-25 16:21:09,518 INFO Got 100 videos for Colima comida
+2025-04-25 16:21:10,383 INFO Got 50 videos for Colima alimentos
+2025-04-25 16:21:10,905 INFO Got 100 videos for Colima alimentos
+2025-04-25 16:21:11,682 INFO Got 50 videos for Colima comunidad
+2025-04-25 16:21:12,185 INFO Got 100 videos for Colima comunidad
+2025-04-25 16:21:12,995 INFO Got 50 videos for Colima sociedad
+2025-04-25 16:21:13,556 INFO Got 100 videos for Colima sociedad
+2025-04-25 16:21:14,473 INFO Got 50 videos for Colima integración
+2025-04-25 16:21:14,950 INFO Got 100 videos for Colima integración
+2025-04-25 16:23:40,476 INFO Got 50 videos for Jalisco economía
+2025-04-25 16:23:40,957 INFO Got 100 videos for Jalisco economía
+2025-04-25 16:23:41,825 INFO Got 50 videos for Jalisco trabajo
+2025-04-25 16:23:42,291 INFO Got 100 videos for Jalisco trabajo
+2025-04-25 16:23:43,056 INFO Got 50 videos for Jalisco empleo
+2025-04-25 16:23:43,387 INFO Got 100 videos for Jalisco empleo
+2025-04-25 16:23:43,791 INFO Got 100 videos for Jalisco salud from mongo
+2025-04-25 16:23:44,339 INFO Got 50 videos for Jalisco hospital
+2025-04-25 16:23:44,874 INFO Got 100 videos for Jalisco hospital
+2025-04-25 16:23:45,673 INFO Got 50 videos for Jalisco servicios médicos
+2025-04-25 16:23:45,966 INFO Got 100 videos for Jalisco servicios médicos
+2025-04-25 16:23:46,754 INFO Got 50 videos for Jalisco médico
+2025-04-25 16:23:47,179 INFO Got 100 videos for Jalisco médico
+2025-04-25 16:23:47,574 INFO Got 99 videos for Jalisco educación from mongo
+2025-04-25 16:23:48,206 INFO Got 50 videos for Jalisco escuela
+2025-04-25 16:23:48,739 INFO Got 100 videos for Jalisco escuela
+2025-04-25 16:23:49,563 INFO Got 50 videos for Jalisco universidad
+2025-04-25 16:23:50,091 INFO Got 100 videos for Jalisco universidad
+2025-04-25 16:23:50,921 INFO Got 50 videos for Jalisco estudiantes
+2025-04-25 16:23:51,321 INFO Got 100 videos for Jalisco estudiantes
+2025-04-25 16:23:52,089 INFO Got 50 videos for Jalisco seguridad social
+2025-04-25 16:23:52,564 INFO Got 100 videos for Jalisco seguridad social
+2025-04-25 16:23:53,113 ERROR Error getting videos by keyword Jalisco beneficios: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+beneficios&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:53,227 ERROR Error getting videos by keyword Jalisco protección social: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+protecci%C3%B3n+social&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:53,473 ERROR Error getting videos by keyword Jalisco seguro social: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+seguro+social&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:53,583 INFO Got 97 videos for Jalisco vivienda from mongo
+2025-04-25 16:23:53,701 ERROR Error getting videos by keyword Jalisco hogar: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+hogar&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:53,811 ERROR Error getting videos by keyword Jalisco habitaciónes: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+habitaci%C3%B3nes&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:53,925 ERROR Error getting videos by keyword Jalisco servicios básicos: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+servicios+b%C3%A1sicos&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:54,168 ERROR Error getting videos by keyword Jalisco alimentación: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+alimentaci%C3%B3n&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:54,278 ERROR Error getting videos by keyword Jalisco comida: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+comida&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:54,523 ERROR Error getting videos by keyword Jalisco alimentos: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+alimentos&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:54,636 ERROR Error getting videos by keyword Jalisco comunidad: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+comunidad&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:54,749 ERROR Error getting videos by keyword Jalisco sociedad: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+sociedad&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:23:54,870 ERROR Error getting videos by keyword Jalisco integración: <HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/search?part=snippet&q=Jalisco+integraci%C3%B3n&publishedBefore=2022-12-31T23%3A59%3A59Z&publishedAfter=2022-01-01T00%3A00%3A00Z&safeSearch=none&type=video&maxResults=100&key=AIzaSyDcN6iQ7GfyZEanMW2DIsKRVr5w0rVzaY0&alt=json returned "The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.". Details: "[{'message': 'The request cannot be completed because you have exceeded your <a href="/youtube/v3/getting-started#quota">quota</a>.', 'domain': 'youtube.quota', 'reason': 'quotaExceeded'}]">
+2025-04-25 16:31:09,852 WARNING Logger yt_client was configured with True console stream
+2025-04-25 16:31:10,018 INFO Got 96 videos for Colima economía from mongo
+2025-04-25 16:31:10,073 INFO Got 97 videos for Colima trabajo from mongo
+2025-04-25 16:31:10,129 INFO Got 99 videos for Colima empleo from mongo
+2025-04-25 16:31:10,185 INFO Got 100 videos for Colima salud from mongo
+2025-04-25 16:31:10,246 INFO Got 87 videos for Colima hospital from mongo
+2025-04-25 16:31:10,304 INFO Got 98 videos for Colima servicios médicos from mongo
+2025-04-25 16:31:10,360 INFO Got 94 videos for Colima médico from mongo
+2025-04-25 16:31:10,415 INFO Got 100 videos for Colima educación from mongo
+2025-04-25 16:31:10,470 INFO Got 99 videos for Colima escuela from mongo
+2025-04-25 16:31:10,531 INFO Got 100 videos for Colima universidad from mongo
+2025-04-25 16:31:10,590 INFO Got 100 videos for Colima estudiantes from mongo
+2025-04-25 16:31:10,646 INFO Got 95 videos for Colima seguridad social from mongo
+2025-04-25 16:31:10,702 INFO Got 99 videos for Colima beneficios from mongo
+2025-04-25 16:31:10,757 INFO Got 100 videos for Colima protección social from mongo
+2025-04-25 16:31:10,811 INFO Got 99 videos for Colima seguro social from mongo
+2025-04-25 16:31:10,867 INFO Got 100 videos for Colima vivienda from mongo
+2025-04-25 16:31:10,936 INFO Got 98 videos for Colima hogar from mongo
+2025-04-25 16:31:10,990 INFO Got 85 videos for Colima habitaciónes from mongo
+2025-04-25 16:31:11,050 INFO Got 90 videos for Colima servicios básicos from mongo
+2025-04-25 16:31:11,107 INFO Got 100 videos for Colima alimentación from mongo
+2025-04-25 16:31:11,159 INFO Got 100 videos for Colima comida from mongo
+2025-04-25 16:31:11,217 INFO Got 98 videos for Colima alimentos from mongo
+2025-04-25 16:31:11,278 INFO Got 100 videos for Colima comunidad from mongo
+2025-04-25 16:31:11,334 INFO Got 100 videos for Colima sociedad from mongo
+2025-04-25 16:31:11,396 INFO Got 98 videos for Colima integración from mongo
+2025-04-25 16:47:37,363 INFO Got 100 videos for Jalisco economía from mongo
+2025-04-25 16:47:37,447 INFO Got 84 videos for Jalisco trabajo from mongo
+2025-04-25 16:47:37,507 INFO Got 99 videos for Jalisco empleo from mongo
+2025-04-25 16:47:37,593 INFO Got 100 videos for Jalisco salud from mongo
+2025-04-25 16:47:37,669 INFO Got 99 videos for Jalisco hospital from mongo
+2025-04-25 16:47:37,885 INFO Got 99 videos for Jalisco servicios médicos from mongo
+2025-04-25 16:47:37,941 INFO Got 100 videos for Jalisco médico from mongo
+2025-04-25 16:47:37,999 INFO Got 99 videos for Jalisco educación from mongo
+2025-04-25 16:47:38,057 INFO Got 97 videos for Jalisco escuela from mongo
+2025-04-25 16:47:38,119 INFO Got 100 videos for Jalisco universidad from mongo
+2025-04-25 16:47:38,180 INFO Got 99 videos for Jalisco estudiantes from mongo
+2025-04-25 16:47:38,240 INFO Got 99 videos for Jalisco seguridad social from mongo
+2025-04-25 16:47:39,004 INFO Got 50 videos for Jalisco beneficios
+2025-04-25 16:47:39,529 INFO Got 100 videos for Jalisco beneficios
+2025-04-25 16:47:40,758 INFO Got 50 videos for Jalisco protección social
+2025-04-25 16:47:41,112 INFO Got 100 videos for Jalisco protección social
+2025-04-25 16:47:42,153 INFO Got 50 videos for Jalisco seguro social
+2025-04-25 16:47:42,751 INFO Got 100 videos for Jalisco seguro social
+2025-04-25 16:47:43,437 INFO Got 97 videos for Jalisco vivienda from mongo
+2025-04-25 16:47:43,930 INFO Got 50 videos for Jalisco hogar
+2025-04-25 16:47:44,524 INFO Got 100 videos for Jalisco hogar
+2025-04-25 16:47:45,885 INFO Got 50 videos for Jalisco habitaciónes
+2025-04-25 16:47:46,349 INFO Got 100 videos for Jalisco habitaciónes
+2025-04-25 16:47:47,396 INFO Got 50 videos for Jalisco servicios básicos
+2025-04-25 16:47:47,921 INFO Got 100 videos for Jalisco servicios básicos
+2025-04-25 16:47:49,009 INFO Got 50 videos for Jalisco alimentación
+2025-04-25 16:47:49,494 INFO Got 100 videos for Jalisco alimentación
+2025-04-25 16:47:50,584 INFO Got 50 videos for Jalisco comida
+2025-04-25 16:47:51,036 INFO Got 100 videos for Jalisco comida
+2025-04-25 16:47:52,094 INFO Got 50 videos for Jalisco alimentos
+2025-04-25 16:47:52,576 INFO Got 100 videos for Jalisco alimentos
+2025-04-25 16:47:53,405 INFO Got 50 videos for Jalisco comunidad
+2025-04-25 16:47:53,680 INFO Got 100 videos for Jalisco comunidad
+2025-04-25 16:47:54,867 INFO Got 50 videos for Jalisco sociedad
+2025-04-25 16:47:55,388 INFO Got 100 videos for Jalisco sociedad
+2025-04-25 16:47:56,330 INFO Got 50 videos for Jalisco integración
+2025-04-25 16:47:56,854 INFO Got 100 videos for Jalisco integración
+2025-04-26 12:42:25,919 WARNING Logger yt_client was configured with True console stream
+2025-04-26 12:42:26,072 INFO Got 92 videos for Guanajuato economía from mongo
+2025-04-26 12:42:26,164 INFO Got 100 videos for Guanajuato trabajo from mongo
+2025-04-26 12:42:26,211 INFO Got 97 videos for Guanajuato empleo from mongo
+2025-04-26 12:42:26,259 INFO Got 98 videos for Guanajuato salud from mongo
+2025-04-26 12:42:26,305 INFO Got 50 videos for Guanajuato hospital from mongo
+2025-04-26 12:42:26,351 INFO Got 50 videos for Guanajuato servicios médicos from mongo
+2025-04-26 12:42:26,397 INFO Got 50 videos for Guanajuato médico from mongo
+2025-04-26 12:42:26,445 INFO Got 99 videos for Guanajuato educación from mongo
+2025-04-26 12:42:26,510 INFO Got 97 videos for Guanajuato escuela from mongo
+2025-04-26 12:42:26,556 INFO Got 99 videos for Guanajuato universidad from mongo
+2025-04-26 12:42:26,604 INFO Got 50 videos for Guanajuato estudiantes from mongo
+2025-04-26 12:42:26,650 INFO Got 99 videos for Guanajuato seguridad social from mongo
+2025-04-26 12:42:26,695 INFO Got 97 videos for Guanajuato beneficios from mongo
+2025-04-26 12:42:26,741 INFO Got 99 videos for Guanajuato protección social from mongo
+2025-04-26 12:42:26,788 INFO Got 100 videos for Guanajuato seguro social from mongo
+2025-04-26 12:42:26,834 INFO Got 99 videos for Guanajuato vivienda from mongo
+2025-04-26 12:42:26,881 INFO Got 100 videos for Guanajuato hogar from mongo
+2025-04-26 12:42:26,928 INFO Got 99 videos for Guanajuato habitaciónes from mongo
+2025-04-26 12:42:26,974 INFO Got 100 videos for Guanajuato servicios básicos from mongo
+2025-04-26 12:42:27,020 INFO Got 99 videos for Guanajuato alimentación from mongo
+2025-04-26 12:42:27,065 INFO Got 99 videos for Guanajuato comida from mongo
+2025-04-26 12:42:27,111 INFO Got 99 videos for Guanajuato alimentos from mongo
+2025-04-26 12:42:27,158 INFO Got 100 videos for Guanajuato comunidad from mongo
+2025-04-26 12:42:27,204 INFO Got 100 videos for Guanajuato sociedad from mongo
+2025-04-26 12:42:27,251 INFO Got 97 videos for Guanajuato integración from mongo
+2025-04-26 14:21:25,303 WARNING Logger yt_client was configured with True console stream
+2025-04-26 14:21:25,424 INFO Got 92 videos for Guanajuato economía from mongo
+2025-04-26 14:21:25,498 INFO Got 100 videos for Guanajuato trabajo from mongo
+2025-04-26 14:21:25,538 INFO Got 97 videos for Guanajuato empleo from mongo
+2025-04-26 14:21:25,579 INFO Got 98 videos for Guanajuato salud from mongo
+2025-04-26 14:21:25,619 INFO Got 50 videos for Guanajuato hospital from mongo
+2025-04-26 14:21:25,657 INFO Got 50 videos for Guanajuato servicios médicos from mongo
+2025-04-26 14:21:25,696 INFO Got 50 videos for Guanajuato médico from mongo
+2025-04-26 14:21:25,735 INFO Got 99 videos for Guanajuato educación from mongo
+2025-04-26 14:21:25,775 INFO Got 97 videos for Guanajuato escuela from mongo
+2025-04-26 14:21:25,812 INFO Got 99 videos for Guanajuato universidad from mongo
+2025-04-26 14:21:25,853 INFO Got 50 videos for Guanajuato estudiantes from mongo
+2025-04-26 14:21:25,890 INFO Got 99 videos for Guanajuato seguridad social from mongo
+2025-04-26 14:21:25,929 INFO Got 97 videos for Guanajuato beneficios from mongo
+2025-04-26 14:21:25,967 INFO Got 99 videos for Guanajuato protección social from mongo
+2025-04-26 14:21:26,005 INFO Got 100 videos for Guanajuato seguro social from mongo
+2025-04-26 14:21:26,043 INFO Got 99 videos for Guanajuato vivienda from mongo
+2025-04-26 14:21:26,082 INFO Got 100 videos for Guanajuato hogar from mongo
+2025-04-26 14:21:26,119 INFO Got 99 videos for Guanajuato habitaciónes from mongo
+2025-04-26 14:21:26,156 INFO Got 100 videos for Guanajuato servicios básicos from mongo
+2025-04-26 14:21:26,194 INFO Got 99 videos for Guanajuato alimentación from mongo
+2025-04-26 14:21:26,231 INFO Got 99 videos for Guanajuato comida from mongo
+2025-04-26 14:21:26,271 INFO Got 99 videos for Guanajuato alimentos from mongo
+2025-04-26 14:21:26,309 INFO Got 100 videos for Guanajuato comunidad from mongo
+2025-04-26 14:21:26,366 INFO Got 100 videos for Guanajuato sociedad from mongo
+2025-04-26 14:21:26,404 INFO Got 97 videos for Guanajuato integración from mongo
+2025-04-26 14:30:53,583 WARNING Logger yt_client was configured with True console stream
+2025-04-26 14:30:53,718 INFO Got 96 videos for Colima economía from mongo
+2025-04-26 14:30:53,764 INFO Got 97 videos for Colima trabajo from mongo
+2025-04-26 14:30:53,809 INFO Got 99 videos for Colima empleo from mongo
+2025-04-26 14:30:53,854 INFO Got 100 videos for Colima salud from mongo
+2025-04-26 14:30:53,909 INFO Got 87 videos for Colima hospital from mongo
+2025-04-26 14:30:53,955 INFO Got 98 videos for Colima servicios médicos from mongo
+2025-04-26 14:30:53,999 INFO Got 94 videos for Colima médico from mongo
+2025-04-26 14:30:54,046 INFO Got 100 videos for Colima educación from mongo
+2025-04-26 14:30:54,089 INFO Got 99 videos for Colima escuela from mongo
+2025-04-26 14:30:54,137 INFO Got 100 videos for Colima universidad from mongo
+2025-04-26 14:30:54,182 INFO Got 100 videos for Colima estudiantes from mongo
+2025-04-26 14:30:54,228 INFO Got 95 videos for Colima seguridad social from mongo
+2025-04-26 14:30:54,272 INFO Got 99 videos for Colima beneficios from mongo
+2025-04-26 14:30:54,318 INFO Got 100 videos for Colima protección social from mongo
+2025-04-26 14:30:54,363 INFO Got 99 videos for Colima seguro social from mongo
+2025-04-26 14:30:54,410 INFO Got 100 videos for Colima vivienda from mongo
+2025-04-26 14:30:54,455 INFO Got 98 videos for Colima hogar from mongo
+2025-04-26 14:30:54,498 INFO Got 85 videos for Colima habitaciónes from mongo
+2025-04-26 14:30:54,542 INFO Got 90 videos for Colima servicios básicos from mongo
+2025-04-26 14:30:54,588 INFO Got 100 videos for Colima alimentación from mongo
+2025-04-26 14:30:54,635 INFO Got 100 videos for Colima comida from mongo
+2025-04-26 14:30:54,680 INFO Got 98 videos for Colima alimentos from mongo
+2025-04-26 14:30:54,724 INFO Got 100 videos for Colima comunidad from mongo
+2025-04-26 14:30:54,769 INFO Got 100 videos for Colima sociedad from mongo
+2025-04-26 14:30:54,815 INFO Got 98 videos for Colima integración from mongo
+2025-04-26 14:46:05,832 INFO Got 100 videos for Jalisco economía from mongo
+2025-04-26 14:46:05,876 INFO Got 84 videos for Jalisco trabajo from mongo
+2025-04-26 14:46:05,921 INFO Got 99 videos for Jalisco empleo from mongo
+2025-04-26 14:46:05,989 INFO Got 100 videos for Jalisco salud from mongo
+2025-04-26 14:46:06,034 INFO Got 99 videos for Jalisco hospital from mongo
+2025-04-26 14:46:06,077 INFO Got 99 videos for Jalisco servicios médicos from mongo
+2025-04-26 14:46:06,122 INFO Got 100 videos for Jalisco médico from mongo
+2025-04-26 14:46:06,174 INFO Got 99 videos for Jalisco educación from mongo
+2025-04-26 14:46:06,259 INFO Got 97 videos for Jalisco escuela from mongo
+2025-04-26 14:46:06,326 INFO Got 100 videos for Jalisco universidad from mongo
+2025-04-26 14:46:06,372 INFO Got 99 videos for Jalisco estudiantes from mongo
+2025-04-26 14:46:06,418 INFO Got 99 videos for Jalisco seguridad social from mongo
+2025-04-26 14:46:06,468 INFO Got 96 videos for Jalisco beneficios from mongo
+2025-04-26 14:46:06,511 INFO Got 100 videos for Jalisco protección social from mongo
+2025-04-26 14:46:06,556 INFO Got 99 videos for Jalisco seguro social from mongo
+2025-04-26 14:46:06,617 INFO Got 97 videos for Jalisco vivienda from mongo
+2025-04-26 14:46:06,670 INFO Got 100 videos for Jalisco hogar from mongo
+2025-04-26 14:46:06,713 INFO Got 93 videos for Jalisco habitaciónes from mongo
+2025-04-26 14:46:06,757 INFO Got 100 videos for Jalisco servicios básicos from mongo
+2025-04-26 14:46:06,802 INFO Got 100 videos for Jalisco alimentación from mongo
+2025-04-26 14:46:06,846 INFO Got 89 videos for Jalisco comida from mongo
+2025-04-26 14:46:06,892 INFO Got 99 videos for Jalisco alimentos from mongo
+2025-04-26 14:46:06,958 INFO Got 99 videos for Jalisco comunidad from mongo
+2025-04-26 14:46:07,006 INFO Got 97 videos for Jalisco sociedad from mongo
+2025-04-26 14:46:07,049 INFO Got 100 videos for Jalisco integración from mongo
+2025-04-26 15:48:50,786 WARNING Logger yt_client was configured with True console stream
+2025-04-26 15:48:50,914 INFO Got 92 videos for Guanajuato economía from mongo
+2025-04-26 15:48:50,998 INFO Got 100 videos for Guanajuato trabajo from mongo
+2025-04-26 15:48:51,041 INFO Got 97 videos for Guanajuato empleo from mongo
+2025-04-26 15:48:51,084 INFO Got 98 videos for Guanajuato salud from mongo
+2025-04-26 15:48:51,126 INFO Got 50 videos for Guanajuato hospital from mongo
+2025-04-26 15:48:51,169 INFO Got 50 videos for Guanajuato servicios médicos from mongo
+2025-04-26 15:48:51,231 INFO Got 50 videos for Guanajuato médico from mongo
+2025-04-26 15:48:51,273 INFO Got 99 videos for Guanajuato educación from mongo
+2025-04-26 15:48:51,315 INFO Got 97 videos for Guanajuato escuela from mongo
+2025-04-26 15:48:51,357 INFO Got 99 videos for Guanajuato universidad from mongo
+2025-04-26 15:48:51,398 INFO Got 50 videos for Guanajuato estudiantes from mongo
+2025-04-26 15:48:51,441 INFO Got 99 videos for Guanajuato seguridad social from mongo
+2025-04-26 15:48:51,485 INFO Got 97 videos for Guanajuato beneficios from mongo
+2025-04-26 15:48:51,528 INFO Got 99 videos for Guanajuato protección social from mongo
+2025-04-26 15:48:51,571 INFO Got 100 videos for Guanajuato seguro social from mongo
+2025-04-26 15:48:51,616 INFO Got 99 videos for Guanajuato vivienda from mongo
+2025-04-26 15:48:51,701 INFO Got 100 videos for Guanajuato hogar from mongo
+2025-04-26 15:48:51,745 INFO Got 99 videos for Guanajuato habitaciónes from mongo
+2025-04-26 15:48:51,789 INFO Got 100 videos for Guanajuato servicios básicos from mongo
+2025-04-26 15:48:51,833 INFO Got 99 videos for Guanajuato alimentación from mongo
+2025-04-26 15:48:52,322 INFO Got 99 videos for Guanajuato comida from mongo
+2025-04-26 15:48:52,368 INFO Got 99 videos for Guanajuato alimentos from mongo
+2025-04-26 15:48:52,413 INFO Got 100 videos for Guanajuato comunidad from mongo
+2025-04-26 15:48:52,456 INFO Got 100 videos for Guanajuato sociedad from mongo
+2025-04-26 15:48:52,500 INFO Got 97 videos for Guanajuato integración from mongo
+2025-04-26 15:49:44,059 WARNING Logger yt_client was configured with True console stream
+2025-04-26 15:49:44,192 INFO Got 92 videos for Guanajuato economía from mongo
+2025-04-26 15:49:44,238 INFO Got 100 videos for Guanajuato trabajo from mongo
+2025-04-26 15:49:44,283 INFO Got 97 videos for Guanajuato empleo from mongo
+2025-04-26 15:49:44,351 INFO Got 98 videos for Guanajuato salud from mongo
+2025-04-26 15:49:44,398 INFO Got 50 videos for Guanajuato hospital from mongo
+2025-04-26 15:49:44,442 INFO Got 50 videos for Guanajuato servicios médicos from mongo
+2025-04-26 15:49:44,487 INFO Got 50 videos for Guanajuato médico from mongo
+2025-04-26 15:49:44,530 INFO Got 99 videos for Guanajuato educación from mongo
+2025-04-26 15:49:44,575 INFO Got 97 videos for Guanajuato escuela from mongo
+2025-04-26 15:49:44,624 INFO Got 99 videos for Guanajuato universidad from mongo
+2025-04-26 15:49:44,671 INFO Got 50 videos for Guanajuato estudiantes from mongo
+2025-04-26 15:49:44,718 INFO Got 99 videos for Guanajuato seguridad social from mongo
+2025-04-26 15:49:44,763 INFO Got 97 videos for Guanajuato beneficios from mongo
+2025-04-26 15:49:44,809 INFO Got 99 videos for Guanajuato protección social from mongo
+2025-04-26 15:49:44,855 INFO Got 100 videos for Guanajuato seguro social from mongo
+2025-04-26 15:49:44,899 INFO Got 99 videos for Guanajuato vivienda from mongo
+2025-04-26 15:49:44,945 INFO Got 100 videos for Guanajuato hogar from mongo
+2025-04-26 15:49:44,988 INFO Got 99 videos for Guanajuato habitaciónes from mongo
+2025-04-26 15:49:45,034 INFO Got 100 videos for Guanajuato servicios básicos from mongo
+2025-04-26 15:49:45,079 INFO Got 99 videos for Guanajuato alimentación from mongo
+2025-04-26 15:49:45,123 INFO Got 99 videos for Guanajuato comida from mongo
+2025-04-26 15:49:45,173 INFO Got 99 videos for Guanajuato alimentos from mongo
+2025-04-26 15:49:45,216 INFO Got 100 videos for Guanajuato comunidad from mongo
+2025-04-26 15:49:45,260 INFO Got 100 videos for Guanajuato sociedad from mongo
+2025-04-26 15:49:45,304 INFO Got 97 videos for Guanajuato integración from mongo
+2025-04-26 16:10:06,259 INFO Got 100 videos for Michoacán economía from mongo
+2025-04-26 16:10:06,305 INFO Got 100 videos for Michoacán trabajo from mongo
+2025-04-26 16:10:06,351 INFO Got 100 videos for Michoacán empleo from mongo
+2025-04-26 16:10:06,395 INFO Got 100 videos for Michoacán salud from mongo
+2025-04-26 16:10:06,442 INFO Got 100 videos for Michoacán hospital from mongo
+2025-04-26 16:10:06,489 INFO Got 98 videos for Michoacán servicios médicos from mongo
+2025-04-26 16:10:06,538 INFO Got 99 videos for Michoacán médico from mongo
+2025-04-26 16:10:06,587 INFO Got 97 videos for Michoacán educación from mongo
+2025-04-26 16:10:06,636 INFO Got 100 videos for Michoacán escuela from mongo
+2025-04-26 16:10:06,683 INFO Got 98 videos for Michoacán universidad from mongo
+2025-04-26 16:10:06,732 INFO Got 99 videos for Michoacán estudiantes from mongo
+2025-04-26 16:10:06,780 INFO Got 99 videos for Michoacán seguridad social from mongo
+2025-04-26 16:10:06,827 INFO Got 98 videos for Michoacán beneficios from mongo
+2025-04-26 16:10:06,882 INFO Got 99 videos for Michoacán protección social from mongo
+2025-04-26 16:10:06,941 INFO Got 100 videos for Michoacán seguro social from mongo
+2025-04-26 16:10:06,988 INFO Got 98 videos for Michoacán vivienda from mongo
+2025-04-26 16:10:07,035 INFO Got 100 videos for Michoacán hogar from mongo
+2025-04-26 16:10:07,088 INFO Got 95 videos for Michoacán habitaciónes from mongo
+2025-04-26 16:10:07,135 INFO Got 93 videos for Michoacán servicios básicos from mongo
+2025-04-26 16:10:07,182 INFO Got 100 videos for Michoacán alimentación from mongo
+2025-04-26 16:10:07,232 INFO Got 98 videos for Michoacán comida from mongo
+2025-04-26 16:10:07,280 INFO Got 100 videos for Michoacán alimentos from mongo
+2025-04-26 16:10:07,326 INFO Got 95 videos for Michoacán comunidad from mongo
+2025-04-26 16:10:07,370 INFO Got 99 videos for Michoacán sociedad from mongo
+2025-04-26 16:10:07,414 INFO Got 97 videos for Michoacán integración from mongo
+2025-04-26 16:23:49,515 INFO Got 100 videos for Sinaloa economía from mongo
+2025-04-26 16:23:49,561 INFO Got 92 videos for Sinaloa trabajo from mongo
+2025-04-26 16:23:49,609 INFO Got 96 videos for Sinaloa empleo from mongo
+2025-04-26 16:23:49,655 INFO Got 98 videos for Sinaloa salud from mongo
+2025-04-26 16:23:49,701 INFO Got 99 videos for Sinaloa hospital from mongo
+2025-04-26 16:23:49,750 INFO Got 99 videos for Sinaloa servicios médicos from mongo
+2025-04-26 16:23:49,798 INFO Got 99 videos for Sinaloa médico from mongo
+2025-04-26 16:23:49,846 INFO Got 100 videos for Sinaloa educación from mongo
+2025-04-26 16:23:49,893 INFO Got 91 videos for Sinaloa escuela from mongo
+2025-04-26 16:23:49,942 INFO Got 100 videos for Sinaloa universidad from mongo
+2025-04-26 16:23:49,992 INFO Got 100 videos for Sinaloa estudiantes from mongo
+2025-04-26 16:23:50,040 INFO Got 97 videos for Sinaloa seguridad social from mongo
+2025-04-26 16:23:50,090 INFO Got 98 videos for Sinaloa beneficios from mongo
+2025-04-26 16:23:50,142 INFO Got 99 videos for Sinaloa protección social from mongo
+2025-04-26 16:23:50,192 INFO Got 94 videos for Sinaloa seguro social from mongo
+2025-04-26 16:23:50,241 INFO Got 98 videos for Sinaloa vivienda from mongo
+2025-04-26 16:23:50,290 INFO Got 94 videos for Sinaloa hogar from mongo
+2025-04-26 16:23:50,334 INFO Got 100 videos for Sinaloa habitaciónes from mongo
+2025-04-26 16:23:50,378 INFO Got 99 videos for Sinaloa servicios básicos from mongo
+2025-04-26 16:23:50,422 INFO Got 100 videos for Sinaloa alimentación from mongo
+2025-04-26 16:23:50,466 INFO Got 96 videos for Sinaloa comida from mongo
+2025-04-26 16:23:50,512 INFO Got 99 videos for Sinaloa alimentos from mongo
+2025-04-26 16:23:50,560 INFO Got 100 videos for Sinaloa comunidad from mongo
+2025-04-26 16:23:50,607 INFO Got 99 videos for Sinaloa sociedad from mongo
+2025-04-26 16:23:50,655 INFO Got 98 videos for Sinaloa integración from mongo
+2025-04-26 16:26:12,860 WARNING Logger yt_client was configured with True console stream
+2025-04-26 16:26:12,980 INFO Got 100 videos for Sinaloa economía from mongo
+2025-04-26 16:26:13,020 INFO Got 92 videos for Sinaloa trabajo from mongo
+2025-04-26 16:26:13,061 INFO Got 96 videos for Sinaloa empleo from mongo
+2025-04-26 16:26:13,100 INFO Got 98 videos for Sinaloa salud from mongo
+2025-04-26 16:26:13,139 INFO Got 99 videos for Sinaloa hospital from mongo
+2025-04-26 16:26:13,178 INFO Got 99 videos for Sinaloa servicios médicos from mongo
+2025-04-26 16:26:13,216 INFO Got 99 videos for Sinaloa médico from mongo
+2025-04-26 16:26:13,255 INFO Got 100 videos for Sinaloa educación from mongo
+2025-04-26 16:26:13,293 INFO Got 91 videos for Sinaloa escuela from mongo
+2025-04-26 16:26:13,335 INFO Got 100 videos for Sinaloa universidad from mongo
+2025-04-26 16:26:13,374 INFO Got 100 videos for Sinaloa estudiantes from mongo
+2025-04-26 16:26:13,455 INFO Got 97 videos for Sinaloa seguridad social from mongo
+2025-04-26 16:26:13,500 INFO Got 98 videos for Sinaloa beneficios from mongo
+2025-04-26 16:26:13,539 INFO Got 99 videos for Sinaloa protección social from mongo
+2025-04-26 16:26:13,578 INFO Got 94 videos for Sinaloa seguro social from mongo
+2025-04-26 16:26:13,616 INFO Got 98 videos for Sinaloa vivienda from mongo
+2025-04-26 16:26:13,654 INFO Got 94 videos for Sinaloa hogar from mongo
+2025-04-26 16:26:13,692 INFO Got 100 videos for Sinaloa habitaciónes from mongo
+2025-04-26 16:26:13,729 INFO Got 99 videos for Sinaloa servicios básicos from mongo
+2025-04-26 16:26:13,767 INFO Got 100 videos for Sinaloa alimentación from mongo
+2025-04-26 16:26:13,806 INFO Got 96 videos for Sinaloa comida from mongo
+2025-04-26 16:26:13,847 INFO Got 99 videos for Sinaloa alimentos from mongo
+2025-04-26 16:26:13,889 INFO Got 100 videos for Sinaloa comunidad from mongo
+2025-04-26 16:26:13,934 INFO Got 99 videos for Sinaloa sociedad from mongo
+2025-04-26 16:26:13,981 INFO Got 98 videos for Sinaloa integración from mongo
+2025-04-26 16:41:35,393 INFO Got 100 videos for Chihuahua economía from mongo
+2025-04-26 16:41:35,444 INFO Got 100 videos for Chihuahua trabajo from mongo
+2025-04-26 16:41:35,490 INFO Got 99 videos for Chihuahua empleo from mongo
+2025-04-26 16:41:35,534 INFO Got 100 videos for Chihuahua salud from mongo
+2025-04-26 16:41:35,580 INFO Got 97 videos for Chihuahua hospital from mongo
+2025-04-26 16:41:35,627 INFO Got 85 videos for Chihuahua servicios médicos from mongo
+2025-04-26 16:41:35,673 INFO Got 93 videos for Chihuahua médico from mongo
+2025-04-26 16:41:35,722 INFO Got 99 videos for Chihuahua educación from mongo
+2025-04-26 16:41:35,769 INFO Got 99 videos for Chihuahua escuela from mongo
+2025-04-26 16:41:35,815 INFO Got 100 videos for Chihuahua universidad from mongo
+2025-04-26 16:41:35,860 INFO Got 99 videos for Chihuahua estudiantes from mongo
+2025-04-26 16:41:35,904 INFO Got 100 videos for Chihuahua seguridad social from mongo
+2025-04-26 16:41:35,950 INFO Got 87 videos for Chihuahua beneficios from mongo
+2025-04-26 16:41:35,996 INFO Got 100 videos for Chihuahua protección social from mongo
+2025-04-26 16:41:36,045 INFO Got 99 videos for Chihuahua seguro social from mongo
+2025-04-26 16:41:36,096 INFO Got 99 videos for Chihuahua vivienda from mongo
+2025-04-26 16:41:36,143 INFO Got 98 videos for Chihuahua hogar from mongo
+2025-04-26 16:41:36,191 INFO Got 95 videos for Chihuahua habitaciónes from mongo
+2025-04-26 16:41:36,238 INFO Got 100 videos for Chihuahua servicios básicos from mongo
+2025-04-26 16:41:36,310 INFO Got 98 videos for Chihuahua alimentación from mongo
+2025-04-26 16:41:36,353 INFO Got 96 videos for Chihuahua comida from mongo
+2025-04-26 16:41:36,397 INFO Got 100 videos for Chihuahua alimentos from mongo
+2025-04-26 16:41:36,441 INFO Got 97 videos for Chihuahua comunidad from mongo
+2025-04-26 16:41:36,484 INFO Got 100 videos for Chihuahua sociedad from mongo
+2025-04-26 16:41:36,530 INFO Got 98 videos for Chihuahua integración from mongo
+2025-04-26 17:05:34,961 INFO Got 92 videos for Guerrero economía from mongo
+2025-04-26 17:05:35,047 INFO Got 97 videos for Guerrero trabajo from mongo
+2025-04-26 17:05:35,091 INFO Got 96 videos for Guerrero empleo from mongo
+2025-04-26 17:05:35,135 INFO Got 93 videos for Guerrero salud from mongo
+2025-04-26 17:05:35,179 INFO Got 94 videos for Guerrero hospital from mongo
+2025-04-26 17:05:35,223 INFO Got 99 videos for Guerrero servicios médicos from mongo
+2025-04-26 17:05:35,266 INFO Got 88 videos for Guerrero médico from mongo
+2025-04-26 17:05:35,310 INFO Got 100 videos for Guerrero educación from mongo
+2025-04-26 17:05:35,355 INFO Got 91 videos for Guerrero escuela from mongo
+2025-04-26 17:05:35,402 INFO Got 100 videos for Guerrero universidad from mongo
+2025-04-26 17:05:35,452 INFO Got 96 videos for Guerrero estudiantes from mongo
+2025-04-26 17:05:35,499 INFO Got 92 videos for Guerrero seguridad social from mongo
+2025-04-26 17:05:35,545 INFO Got 100 videos for Guerrero beneficios from mongo
+2025-04-26 17:05:35,594 INFO Got 100 videos for Guerrero protección social from mongo
+2025-04-26 17:05:35,639 INFO Got 100 videos for Guerrero seguro social from mongo
+2025-04-26 17:05:35,683 INFO Got 100 videos for Guerrero vivienda from mongo
+2025-04-26 17:05:35,727 INFO Got 94 videos for Guerrero hogar from mongo
+2025-04-26 17:05:35,773 INFO Got 99 videos for Guerrero habitaciónes from mongo
+2025-04-26 17:05:35,820 INFO Got 97 videos for Guerrero servicios básicos from mongo
+2025-04-26 17:05:35,866 INFO Got 100 videos for Guerrero alimentación from mongo
+2025-04-26 17:05:35,915 INFO Got 100 videos for Guerrero comida from mongo
+2025-04-26 17:05:35,961 INFO Got 98 videos for Guerrero alimentos from mongo
+2025-04-26 17:05:36,012 INFO Got 99 videos for Guerrero comunidad from mongo
+2025-04-26 17:05:36,058 INFO Got 82 videos for Guerrero sociedad from mongo
+2025-04-26 17:05:36,104 INFO Got 98 videos for Guerrero integración from mongo
+2025-04-26 17:08:32,022 WARNING Logger yt_client was configured with True console stream
+2025-04-26 17:08:32,127 INFO Got 92 videos for Guerrero economía from mongo
+2025-04-26 17:08:32,194 INFO Got 97 videos for Guerrero trabajo from mongo
+2025-04-26 17:08:32,232 INFO Got 96 videos for Guerrero empleo from mongo
+2025-04-26 17:08:32,267 INFO Got 93 videos for Guerrero salud from mongo
+2025-04-26 17:08:32,302 INFO Got 94 videos for Guerrero hospital from mongo
+2025-04-26 17:08:32,338 INFO Got 99 videos for Guerrero servicios médicos from mongo
+2025-04-26 17:08:32,372 INFO Got 88 videos for Guerrero médico from mongo
+2025-04-26 17:08:32,407 INFO Got 100 videos for Guerrero educación from mongo
+2025-04-26 17:08:32,441 INFO Got 91 videos for Guerrero escuela from mongo
+2025-04-26 17:08:32,477 INFO Got 100 videos for Guerrero universidad from mongo
+2025-04-26 17:08:32,512 INFO Got 96 videos for Guerrero estudiantes from mongo
+2025-04-26 17:08:32,558 INFO Got 92 videos for Guerrero seguridad social from mongo
+2025-04-26 17:08:32,604 INFO Got 100 videos for Guerrero beneficios from mongo
+2025-04-26 17:08:32,641 INFO Got 100 videos for Guerrero protección social from mongo
+2025-04-26 17:08:32,677 INFO Got 100 videos for Guerrero seguro social from mongo
+2025-04-26 17:08:32,713 INFO Got 100 videos for Guerrero vivienda from mongo
+2025-04-26 17:08:32,748 INFO Got 94 videos for Guerrero hogar from mongo
+2025-04-26 17:08:32,782 INFO Got 99 videos for Guerrero habitaciónes from mongo
+2025-04-26 17:08:32,817 INFO Got 97 videos for Guerrero servicios básicos from mongo
+2025-04-26 17:08:32,851 INFO Got 100 videos for Guerrero alimentación from mongo
+2025-04-26 17:08:32,887 INFO Got 100 videos for Guerrero comida from mongo
+2025-04-26 17:08:32,921 INFO Got 98 videos for Guerrero alimentos from mongo
+2025-04-26 17:08:32,955 INFO Got 99 videos for Guerrero comunidad from mongo
+2025-04-26 17:08:32,990 INFO Got 82 videos for Guerrero sociedad from mongo
+2025-04-26 17:08:33,025 INFO Got 98 videos for Guerrero integración from mongo
+2025-04-26 17:36:56,044 INFO Got 94 videos for Tamaulipas economía from mongo
+2025-04-26 17:36:56,170 INFO Got 96 videos for Tamaulipas trabajo from mongo
+2025-04-26 17:36:56,217 INFO Got 97 videos for Tamaulipas empleo from mongo
+2025-04-26 17:36:56,262 INFO Got 98 videos for Tamaulipas salud from mongo
+2025-04-26 17:36:56,309 INFO Got 100 videos for Tamaulipas hospital from mongo
+2025-04-26 17:36:56,357 INFO Got 98 videos for Tamaulipas servicios médicos from mongo
+2025-04-26 17:36:56,406 INFO Got 100 videos for Tamaulipas médico from mongo
+2025-04-26 17:36:56,451 INFO Got 100 videos for Tamaulipas educación from mongo
+2025-04-26 17:36:56,496 INFO Got 100 videos for Tamaulipas escuela from mongo
+2025-04-26 17:36:56,543 INFO Got 98 videos for Tamaulipas universidad from mongo
+2025-04-26 17:36:56,597 INFO Got 98 videos for Tamaulipas estudiantes from mongo
+2025-04-26 17:36:56,644 INFO Got 99 videos for Tamaulipas seguridad social from mongo
+2025-04-26 17:36:56,690 INFO Got 100 videos for Tamaulipas beneficios from mongo
+2025-04-26 17:36:56,736 INFO Got 100 videos for Tamaulipas protección social from mongo
+2025-04-26 17:36:56,782 INFO Got 98 videos for Tamaulipas seguro social from mongo
+2025-04-26 17:36:56,827 INFO Got 100 videos for Tamaulipas vivienda from mongo
+2025-04-26 17:36:56,872 INFO Got 99 videos for Tamaulipas hogar from mongo
+2025-04-26 17:36:56,917 INFO Got 100 videos for Tamaulipas habitaciónes from mongo
+2025-04-26 17:36:56,963 INFO Got 98 videos for Tamaulipas servicios básicos from mongo
+2025-04-26 17:36:57,008 INFO Got 99 videos for Tamaulipas alimentación from mongo
+2025-04-26 17:36:57,055 INFO Got 96 videos for Tamaulipas comida from mongo
+2025-04-26 17:36:57,101 INFO Got 99 videos for Tamaulipas alimentos from mongo
+2025-04-26 17:36:57,147 INFO Got 100 videos for Tamaulipas comunidad from mongo
+2025-04-26 17:36:57,192 INFO Got 100 videos for Tamaulipas sociedad from mongo
+2025-04-26 17:36:57,237 INFO Got 100 videos for Tamaulipas integración from mongo
+2025-04-26 17:52:58,615 INFO Got 100 videos for Baja California economía from mongo
+2025-04-26 17:52:58,664 INFO Got 100 videos for Baja California trabajo from mongo
+2025-04-26 17:52:58,712 INFO Got 86 videos for Baja California empleo from mongo
+2025-04-26 17:52:58,758 INFO Got 100 videos for Baja California salud from mongo
+2025-04-26 17:52:58,806 INFO Got 95 videos for Baja California hospital from mongo
+2025-04-26 17:52:58,869 INFO Got 99 videos for Baja California servicios médicos from mongo
+2025-04-26 17:52:58,917 INFO Got 99 videos for Baja California médico from mongo
+2025-04-26 17:52:58,966 INFO Got 96 videos for Baja California educación from mongo
+2025-04-26 17:52:59,014 INFO Got 92 videos for Baja California escuela from mongo
+2025-04-26 17:52:59,062 INFO Got 100 videos for Baja California universidad from mongo
+2025-04-26 17:52:59,109 INFO Got 99 videos for Baja California estudiantes from mongo
+2025-04-26 17:52:59,159 INFO Got 99 videos for Baja California seguridad social from mongo
+2025-04-26 17:52:59,206 INFO Got 99 videos for Baja California beneficios from mongo
+2025-04-26 17:52:59,262 INFO Got 98 videos for Baja California protección social from mongo
+2025-04-26 17:52:59,309 INFO Got 100 videos for Baja California seguro social from mongo
+2025-04-26 17:52:59,356 INFO Got 100 videos for Baja California vivienda from mongo
+2025-04-26 17:52:59,403 INFO Got 97 videos for Baja California hogar from mongo
+2025-04-26 17:52:59,450 INFO Got 98 videos for Baja California habitaciónes from mongo
+2025-04-26 17:52:59,497 INFO Got 100 videos for Baja California servicios básicos from mongo
+2025-04-26 17:52:59,570 INFO Got 100 videos for Baja California alimentación from mongo
+2025-04-26 17:52:59,615 INFO Got 94 videos for Baja California comida from mongo
+2025-04-26 17:52:59,660 INFO Got 100 videos for Baja California alimentos from mongo
+2025-04-26 17:52:59,705 INFO Got 99 videos for Baja California comunidad from mongo
+2025-04-26 17:52:59,751 INFO Got 100 videos for Baja California sociedad from mongo
+2025-04-26 17:52:59,798 INFO Got 99 videos for Baja California integración from mongo
+2025-04-26 19:52:45,369 WARNING Logger yt_client was configured with True console stream
+2025-04-26 19:52:45,502 INFO Got 100 videos for Zacatecas economía from mongo
+2025-04-26 19:52:45,545 INFO Got 100 videos for Zacatecas trabajo from mongo
+2025-04-26 19:52:45,588 INFO Got 100 videos for Zacatecas empleo from mongo
+2025-04-26 19:52:45,629 INFO Got 100 videos for Zacatecas salud from mongo
+2025-04-26 19:52:45,672 INFO Got 100 videos for Zacatecas hospital from mongo
+2025-04-26 19:52:45,713 INFO Got 99 videos for Zacatecas servicios médicos from mongo
+2025-04-26 19:52:45,755 INFO Got 97 videos for Zacatecas médico from mongo
+2025-04-26 19:52:45,798 INFO Got 100 videos for Zacatecas educación from mongo
+2025-04-26 19:52:45,841 INFO Got 100 videos for Zacatecas escuela from mongo
+2025-04-26 19:52:45,885 INFO Got 100 videos for Zacatecas universidad from mongo
+2025-04-26 19:52:45,932 INFO Got 99 videos for Zacatecas estudiantes from mongo
+2025-04-26 19:52:45,976 INFO Got 100 videos for Zacatecas seguridad social from mongo
+2025-04-26 19:52:46,019 INFO Got 89 videos for Zacatecas beneficios from mongo
+2025-04-26 19:52:46,063 INFO Got 100 videos for Zacatecas protección social from mongo
+2025-04-26 19:52:46,112 INFO Got 100 videos for Zacatecas seguro social from mongo
+2025-04-26 19:52:46,155 INFO Got 100 videos for Zacatecas vivienda from mongo
+2025-04-26 19:52:46,199 INFO Got 95 videos for Zacatecas hogar from mongo
+2025-04-26 19:52:46,243 INFO Got 94 videos for Zacatecas habitaciónes from mongo
+2025-04-26 19:52:46,286 INFO Got 99 videos for Zacatecas servicios básicos from mongo
+2025-04-26 19:52:46,328 INFO Got 96 videos for Zacatecas alimentación from mongo
+2025-04-26 19:52:46,380 INFO Got 100 videos for Zacatecas comida from mongo
+2025-04-26 19:52:46,424 INFO Got 98 videos for Zacatecas alimentos from mongo
+2025-04-26 19:52:46,479 INFO Got 100 videos for Zacatecas comunidad from mongo
+2025-04-26 19:52:46,524 INFO Got 98 videos for Zacatecas sociedad from mongo
+2025-04-26 19:52:46,566 INFO Got 100 videos for Zacatecas integración from mongo
+2025-04-26 20:12:12,487 INFO Got 100 videos for Baja California economía from mongo
+2025-04-26 20:12:12,542 INFO Got 100 videos for Baja California trabajo from mongo
+2025-04-26 20:12:12,585 INFO Got 86 videos for Baja California empleo from mongo
+2025-04-26 20:12:12,627 INFO Got 100 videos for Baja California salud from mongo
+2025-04-26 20:12:12,669 INFO Got 95 videos for Baja California hospital from mongo
+2025-04-26 20:12:12,712 INFO Got 99 videos for Baja California servicios médicos from mongo
+2025-04-26 20:12:12,754 INFO Got 99 videos for Baja California médico from mongo
+2025-04-26 20:12:12,802 INFO Got 96 videos for Baja California educación from mongo
+2025-04-26 20:12:12,843 INFO Got 92 videos for Baja California escuela from mongo
+2025-04-26 20:12:12,883 INFO Got 100 videos for Baja California universidad from mongo
+2025-04-26 20:12:12,925 INFO Got 99 videos for Baja California estudiantes from mongo
+2025-04-26 20:12:12,966 INFO Got 99 videos for Baja California seguridad social from mongo
+2025-04-26 20:12:13,015 INFO Got 99 videos for Baja California beneficios from mongo
+2025-04-26 20:12:13,060 INFO Got 98 videos for Baja California protección social from mongo
+2025-04-26 20:12:13,101 INFO Got 100 videos for Baja California seguro social from mongo
+2025-04-26 20:12:13,143 INFO Got 100 videos for Baja California vivienda from mongo
+2025-04-26 20:12:13,206 INFO Got 97 videos for Baja California hogar from mongo
+2025-04-26 20:12:13,246 INFO Got 98 videos for Baja California habitaciónes from mongo
+2025-04-26 20:12:13,289 INFO Got 100 videos for Baja California servicios básicos from mongo
+2025-04-26 20:12:13,331 INFO Got 100 videos for Baja California alimentación from mongo
+2025-04-26 20:12:13,372 INFO Got 94 videos for Baja California comida from mongo
+2025-04-26 20:12:13,413 INFO Got 100 videos for Baja California alimentos from mongo
+2025-04-26 20:12:13,454 INFO Got 99 videos for Baja California comunidad from mongo
+2025-04-26 20:12:13,516 INFO Got 100 videos for Baja California sociedad from mongo
+2025-04-26 20:12:13,557 INFO Got 99 videos for Baja California integración from mongo
+2025-04-29 17:25:30,965 WARNING Logger yt_client was configured with True console stream
+2025-04-29 17:25:31,594 INFO Got 50 videos for Switzerland work
+2025-04-29 17:25:32,157 INFO Got 100 videos for Switzerland work
+2025-04-29 17:25:33,051 INFO Got 50 videos for Switzerland job
+2025-04-29 17:25:33,588 INFO Got 100 videos for Switzerland job
+2025-04-29 17:25:34,414 INFO Got 50 videos for Switzerland employment
+2025-04-29 17:25:34,817 INFO Got 100 videos for Switzerland employment
+2025-04-29 17:25:35,739 INFO Got 50 videos for Switzerland education
+2025-04-29 17:25:36,152 INFO Got 100 videos for Switzerland education
+2025-04-29 17:25:36,910 INFO Got 50 videos for Switzerland school
+2025-04-29 17:25:37,377 INFO Got 100 videos for Switzerland school
+2025-04-29 17:25:38,196 INFO Got 50 videos for Switzerland medical services
+2025-04-29 17:25:38,606 INFO Got 100 videos for Switzerland medical services
+2025-04-29 17:25:39,337 INFO Got 50 videos for Switzerland insurance
+2025-04-29 17:25:39,831 INFO Got 100 videos for Switzerland insurance
+2025-04-29 17:25:40,702 INFO Got 50 videos for Switzerland university
+2025-04-29 17:25:41,274 INFO Got 100 videos for Switzerland university
+2025-04-29 17:25:41,909 INFO Got 50 videos for Switzerland food
+2025-04-29 17:25:42,397 INFO Got 100 videos for Switzerland food
+2025-04-29 17:25:43,199 INFO Got 50 videos for Switzerland benefits
+2025-04-29 17:25:43,508 INFO Got 100 videos for Switzerland benefits
+2025-04-29 17:25:44,459 INFO Got 50 videos for Switzerland social security
+2025-04-29 17:25:44,985 INFO Got 100 videos for Switzerland social security
+2025-04-29 17:25:45,898 INFO Got 50 videos for Switzerland security
+2025-04-29 17:25:46,325 INFO Got 100 videos for Switzerland security
+2025-04-29 17:25:47,277 INFO Got 50 videos for Switzerland housing
+2025-04-29 17:25:47,822 INFO Got 100 videos for Switzerland housing
+2025-04-29 17:25:48,745 INFO Got 50 videos for Switzerland houses
+2025-04-29 17:25:49,179 INFO Got 100 videos for Switzerland houses
+2025-04-29 17:25:50,018 INFO Got 50 videos for Switzerland living
+2025-04-29 17:25:50,424 INFO Got 100 videos for Switzerland living
+2025-04-29 17:25:51,382 INFO Got 50 videos for Switzerland diet
+2025-04-29 17:25:51,998 INFO Got 100 videos for Switzerland diet
+2025-04-29 17:25:52,940 INFO Got 50 videos for Switzerland community
+2025-04-29 17:25:53,438 INFO Got 100 videos for Switzerland community
+2025-04-29 17:25:54,424 INFO Got 50 videos for Switzerland society
+2025-04-29 17:25:54,946 INFO Got 100 videos for Switzerland society
+2025-04-29 17:25:55,894 INFO Got 50 videos for Switzerland discrimination
+2025-04-29 17:25:56,425 INFO Got 100 videos for Switzerland discrimination
+2025-04-29 17:26:32,398 WARNING Logger yt_client was configured with True console stream
+2025-04-29 17:26:32,585 INFO Got 100 videos for Switzerland work from mongo
+2025-04-29 17:26:32,752 INFO Got 100 videos for Switzerland job from mongo
+2025-04-29 17:26:32,814 INFO Got 100 videos for Switzerland employment from mongo
+2025-04-29 17:26:32,877 INFO Got 98 videos for Switzerland education from mongo
+2025-04-29 17:26:32,938 INFO Got 100 videos for Switzerland school from mongo
+2025-04-29 17:26:32,998 INFO Got 99 videos for Switzerland medical services from mongo
+2025-04-29 17:26:33,060 INFO Got 98 videos for Switzerland insurance from mongo
+2025-04-29 17:26:33,129 INFO Got 100 videos for Switzerland university from mongo
+2025-04-29 17:26:33,274 INFO Got 97 videos for Switzerland food from mongo
+2025-04-29 17:26:33,335 INFO Got 96 videos for Switzerland benefits from mongo
+2025-04-29 17:26:33,394 INFO Got 90 videos for Switzerland social security from mongo
+2025-04-29 17:26:33,454 INFO Got 90 videos for Switzerland security from mongo
+2025-04-29 17:26:33,516 INFO Got 100 videos for Switzerland housing from mongo
+2025-04-29 17:26:33,580 INFO Got 100 videos for Switzerland houses from mongo
+2025-04-29 17:26:33,641 INFO Got 99 videos for Switzerland living from mongo
+2025-04-29 17:26:33,747 INFO Got 99 videos for Switzerland diet from mongo
+2025-04-29 17:26:33,808 INFO Got 99 videos for Switzerland community from mongo
+2025-04-29 17:26:33,869 INFO Got 97 videos for Switzerland society from mongo
+2025-04-29 17:26:33,931 INFO Got 99 videos for Switzerland discrimination from mongo

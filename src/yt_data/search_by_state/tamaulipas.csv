@@ -1,8 +1,0 @@
-state,dimension,word_count,comments_count,avg_sentiment
-Tamaulipas,INCOME,23,20,-0.55
-Tamaulipas,ACCESS TO HEALTH SERVICES,8,8,-0.75
-Tamaulipas,EDUCATIONAL LAG,1,1,-0.5
-Tamaulipas,ACCESS TO SOCIAL SECURITY,3,3,-0.8333333333333334
-Tamaulipas,HOUSING,12,12,-0.7916666666666666
-Tamaulipas,ACCESS TO FOOD,10,10,-0.7
-Tamaulipas,SOCIAL COHESION,0,0,0.0

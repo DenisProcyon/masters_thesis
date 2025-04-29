@@ -1,8 +1,0 @@
-state,dimension,word_count,comments_count,avg_sentiment
-Chihuahua,INCOME,10,10,-0.55
-Chihuahua,ACCESS TO HEALTH SERVICES,8,7,-0.14285714285714285
-Chihuahua,EDUCATIONAL LAG,0,0,0.0
-Chihuahua,ACCESS TO SOCIAL SECURITY,1,1,-1.0
-Chihuahua,HOUSING,1,1,-1.0
-Chihuahua,ACCESS TO FOOD,23,22,-0.11363636363636363
-Chihuahua,SOCIAL COHESION,2,2,1.0

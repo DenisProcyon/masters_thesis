@@ -2746,3 +2746,552 @@
 2025-04-24 18:18:49,891 WARNING No videos found for keyword Baja California integración
 2025-04-24 18:19:24,689 WARNING Logger Mongo was configured with True console stream
 2025-04-24 18:19:25,021 INFO Connected to thesis database on 206.81.16.39
+2025-04-25 15:38:47,579 WARNING Logger Mongo was configured with True console stream
+2025-04-25 15:38:47,968 INFO Connected to thesis database on 206.81.16.39
+2025-04-25 15:56:43,073 WARNING No videos found for keyword Baja California escuela
+2025-04-25 15:56:45,219 WARNING Removed 8 duplicates from entries
+2025-04-25 15:56:45,704 INFO Collection for keyword Baja California escuela was not found in db. Creating...
+2025-04-25 15:56:45,835 INFO Collection for Baja California escuela was created
+2025-04-25 15:56:46,096 INFO Inserted 92 new videos into collection Baja California escuela
+2025-04-25 15:56:46,147 WARNING No videos found for keyword Baja California universidad
+2025-04-25 15:56:47,075 WARNING Removed 0 duplicates from entries
+2025-04-25 15:56:47,179 INFO Collection for keyword Baja California universidad was not found in db. Creating...
+2025-04-25 15:56:47,302 INFO Collection for Baja California universidad was created
+2025-04-25 15:56:47,466 INFO Inserted 100 new videos into collection Baja California universidad
+2025-04-25 15:56:47,523 WARNING No videos found for keyword Baja California estudiantes
+2025-04-25 15:56:48,511 WARNING Removed 1 duplicates from entries
+2025-04-25 15:56:48,626 INFO Collection for keyword Baja California estudiantes was not found in db. Creating...
+2025-04-25 15:56:48,744 INFO Collection for Baja California estudiantes was created
+2025-04-25 15:56:48,886 INFO Inserted 99 new videos into collection Baja California estudiantes
+2025-04-25 15:56:48,941 WARNING No videos found for keyword Baja California seguridad social
+2025-04-25 15:56:49,777 WARNING Removed 1 duplicates from entries
+2025-04-25 15:56:49,902 INFO Collection for keyword Baja California seguridad social was not found in db. Creating...
+2025-04-25 15:56:50,017 INFO Collection for Baja California seguridad social was created
+2025-04-25 15:56:50,127 INFO Inserted 99 new videos into collection Baja California seguridad social
+2025-04-25 15:56:50,182 WARNING No videos found for keyword Baja California beneficios
+2025-04-25 15:56:51,340 WARNING Removed 1 duplicates from entries
+2025-04-25 15:56:51,459 INFO Collection for keyword Baja California beneficios was not found in db. Creating...
+2025-04-25 15:56:51,586 INFO Collection for Baja California beneficios was created
+2025-04-25 15:56:51,658 INFO Inserted 99 new videos into collection Baja California beneficios
+2025-04-25 15:56:51,719 WARNING No videos found for keyword Baja California protección social
+2025-04-25 15:56:52,706 WARNING Removed 2 duplicates from entries
+2025-04-25 15:56:52,825 INFO Collection for keyword Baja California protección social was not found in db. Creating...
+2025-04-25 15:56:52,952 INFO Collection for Baja California protección social was created
+2025-04-25 15:56:53,017 INFO Inserted 98 new videos into collection Baja California protección social
+2025-04-25 15:56:53,072 WARNING No videos found for keyword Baja California seguro social
+2025-04-25 15:56:53,950 WARNING Removed 0 duplicates from entries
+2025-04-25 15:56:54,069 INFO Collection for keyword Baja California seguro social was not found in db. Creating...
+2025-04-25 15:56:54,201 INFO Collection for Baja California seguro social was created
+2025-04-25 15:56:54,269 INFO Inserted 100 new videos into collection Baja California seguro social
+2025-04-25 15:56:54,449 WARNING No videos found for keyword Baja California hogar
+2025-04-25 15:56:55,410 WARNING Removed 3 duplicates from entries
+2025-04-25 15:56:55,521 INFO Collection for keyword Baja California hogar was not found in db. Creating...
+2025-04-25 15:56:55,689 INFO Collection for Baja California hogar was created
+2025-04-25 15:56:55,756 INFO Inserted 97 new videos into collection Baja California hogar
+2025-04-25 15:56:55,813 WARNING No videos found for keyword Baja California habitaciónes
+2025-04-25 15:56:56,668 WARNING Removed 2 duplicates from entries
+2025-04-25 15:56:56,790 INFO Collection for keyword Baja California habitaciónes was not found in db. Creating...
+2025-04-25 15:56:56,913 INFO Collection for Baja California habitaciónes was created
+2025-04-25 15:56:56,993 INFO Inserted 98 new videos into collection Baja California habitaciónes
+2025-04-25 15:56:57,060 WARNING No videos found for keyword Baja California servicios básicos
+2025-04-25 15:56:57,922 WARNING Removed 0 duplicates from entries
+2025-04-25 15:56:58,032 INFO Collection for keyword Baja California servicios básicos was not found in db. Creating...
+2025-04-25 15:56:58,161 INFO Collection for Baja California servicios básicos was created
+2025-04-25 15:56:58,227 INFO Inserted 100 new videos into collection Baja California servicios básicos
+2025-04-25 15:56:58,282 WARNING No videos found for keyword Baja California alimentación
+2025-04-25 15:56:59,205 WARNING Removed 0 duplicates from entries
+2025-04-25 15:56:59,320 INFO Collection for keyword Baja California alimentación was not found in db. Creating...
+2025-04-25 15:56:59,443 INFO Collection for Baja California alimentación was created
+2025-04-25 15:56:59,508 INFO Inserted 100 new videos into collection Baja California alimentación
+2025-04-25 15:56:59,561 WARNING No videos found for keyword Baja California comida
+2025-04-25 15:57:00,579 WARNING Removed 6 duplicates from entries
+2025-04-25 15:57:00,736 INFO Collection for keyword Baja California comida was not found in db. Creating...
+2025-04-25 15:57:00,866 INFO Collection for Baja California comida was created
+2025-04-25 15:57:00,946 INFO Inserted 94 new videos into collection Baja California comida
+2025-04-25 15:57:01,022 WARNING No videos found for keyword Baja California alimentos
+2025-04-25 15:57:01,762 WARNING Removed 0 duplicates from entries
+2025-04-25 15:57:01,927 INFO Collection for keyword Baja California alimentos was not found in db. Creating...
+2025-04-25 15:57:02,061 INFO Collection for Baja California alimentos was created
+2025-04-25 15:57:02,131 INFO Inserted 100 new videos into collection Baja California alimentos
+2025-04-25 15:57:02,194 WARNING No videos found for keyword Baja California comunidad
+2025-04-25 15:57:03,025 WARNING Removed 1 duplicates from entries
+2025-04-25 15:57:03,148 INFO Collection for keyword Baja California comunidad was not found in db. Creating...
+2025-04-25 15:57:03,302 INFO Collection for Baja California comunidad was created
+2025-04-25 15:57:03,392 INFO Inserted 99 new videos into collection Baja California comunidad
+2025-04-25 15:57:03,461 WARNING No videos found for keyword Baja California sociedad
+2025-04-25 15:57:04,295 WARNING Removed 0 duplicates from entries
+2025-04-25 15:57:04,413 INFO Collection for keyword Baja California sociedad was not found in db. Creating...
+2025-04-25 15:57:04,560 INFO Collection for Baja California sociedad was created
+2025-04-25 15:57:04,646 INFO Inserted 100 new videos into collection Baja California sociedad
+2025-04-25 15:57:04,704 WARNING No videos found for keyword Baja California integración
+2025-04-25 15:57:05,582 WARNING Removed 1 duplicates from entries
+2025-04-25 15:57:05,706 INFO Collection for keyword Baja California integración was not found in db. Creating...
+2025-04-25 15:57:05,841 INFO Collection for Baja California integración was created
+2025-04-25 15:57:05,911 INFO Inserted 99 new videos into collection Baja California integración
+2025-04-25 16:01:28,251 WARNING No videos found for keyword Zacatecas economía
+2025-04-25 16:01:29,480 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:29,601 INFO Collection for keyword Zacatecas economía was not found in db. Creating...
+2025-04-25 16:01:29,721 INFO Collection for Zacatecas economía was created
+2025-04-25 16:01:30,054 INFO Inserted 100 new videos into collection Zacatecas economía
+2025-04-25 16:01:30,112 WARNING No videos found for keyword Zacatecas trabajo
+2025-04-25 16:01:30,975 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:31,091 INFO Collection for keyword Zacatecas trabajo was not found in db. Creating...
+2025-04-25 16:01:31,216 INFO Collection for Zacatecas trabajo was created
+2025-04-25 16:01:31,388 INFO Inserted 100 new videos into collection Zacatecas trabajo
+2025-04-25 16:01:31,452 WARNING No videos found for keyword Zacatecas empleo
+2025-04-25 16:01:32,429 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:32,538 INFO Collection for keyword Zacatecas empleo was not found in db. Creating...
+2025-04-25 16:01:32,659 INFO Collection for Zacatecas empleo was created
+2025-04-25 16:01:32,835 INFO Inserted 100 new videos into collection Zacatecas empleo
+2025-04-25 16:01:33,001 WARNING No videos found for keyword Zacatecas hospital
+2025-04-25 16:01:33,759 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:33,869 INFO Collection for keyword Zacatecas hospital was not found in db. Creating...
+2025-04-25 16:01:33,986 INFO Collection for Zacatecas hospital was created
+2025-04-25 16:01:34,317 INFO Inserted 100 new videos into collection Zacatecas hospital
+2025-04-25 16:01:34,374 WARNING No videos found for keyword Zacatecas servicios médicos
+2025-04-25 16:01:35,328 WARNING Removed 1 duplicates from entries
+2025-04-25 16:01:35,437 INFO Collection for keyword Zacatecas servicios médicos was not found in db. Creating...
+2025-04-25 16:01:35,551 INFO Collection for Zacatecas servicios médicos was created
+2025-04-25 16:01:35,671 INFO Inserted 99 new videos into collection Zacatecas servicios médicos
+2025-04-25 16:01:35,724 WARNING No videos found for keyword Zacatecas médico
+2025-04-25 16:01:36,636 WARNING Removed 3 duplicates from entries
+2025-04-25 16:01:36,747 INFO Collection for keyword Zacatecas médico was not found in db. Creating...
+2025-04-25 16:01:36,881 INFO Collection for Zacatecas médico was created
+2025-04-25 16:01:36,938 INFO Inserted 97 new videos into collection Zacatecas médico
+2025-04-25 16:01:37,121 WARNING No videos found for keyword Zacatecas escuela
+2025-04-25 16:01:37,974 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:38,090 INFO Collection for keyword Zacatecas escuela was not found in db. Creating...
+2025-04-25 16:01:38,236 INFO Collection for Zacatecas escuela was created
+2025-04-25 16:01:38,305 INFO Inserted 100 new videos into collection Zacatecas escuela
+2025-04-25 16:01:38,400 WARNING No videos found for keyword Zacatecas universidad
+2025-04-25 16:01:39,313 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:39,433 INFO Collection for keyword Zacatecas universidad was not found in db. Creating...
+2025-04-25 16:01:39,549 INFO Collection for Zacatecas universidad was created
+2025-04-25 16:01:39,611 INFO Inserted 100 new videos into collection Zacatecas universidad
+2025-04-25 16:01:39,667 WARNING No videos found for keyword Zacatecas estudiantes
+2025-04-25 16:01:40,551 WARNING Removed 1 duplicates from entries
+2025-04-25 16:01:40,657 INFO Collection for keyword Zacatecas estudiantes was not found in db. Creating...
+2025-04-25 16:01:40,779 INFO Collection for Zacatecas estudiantes was created
+2025-04-25 16:01:40,850 INFO Inserted 99 new videos into collection Zacatecas estudiantes
+2025-04-25 16:01:40,913 WARNING No videos found for keyword Zacatecas seguridad social
+2025-04-25 16:01:41,803 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:41,940 INFO Collection for keyword Zacatecas seguridad social was not found in db. Creating...
+2025-04-25 16:01:42,070 INFO Collection for Zacatecas seguridad social was created
+2025-04-25 16:01:42,134 INFO Inserted 100 new videos into collection Zacatecas seguridad social
+2025-04-25 16:01:42,188 WARNING No videos found for keyword Zacatecas beneficios
+2025-04-25 16:01:43,097 WARNING Removed 11 duplicates from entries
+2025-04-25 16:01:43,201 INFO Collection for keyword Zacatecas beneficios was not found in db. Creating...
+2025-04-25 16:01:43,319 INFO Collection for Zacatecas beneficios was created
+2025-04-25 16:01:43,379 INFO Inserted 89 new videos into collection Zacatecas beneficios
+2025-04-25 16:01:43,431 WARNING No videos found for keyword Zacatecas protección social
+2025-04-25 16:01:44,316 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:44,421 INFO Collection for keyword Zacatecas protección social was not found in db. Creating...
+2025-04-25 16:01:44,535 INFO Collection for Zacatecas protección social was created
+2025-04-25 16:01:44,592 INFO Inserted 100 new videos into collection Zacatecas protección social
+2025-04-25 16:01:44,642 WARNING No videos found for keyword Zacatecas seguro social
+2025-04-25 16:01:45,573 WARNING Removed 0 duplicates from entries
+2025-04-25 16:01:45,678 INFO Collection for keyword Zacatecas seguro social was not found in db. Creating...
+2025-04-25 16:01:45,809 INFO Collection for Zacatecas seguro social was created
+2025-04-25 16:01:45,870 INFO Inserted 100 new videos into collection Zacatecas seguro social
+2025-04-25 16:01:46,038 WARNING No videos found for keyword Zacatecas hogar
+2025-04-25 16:01:46,784 WARNING Removed 5 duplicates from entries
+2025-04-25 16:01:46,897 INFO Collection for keyword Zacatecas hogar was not found in db. Creating...
+2025-04-25 16:01:47,017 INFO Collection for Zacatecas hogar was created
+2025-04-25 16:01:47,083 INFO Inserted 95 new videos into collection Zacatecas hogar
+2025-04-25 16:01:47,141 WARNING No videos found for keyword Zacatecas habitaciónes
+2025-04-25 16:01:47,966 WARNING Removed 6 duplicates from entries
+2025-04-25 16:01:48,076 INFO Collection for keyword Zacatecas habitaciónes was not found in db. Creating...
+2025-04-25 16:01:48,207 INFO Collection for Zacatecas habitaciónes was created
+2025-04-25 16:01:48,286 INFO Inserted 94 new videos into collection Zacatecas habitaciónes
+2025-04-25 16:01:48,337 WARNING No videos found for keyword Zacatecas servicios básicos
+2025-04-25 16:01:49,119 WARNING Removed 1 duplicates from entries
+2025-04-25 16:01:49,228 INFO Collection for keyword Zacatecas servicios básicos was not found in db. Creating...
+2025-04-25 16:01:49,338 INFO Collection for Zacatecas servicios básicos was created
+2025-04-25 16:01:49,448 INFO Inserted 99 new videos into collection Zacatecas servicios básicos
+2025-04-25 16:01:49,513 WARNING No videos found for keyword Zacatecas alimentación
+2025-04-25 16:01:50,342 WARNING Removed 4 duplicates from entries
+2025-04-25 16:01:50,462 INFO Collection for keyword Zacatecas alimentación was not found in db. Creating...
+2025-04-25 16:01:50,582 INFO Collection for Zacatecas alimentación was created
+2025-04-25 16:01:50,642 INFO Inserted 96 new videos into collection Zacatecas alimentación
+2025-04-25 16:01:50,699 WARNING No videos found for keyword Zacatecas comida
+2025-04-25 16:01:51,361 WARNING No videos found for keyword Zacatecas alimentos
+2025-04-25 16:01:51,482 WARNING No videos found for keyword Zacatecas comunidad
+2025-04-25 16:01:51,705 WARNING No videos found for keyword Zacatecas sociedad
+2025-04-25 16:01:52,381 WARNING No videos found for keyword Zacatecas integración
+2025-04-25 16:04:29,475 WARNING Logger Mongo was configured with True console stream
+2025-04-25 16:04:29,949 INFO Connected to thesis database on 206.81.16.39
+2025-04-25 16:04:31,328 WARNING No videos found for keyword Zacatecas comida
+2025-04-25 16:04:32,335 WARNING Removed 0 duplicates from entries
+2025-04-25 16:04:32,453 INFO Collection for keyword Zacatecas comida was not found in db. Creating...
+2025-04-25 16:04:32,579 INFO Collection for Zacatecas comida was created
+2025-04-25 16:04:32,762 INFO Inserted 100 new videos into collection Zacatecas comida
+2025-04-25 16:04:32,897 WARNING No videos found for keyword Zacatecas alimentos
+2025-04-25 16:04:33,840 WARNING Removed 2 duplicates from entries
+2025-04-25 16:04:33,963 INFO Collection for keyword Zacatecas alimentos was not found in db. Creating...
+2025-04-25 16:04:34,091 INFO Collection for Zacatecas alimentos was created
+2025-04-25 16:04:34,215 INFO Inserted 98 new videos into collection Zacatecas alimentos
+2025-04-25 16:04:34,271 WARNING No videos found for keyword Zacatecas comunidad
+2025-04-25 16:04:35,255 WARNING Removed 0 duplicates from entries
+2025-04-25 16:04:35,365 INFO Collection for keyword Zacatecas comunidad was not found in db. Creating...
+2025-04-25 16:04:35,484 INFO Collection for Zacatecas comunidad was created
+2025-04-25 16:04:35,546 INFO Inserted 100 new videos into collection Zacatecas comunidad
+2025-04-25 16:04:35,610 WARNING No videos found for keyword Zacatecas sociedad
+2025-04-25 16:04:36,553 WARNING Removed 2 duplicates from entries
+2025-04-25 16:04:36,656 INFO Collection for keyword Zacatecas sociedad was not found in db. Creating...
+2025-04-25 16:04:36,789 INFO Collection for Zacatecas sociedad was created
+2025-04-25 16:04:36,846 INFO Inserted 98 new videos into collection Zacatecas sociedad
+2025-04-25 16:04:36,902 WARNING No videos found for keyword Zacatecas integración
+2025-04-25 16:04:37,864 WARNING Removed 0 duplicates from entries
+2025-04-25 16:04:37,972 INFO Collection for keyword Zacatecas integración was not found in db. Creating...
+2025-04-25 16:04:38,088 INFO Collection for Zacatecas integración was created
+2025-04-25 16:04:38,164 INFO Inserted 100 new videos into collection Zacatecas integración
+2025-04-25 16:20:46,055 WARNING No videos found for keyword Colima economía
+2025-04-25 16:20:47,250 WARNING Removed 4 duplicates from entries
+2025-04-25 16:20:47,424 INFO Collection for keyword Colima economía was not found in db. Creating...
+2025-04-25 16:20:47,538 INFO Collection for Colima economía was created
+2025-04-25 16:20:47,601 INFO Inserted 96 new videos into collection Colima economía
+2025-04-25 16:20:47,655 WARNING No videos found for keyword Colima trabajo
+2025-04-25 16:20:48,571 WARNING Removed 3 duplicates from entries
+2025-04-25 16:20:48,681 INFO Collection for keyword Colima trabajo was not found in db. Creating...
+2025-04-25 16:20:48,797 INFO Collection for Colima trabajo was created
+2025-04-25 16:20:48,852 INFO Inserted 97 new videos into collection Colima trabajo
+2025-04-25 16:20:48,904 WARNING No videos found for keyword Colima empleo
+2025-04-25 16:20:49,814 WARNING Removed 1 duplicates from entries
+2025-04-25 16:20:49,931 INFO Collection for keyword Colima empleo was not found in db. Creating...
+2025-04-25 16:20:50,041 INFO Collection for Colima empleo was created
+2025-04-25 16:20:50,102 INFO Inserted 99 new videos into collection Colima empleo
+2025-04-25 16:20:50,269 WARNING No videos found for keyword Colima hospital
+2025-04-25 16:20:51,274 WARNING Removed 13 duplicates from entries
+2025-04-25 16:20:51,386 INFO Collection for keyword Colima hospital was not found in db. Creating...
+2025-04-25 16:20:51,498 INFO Collection for Colima hospital was created
+2025-04-25 16:20:51,552 INFO Inserted 87 new videos into collection Colima hospital
+2025-04-25 16:20:51,603 WARNING No videos found for keyword Colima servicios médicos
+2025-04-25 16:20:52,562 WARNING Removed 2 duplicates from entries
+2025-04-25 16:20:52,670 INFO Collection for keyword Colima servicios médicos was not found in db. Creating...
+2025-04-25 16:20:52,779 INFO Collection for Colima servicios médicos was created
+2025-04-25 16:20:52,836 INFO Inserted 98 new videos into collection Colima servicios médicos
+2025-04-25 16:20:52,888 WARNING No videos found for keyword Colima médico
+2025-04-25 16:20:53,742 WARNING Removed 6 duplicates from entries
+2025-04-25 16:20:53,839 INFO Collection for keyword Colima médico was not found in db. Creating...
+2025-04-25 16:20:53,958 INFO Collection for Colima médico was created
+2025-04-25 16:20:54,014 INFO Inserted 94 new videos into collection Colima médico
+2025-04-25 16:20:54,173 WARNING No videos found for keyword Colima escuela
+2025-04-25 16:20:55,135 WARNING Removed 1 duplicates from entries
+2025-04-25 16:20:55,237 INFO Collection for keyword Colima escuela was not found in db. Creating...
+2025-04-25 16:20:55,353 INFO Collection for Colima escuela was created
+2025-04-25 16:20:55,409 INFO Inserted 99 new videos into collection Colima escuela
+2025-04-25 16:20:55,460 WARNING No videos found for keyword Colima universidad
+2025-04-25 16:20:56,508 WARNING Removed 0 duplicates from entries
+2025-04-25 16:20:56,617 INFO Collection for keyword Colima universidad was not found in db. Creating...
+2025-04-25 16:20:56,726 INFO Collection for Colima universidad was created
+2025-04-25 16:20:56,790 INFO Inserted 100 new videos into collection Colima universidad
+2025-04-25 16:20:56,839 WARNING No videos found for keyword Colima estudiantes
+2025-04-25 16:20:57,851 WARNING Removed 0 duplicates from entries
+2025-04-25 16:20:57,960 INFO Collection for keyword Colima estudiantes was not found in db. Creating...
+2025-04-25 16:20:58,073 INFO Collection for Colima estudiantes was created
+2025-04-25 16:20:58,132 INFO Inserted 100 new videos into collection Colima estudiantes
+2025-04-25 16:20:58,184 WARNING No videos found for keyword Colima seguridad social
+2025-04-25 16:20:59,103 WARNING Removed 5 duplicates from entries
+2025-04-25 16:20:59,208 INFO Collection for keyword Colima seguridad social was not found in db. Creating...
+2025-04-25 16:20:59,318 INFO Collection for Colima seguridad social was created
+2025-04-25 16:20:59,372 INFO Inserted 95 new videos into collection Colima seguridad social
+2025-04-25 16:20:59,421 WARNING No videos found for keyword Colima beneficios
+2025-04-25 16:21:00,372 WARNING Removed 1 duplicates from entries
+2025-04-25 16:21:00,471 INFO Collection for keyword Colima beneficios was not found in db. Creating...
+2025-04-25 16:21:00,578 INFO Collection for Colima beneficios was created
+2025-04-25 16:21:00,635 INFO Inserted 99 new videos into collection Colima beneficios
+2025-04-25 16:21:00,687 WARNING No videos found for keyword Colima protección social
+2025-04-25 16:21:01,717 WARNING Removed 0 duplicates from entries
+2025-04-25 16:21:01,826 INFO Collection for keyword Colima protección social was not found in db. Creating...
+2025-04-25 16:21:01,951 INFO Collection for Colima protección social was created
+2025-04-25 16:21:02,002 INFO Inserted 100 new videos into collection Colima protección social
+2025-04-25 16:21:02,048 WARNING No videos found for keyword Colima seguro social
+2025-04-25 16:21:02,826 WARNING Removed 1 duplicates from entries
+2025-04-25 16:21:02,934 INFO Collection for keyword Colima seguro social was not found in db. Creating...
+2025-04-25 16:21:03,047 INFO Collection for Colima seguro social was created
+2025-04-25 16:21:03,115 INFO Inserted 99 new videos into collection Colima seguro social
+2025-04-25 16:21:03,279 WARNING No videos found for keyword Colima hogar
+2025-04-25 16:21:04,182 WARNING Removed 2 duplicates from entries
+2025-04-25 16:21:04,287 INFO Collection for keyword Colima hogar was not found in db. Creating...
+2025-04-25 16:21:04,409 INFO Collection for Colima hogar was created
+2025-04-25 16:21:04,488 INFO Inserted 98 new videos into collection Colima hogar
+2025-04-25 16:21:04,544 WARNING No videos found for keyword Colima habitaciónes
+2025-04-25 16:21:05,477 WARNING Removed 15 duplicates from entries
+2025-04-25 16:21:05,580 INFO Collection for keyword Colima habitaciónes was not found in db. Creating...
+2025-04-25 16:21:05,691 INFO Collection for Colima habitaciónes was created
+2025-04-25 16:21:05,747 INFO Inserted 85 new videos into collection Colima habitaciónes
+2025-04-25 16:21:05,798 WARNING No videos found for keyword Colima servicios básicos
+2025-04-25 16:21:06,769 WARNING Removed 10 duplicates from entries
+2025-04-25 16:21:06,888 INFO Collection for keyword Colima servicios básicos was not found in db. Creating...
+2025-04-25 16:21:06,996 INFO Collection for Colima servicios básicos was created
+2025-04-25 16:21:07,052 INFO Inserted 90 new videos into collection Colima servicios básicos
+2025-04-25 16:21:07,105 WARNING No videos found for keyword Colima alimentación
+2025-04-25 16:21:08,187 WARNING Removed 0 duplicates from entries
+2025-04-25 16:21:08,300 INFO Collection for keyword Colima alimentación was not found in db. Creating...
+2025-04-25 16:21:08,418 INFO Collection for Colima alimentación was created
+2025-04-25 16:21:08,476 INFO Inserted 100 new videos into collection Colima alimentación
+2025-04-25 16:21:08,528 WARNING No videos found for keyword Colima comida
+2025-04-25 16:21:09,518 WARNING Removed 0 duplicates from entries
+2025-04-25 16:21:09,620 INFO Collection for keyword Colima comida was not found in db. Creating...
+2025-04-25 16:21:09,756 INFO Collection for Colima comida was created
+2025-04-25 16:21:09,814 INFO Inserted 100 new videos into collection Colima comida
+2025-04-25 16:21:09,867 WARNING No videos found for keyword Colima alimentos
+2025-04-25 16:21:10,907 WARNING Removed 2 duplicates from entries
+2025-04-25 16:21:11,014 INFO Collection for keyword Colima alimentos was not found in db. Creating...
+2025-04-25 16:21:11,137 INFO Collection for Colima alimentos was created
+2025-04-25 16:21:11,194 INFO Inserted 98 new videos into collection Colima alimentos
+2025-04-25 16:21:11,252 WARNING No videos found for keyword Colima comunidad
+2025-04-25 16:21:12,187 WARNING Removed 0 duplicates from entries
+2025-04-25 16:21:12,298 INFO Collection for keyword Colima comunidad was not found in db. Creating...
+2025-04-25 16:21:12,410 INFO Collection for Colima comunidad was created
+2025-04-25 16:21:12,475 INFO Inserted 100 new videos into collection Colima comunidad
+2025-04-25 16:21:12,532 WARNING No videos found for keyword Colima sociedad
+2025-04-25 16:21:13,558 WARNING Removed 0 duplicates from entries
+2025-04-25 16:21:13,719 INFO Collection for keyword Colima sociedad was not found in db. Creating...
+2025-04-25 16:21:13,832 INFO Collection for Colima sociedad was created
+2025-04-25 16:21:13,893 INFO Inserted 100 new videos into collection Colima sociedad
+2025-04-25 16:21:13,946 WARNING No videos found for keyword Colima integración
+2025-04-25 16:21:14,953 WARNING Removed 2 duplicates from entries
+2025-04-25 16:21:15,067 INFO Collection for keyword Colima integración was not found in db. Creating...
+2025-04-25 16:21:15,185 INFO Collection for Colima integración was created
+2025-04-25 16:21:15,244 INFO Inserted 98 new videos into collection Colima integración
+2025-04-25 16:23:40,033 WARNING No videos found for keyword Jalisco economía
+2025-04-25 16:23:40,962 WARNING Removed 0 duplicates from entries
+2025-04-25 16:23:41,069 INFO Collection for keyword Jalisco economía was not found in db. Creating...
+2025-04-25 16:23:41,195 INFO Collection for Jalisco economía was created
+2025-04-25 16:23:41,285 INFO Inserted 100 new videos into collection Jalisco economía
+2025-04-25 16:23:41,339 WARNING No videos found for keyword Jalisco trabajo
+2025-04-25 16:23:42,293 WARNING Removed 16 duplicates from entries
+2025-04-25 16:23:42,396 INFO Collection for keyword Jalisco trabajo was not found in db. Creating...
+2025-04-25 16:23:42,507 INFO Collection for Jalisco trabajo was created
+2025-04-25 16:23:42,586 INFO Inserted 84 new videos into collection Jalisco trabajo
+2025-04-25 16:23:42,641 WARNING No videos found for keyword Jalisco empleo
+2025-04-25 16:23:43,388 WARNING Removed 1 duplicates from entries
+2025-04-25 16:23:43,492 INFO Collection for keyword Jalisco empleo was not found in db. Creating...
+2025-04-25 16:23:43,609 INFO Collection for Jalisco empleo was created
+2025-04-25 16:23:43,669 INFO Inserted 99 new videos into collection Jalisco empleo
+2025-04-25 16:23:43,844 WARNING No videos found for keyword Jalisco hospital
+2025-04-25 16:23:44,874 WARNING Removed 1 duplicates from entries
+2025-04-25 16:23:44,996 INFO Collection for keyword Jalisco hospital was not found in db. Creating...
+2025-04-25 16:23:45,104 INFO Collection for Jalisco hospital was created
+2025-04-25 16:23:45,164 INFO Inserted 99 new videos into collection Jalisco hospital
+2025-04-25 16:23:45,213 WARNING No videos found for keyword Jalisco servicios médicos
+2025-04-25 16:23:45,968 WARNING Removed 1 duplicates from entries
+2025-04-25 16:23:46,080 INFO Collection for keyword Jalisco servicios médicos was not found in db. Creating...
+2025-04-25 16:23:46,194 INFO Collection for Jalisco servicios médicos was created
+2025-04-25 16:23:46,257 INFO Inserted 99 new videos into collection Jalisco servicios médicos
+2025-04-25 16:23:46,310 WARNING No videos found for keyword Jalisco médico
+2025-04-25 16:23:47,179 WARNING Removed 0 duplicates from entries
+2025-04-25 16:23:47,282 INFO Collection for keyword Jalisco médico was not found in db. Creating...
+2025-04-25 16:23:47,393 INFO Collection for Jalisco médico was created
+2025-04-25 16:23:47,468 INFO Inserted 100 new videos into collection Jalisco médico
+2025-04-25 16:23:47,629 WARNING No videos found for keyword Jalisco escuela
+2025-04-25 16:23:48,743 WARNING Removed 3 duplicates from entries
+2025-04-25 16:23:48,848 INFO Collection for keyword Jalisco escuela was not found in db. Creating...
+2025-04-25 16:23:48,966 INFO Collection for Jalisco escuela was created
+2025-04-25 16:23:49,026 INFO Inserted 97 new videos into collection Jalisco escuela
+2025-04-25 16:23:49,078 WARNING No videos found for keyword Jalisco universidad
+2025-04-25 16:23:50,093 WARNING Removed 0 duplicates from entries
+2025-04-25 16:23:50,207 INFO Collection for keyword Jalisco universidad was not found in db. Creating...
+2025-04-25 16:23:50,324 INFO Collection for Jalisco universidad was created
+2025-04-25 16:23:50,389 INFO Inserted 100 new videos into collection Jalisco universidad
+2025-04-25 16:23:50,443 WARNING No videos found for keyword Jalisco estudiantes
+2025-04-25 16:23:51,323 WARNING Removed 1 duplicates from entries
+2025-04-25 16:23:51,433 INFO Collection for keyword Jalisco estudiantes was not found in db. Creating...
+2025-04-25 16:23:51,555 INFO Collection for Jalisco estudiantes was created
+2025-04-25 16:23:51,615 INFO Inserted 99 new videos into collection Jalisco estudiantes
+2025-04-25 16:23:51,665 WARNING No videos found for keyword Jalisco seguridad social
+2025-04-25 16:23:52,566 WARNING Removed 1 duplicates from entries
+2025-04-25 16:23:52,673 INFO Collection for keyword Jalisco seguridad social was not found in db. Creating...
+2025-04-25 16:23:52,793 INFO Collection for Jalisco seguridad social was created
+2025-04-25 16:23:52,856 INFO Inserted 99 new videos into collection Jalisco seguridad social
+2025-04-25 16:23:52,918 WARNING No videos found for keyword Jalisco beneficios
+2025-04-25 16:23:53,167 WARNING No videos found for keyword Jalisco protección social
+2025-04-25 16:23:53,279 WARNING No videos found for keyword Jalisco seguro social
+2025-04-25 16:23:53,640 WARNING No videos found for keyword Jalisco hogar
+2025-04-25 16:23:53,753 WARNING No videos found for keyword Jalisco habitaciónes
+2025-04-25 16:23:53,868 WARNING No videos found for keyword Jalisco servicios básicos
+2025-04-25 16:23:53,978 WARNING No videos found for keyword Jalisco alimentación
+2025-04-25 16:23:54,222 WARNING No videos found for keyword Jalisco comida
+2025-04-25 16:23:54,328 WARNING No videos found for keyword Jalisco alimentos
+2025-04-25 16:23:54,580 WARNING No videos found for keyword Jalisco comunidad
+2025-04-25 16:23:54,692 WARNING No videos found for keyword Jalisco sociedad
+2025-04-25 16:23:54,812 WARNING No videos found for keyword Jalisco integración
+2025-04-25 16:31:09,441 WARNING Logger Mongo was configured with True console stream
+2025-04-25 16:31:09,849 INFO Connected to thesis database on 206.81.16.39
+2025-04-25 16:47:38,476 WARNING No videos found for keyword Jalisco beneficios
+2025-04-25 16:47:39,530 WARNING Removed 4 duplicates from entries
+2025-04-25 16:47:39,643 INFO Collection for keyword Jalisco beneficios was not found in db. Creating...
+2025-04-25 16:47:39,762 INFO Collection for Jalisco beneficios was created
+2025-04-25 16:47:40,193 INFO Inserted 96 new videos into collection Jalisco beneficios
+2025-04-25 16:47:40,247 WARNING No videos found for keyword Jalisco protección social
+2025-04-25 16:47:41,114 WARNING Removed 0 duplicates from entries
+2025-04-25 16:47:41,230 INFO Collection for keyword Jalisco protección social was not found in db. Creating...
+2025-04-25 16:47:41,351 INFO Collection for Jalisco protección social was created
+2025-04-25 16:47:41,625 INFO Inserted 100 new videos into collection Jalisco protección social
+2025-04-25 16:47:41,683 WARNING No videos found for keyword Jalisco seguro social
+2025-04-25 16:47:42,753 WARNING Removed 1 duplicates from entries
+2025-04-25 16:47:42,865 INFO Collection for keyword Jalisco seguro social was not found in db. Creating...
+2025-04-25 16:47:43,263 INFO Collection for Jalisco seguro social was created
+2025-04-25 16:47:43,325 INFO Inserted 99 new videos into collection Jalisco seguro social
+2025-04-25 16:47:43,491 WARNING No videos found for keyword Jalisco hogar
+2025-04-25 16:47:44,525 WARNING Removed 0 duplicates from entries
+2025-04-25 16:47:44,825 INFO Collection for keyword Jalisco hogar was not found in db. Creating...
+2025-04-25 16:47:44,944 INFO Collection for Jalisco hogar was created
+2025-04-25 16:47:45,296 INFO Inserted 100 new videos into collection Jalisco hogar
+2025-04-25 16:47:45,354 WARNING No videos found for keyword Jalisco habitaciónes
+2025-04-25 16:47:46,351 WARNING Removed 7 duplicates from entries
+2025-04-25 16:47:46,462 INFO Collection for keyword Jalisco habitaciónes was not found in db. Creating...
+2025-04-25 16:47:46,582 INFO Collection for Jalisco habitaciónes was created
+2025-04-25 16:47:46,640 INFO Inserted 93 new videos into collection Jalisco habitaciónes
+2025-04-25 16:47:46,866 WARNING No videos found for keyword Jalisco servicios básicos
+2025-04-25 16:47:47,923 WARNING Removed 0 duplicates from entries
+2025-04-25 16:47:48,034 INFO Collection for keyword Jalisco servicios básicos was not found in db. Creating...
+2025-04-25 16:47:48,154 INFO Collection for Jalisco servicios básicos was created
+2025-04-25 16:47:48,495 INFO Inserted 100 new videos into collection Jalisco servicios básicos
+2025-04-25 16:47:48,550 WARNING No videos found for keyword Jalisco alimentación
+2025-04-25 16:47:49,497 WARNING Removed 0 duplicates from entries
+2025-04-25 16:47:49,611 INFO Collection for keyword Jalisco alimentación was not found in db. Creating...
+2025-04-25 16:47:49,734 INFO Collection for Jalisco alimentación was created
+2025-04-25 16:47:49,795 INFO Inserted 100 new videos into collection Jalisco alimentación
+2025-04-25 16:47:50,014 WARNING No videos found for keyword Jalisco comida
+2025-04-25 16:47:51,036 WARNING Removed 11 duplicates from entries
+2025-04-25 16:47:51,159 INFO Collection for keyword Jalisco comida was not found in db. Creating...
+2025-04-25 16:47:51,312 INFO Collection for Jalisco comida was created
+2025-04-25 16:47:51,597 INFO Inserted 89 new videos into collection Jalisco comida
+2025-04-25 16:47:51,653 WARNING No videos found for keyword Jalisco alimentos
+2025-04-25 16:47:52,577 WARNING Removed 1 duplicates from entries
+2025-04-25 16:47:52,685 INFO Collection for keyword Jalisco alimentos was not found in db. Creating...
+2025-04-25 16:47:52,803 INFO Collection for Jalisco alimentos was created
+2025-04-25 16:47:52,863 INFO Inserted 99 new videos into collection Jalisco alimentos
+2025-04-25 16:47:52,918 WARNING No videos found for keyword Jalisco comunidad
+2025-04-25 16:47:53,682 WARNING Removed 1 duplicates from entries
+2025-04-25 16:47:53,793 INFO Collection for keyword Jalisco comunidad was not found in db. Creating...
+2025-04-25 16:47:53,914 INFO Collection for Jalisco comunidad was created
+2025-04-25 16:47:53,975 INFO Inserted 99 new videos into collection Jalisco comunidad
+2025-04-25 16:47:54,031 WARNING No videos found for keyword Jalisco sociedad
+2025-04-25 16:47:55,389 WARNING Removed 3 duplicates from entries
+2025-04-25 16:47:55,499 INFO Collection for keyword Jalisco sociedad was not found in db. Creating...
+2025-04-25 16:47:55,617 INFO Collection for Jalisco sociedad was created
+2025-04-25 16:47:55,726 INFO Inserted 97 new videos into collection Jalisco sociedad
+2025-04-25 16:47:55,778 WARNING No videos found for keyword Jalisco integración
+2025-04-25 16:47:56,856 WARNING Removed 0 duplicates from entries
+2025-04-25 16:47:56,971 INFO Collection for keyword Jalisco integración was not found in db. Creating...
+2025-04-25 16:47:57,091 INFO Collection for Jalisco integración was created
+2025-04-25 16:47:57,151 INFO Inserted 100 new videos into collection Jalisco integración
+2025-04-26 12:42:25,547 WARNING Logger Mongo was configured with True console stream
+2025-04-26 12:42:25,917 INFO Connected to thesis database on 206.81.16.39
+2025-04-26 14:21:25,002 WARNING Logger Mongo was configured with True console stream
+2025-04-26 14:21:25,302 INFO Connected to thesis database on 206.81.16.39
+2025-04-26 14:30:53,235 WARNING Logger Mongo was configured with True console stream
+2025-04-26 14:30:53,582 INFO Connected to thesis database on 206.81.16.39
+2025-04-26 15:48:50,457 WARNING Logger Mongo was configured with True console stream
+2025-04-26 15:48:50,784 INFO Connected to thesis database on 206.81.16.39
+2025-04-26 15:49:43,733 WARNING Logger Mongo was configured with True console stream
+2025-04-26 15:49:44,058 INFO Connected to thesis database on 206.81.16.39
+2025-04-26 16:26:12,547 WARNING Logger Mongo was configured with True console stream
+2025-04-26 16:26:12,857 INFO Connected to thesis database on 206.81.16.39
+2025-04-26 17:08:31,728 WARNING Logger Mongo was configured with True console stream
+2025-04-26 17:08:32,020 INFO Connected to thesis database on 206.81.16.39
+2025-04-26 17:36:55,898 INFO Connected to thesis database on 206.81.16.39
+2025-04-26 19:52:45,051 WARNING Logger Mongo was configured with True console stream
+2025-04-26 19:52:45,366 INFO Connected to thesis database on 206.81.16.39
+2025-04-29 17:25:30,495 WARNING Logger Mongo was configured with True console stream
+2025-04-29 17:25:30,962 INFO Connected to thesis database on 206.81.16.39
+2025-04-29 17:25:31,056 WARNING No videos found for keyword Switzerland work
+2025-04-29 17:25:32,159 WARNING Removed 0 duplicates from entries
+2025-04-29 17:25:32,274 INFO Collection for keyword Switzerland work was not found in db. Creating...
+2025-04-29 17:25:32,410 INFO Collection for Switzerland work was created
+2025-04-29 17:25:32,586 INFO Inserted 100 new videos into collection Switzerland work
+2025-04-29 17:25:32,643 WARNING No videos found for keyword Switzerland job
+2025-04-29 17:25:33,590 WARNING Removed 0 duplicates from entries
+2025-04-29 17:25:33,704 INFO Collection for keyword Switzerland job was not found in db. Creating...
+2025-04-29 17:25:33,830 INFO Collection for Switzerland job was created
+2025-04-29 17:25:33,942 INFO Inserted 100 new videos into collection Switzerland job
+2025-04-29 17:25:33,999 WARNING No videos found for keyword Switzerland employment
+2025-04-29 17:25:34,818 WARNING Removed 0 duplicates from entries
+2025-04-29 17:25:34,983 INFO Collection for keyword Switzerland employment was not found in db. Creating...
+2025-04-29 17:25:35,113 INFO Collection for Switzerland employment was created
+2025-04-29 17:25:35,177 INFO Inserted 100 new videos into collection Switzerland employment
+2025-04-29 17:25:35,234 WARNING No videos found for keyword Switzerland education
+2025-04-29 17:25:36,152 WARNING Removed 2 duplicates from entries
+2025-04-29 17:25:36,265 INFO Collection for keyword Switzerland education was not found in db. Creating...
+2025-04-29 17:25:36,386 INFO Collection for Switzerland education was created
+2025-04-29 17:25:36,450 INFO Inserted 98 new videos into collection Switzerland education
+2025-04-29 17:25:36,506 WARNING No videos found for keyword Switzerland school
+2025-04-29 17:25:37,379 WARNING Removed 0 duplicates from entries
+2025-04-29 17:25:37,492 INFO Collection for keyword Switzerland school was not found in db. Creating...
+2025-04-29 17:25:37,612 INFO Collection for Switzerland school was created
+2025-04-29 17:25:37,678 INFO Inserted 100 new videos into collection Switzerland school
+2025-04-29 17:25:37,734 WARNING No videos found for keyword Switzerland medical services
+2025-04-29 17:25:38,608 WARNING Removed 1 duplicates from entries
+2025-04-29 17:25:38,722 INFO Collection for keyword Switzerland medical services was not found in db. Creating...
+2025-04-29 17:25:38,845 INFO Collection for Switzerland medical services was created
+2025-04-29 17:25:38,922 INFO Inserted 99 new videos into collection Switzerland medical services
+2025-04-29 17:25:38,981 WARNING No videos found for keyword Switzerland insurance
+2025-04-29 17:25:39,833 WARNING Removed 2 duplicates from entries
+2025-04-29 17:25:39,947 INFO Collection for keyword Switzerland insurance was not found in db. Creating...
+2025-04-29 17:25:40,071 INFO Collection for Switzerland insurance was created
+2025-04-29 17:25:40,132 INFO Inserted 98 new videos into collection Switzerland insurance
+2025-04-29 17:25:40,187 WARNING No videos found for keyword Switzerland university
+2025-04-29 17:25:41,277 WARNING Removed 0 duplicates from entries
+2025-04-29 17:25:41,393 INFO Collection for keyword Switzerland university was not found in db. Creating...
+2025-04-29 17:25:41,516 INFO Collection for Switzerland university was created
+2025-04-29 17:25:41,581 INFO Inserted 100 new videos into collection Switzerland university
+2025-04-29 17:25:41,637 WARNING No videos found for keyword Switzerland food
+2025-04-29 17:25:42,399 WARNING Removed 3 duplicates from entries
+2025-04-29 17:25:42,515 INFO Collection for keyword Switzerland food was not found in db. Creating...
+2025-04-29 17:25:42,668 INFO Collection for Switzerland food was created
+2025-04-29 17:25:42,732 INFO Inserted 97 new videos into collection Switzerland food
+2025-04-29 17:25:42,789 WARNING No videos found for keyword Switzerland benefits
+2025-04-29 17:25:43,510 WARNING Removed 4 duplicates from entries
+2025-04-29 17:25:43,660 INFO Collection for keyword Switzerland benefits was not found in db. Creating...
+2025-04-29 17:25:43,789 INFO Collection for Switzerland benefits was created
+2025-04-29 17:25:43,934 INFO Inserted 96 new videos into collection Switzerland benefits
+2025-04-29 17:25:43,990 WARNING No videos found for keyword Switzerland social security
+2025-04-29 17:25:44,987 WARNING Removed 10 duplicates from entries
+2025-04-29 17:25:45,178 INFO Collection for keyword Switzerland social security was not found in db. Creating...
+2025-04-29 17:25:45,301 INFO Collection for Switzerland social security was created
+2025-04-29 17:25:45,363 INFO Inserted 90 new videos into collection Switzerland social security
+2025-04-29 17:25:45,506 WARNING No videos found for keyword Switzerland security
+2025-04-29 17:25:46,327 WARNING Removed 10 duplicates from entries
+2025-04-29 17:25:46,443 INFO Collection for keyword Switzerland security was not found in db. Creating...
+2025-04-29 17:25:46,621 INFO Collection for Switzerland security was created
+2025-04-29 17:25:46,751 INFO Inserted 90 new videos into collection Switzerland security
+2025-04-29 17:25:46,808 WARNING No videos found for keyword Switzerland housing
+2025-04-29 17:25:47,826 WARNING Removed 0 duplicates from entries
+2025-04-29 17:25:47,944 INFO Collection for keyword Switzerland housing was not found in db. Creating...
+2025-04-29 17:25:48,126 INFO Collection for Switzerland housing was created
+2025-04-29 17:25:48,193 INFO Inserted 100 new videos into collection Switzerland housing
+2025-04-29 17:25:48,322 WARNING No videos found for keyword Switzerland houses
+2025-04-29 17:25:49,181 WARNING Removed 0 duplicates from entries
+2025-04-29 17:25:49,374 INFO Collection for keyword Switzerland houses was not found in db. Creating...
+2025-04-29 17:25:49,502 INFO Collection for Switzerland houses was created
+2025-04-29 17:25:49,570 INFO Inserted 100 new videos into collection Switzerland houses
+2025-04-29 17:25:49,701 WARNING No videos found for keyword Switzerland living
+2025-04-29 17:25:50,426 WARNING Removed 1 duplicates from entries
+2025-04-29 17:25:50,543 INFO Collection for keyword Switzerland living was not found in db. Creating...
+2025-04-29 17:25:50,749 INFO Collection for Switzerland living was created
+2025-04-29 17:25:50,813 INFO Inserted 99 new videos into collection Switzerland living
+2025-04-29 17:25:50,943 WARNING No videos found for keyword Switzerland diet
+2025-04-29 17:25:52,002 WARNING Removed 1 duplicates from entries
+2025-04-29 17:25:52,128 INFO Collection for keyword Switzerland diet was not found in db. Creating...
+2025-04-29 17:25:52,324 INFO Collection for Switzerland diet was created
+2025-04-29 17:25:52,389 INFO Inserted 99 new videos into collection Switzerland diet
+2025-04-29 17:25:52,515 WARNING No videos found for keyword Switzerland community
+2025-04-29 17:25:53,439 WARNING Removed 1 duplicates from entries
+2025-04-29 17:25:53,627 INFO Collection for keyword Switzerland community was not found in db. Creating...
+2025-04-29 17:25:53,775 INFO Collection for Switzerland community was created
+2025-04-29 17:25:53,894 INFO Inserted 99 new videos into collection Switzerland community
+2025-04-29 17:25:53,952 WARNING No videos found for keyword Switzerland society
+2025-04-29 17:25:54,948 WARNING Removed 3 duplicates from entries
+2025-04-29 17:25:55,141 INFO Collection for keyword Switzerland society was not found in db. Creating...
+2025-04-29 17:25:55,262 INFO Collection for Switzerland society was created
+2025-04-29 17:25:55,324 INFO Inserted 97 new videos into collection Switzerland society
+2025-04-29 17:25:55,467 WARNING No videos found for keyword Switzerland discrimination
+2025-04-29 17:25:56,427 WARNING Removed 1 duplicates from entries
+2025-04-29 17:25:56,627 INFO Collection for keyword Switzerland discrimination was not found in db. Creating...
+2025-04-29 17:25:56,840 INFO Collection for Switzerland discrimination was created
+2025-04-29 17:25:56,906 INFO Inserted 99 new videos into collection Switzerland discrimination
+2025-04-29 17:26:31,868 WARNING Logger Mongo was configured with True console stream
+2025-04-29 17:26:32,394 INFO Connected to thesis database on 206.81.16.39
