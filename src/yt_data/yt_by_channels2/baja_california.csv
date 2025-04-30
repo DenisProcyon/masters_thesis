@@ -1,0 +1,8 @@
+dimension,avg_sentiment,comments_count
+Income,-1.0,1
+Access To Health Services,1.0,2
+Educational Lag,0.5277777777777778,18
+Access To Social Security,0.0,0
+Housing,-0.3333333333333333,3
+Access To Food,0.125,4
+Social Cohesion,0.6666666666666666,9
