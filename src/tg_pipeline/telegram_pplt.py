@@ -21,11 +21,17 @@ MONGO_PASSWORD = os.getenv("MONGO_PASSWORD")
 
 CHANNEL_USERNAMES = [
     "@elpaismexico",
+    "@ElUniversalOnline",
+    "@proceso_unofficial",
+    "@politicomx",
+    "@lajornada_unofficial",
+    "@larazondemexico",
+    "@sinembargo.mx"
 ]
 TARGET_STRINGS = [" "]
 
-START = "01/01/2025"
-END = "01/04/2025"
+START = "01/01/2022"
+END = "31/12/2022"
 
 async def save_to_mongo(mongo_client: MongoWrapper, posts: list[Any], channel_username: str):
     mongo_client.save_new_channel_posts(channel=channel_username, posts=posts)
