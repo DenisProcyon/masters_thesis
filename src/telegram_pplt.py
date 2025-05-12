@@ -26,8 +26,9 @@ CHANNEL_USERNAMES = [
     "@politicomx",
     "@lajornada_unofficial",
     "@larazondemexico",
-    "@sinembargo.mx"
-]
+    "@sinembargomx",
+    "@elpaisamerica"]
+
 TARGET_STRINGS = [" "]
 
 START = "01/01/2022"

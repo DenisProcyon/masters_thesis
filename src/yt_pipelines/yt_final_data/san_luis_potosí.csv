@@ -1,0 +1,8 @@
+state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
+San Luis Potosí,Income,-0.5115942028985507,345,300,4993
+San Luis Potosí,Access To Health Services,-0.455,500,300,4993
+San Luis Potosí,Educational Lag,-0.2644867549668874,1208,300,4993
+San Luis Potosí,Access To Social Security,-0.36245954692556637,309,300,4993
+San Luis Potosí,Housing,-0.38509316770186336,322,300,4993
+San Luis Potosí,Access To Food,-0.15584415584415584,77,300,4993
+San Luis Potosí,Social Cohesion,-0.23898858075040783,613,300,4993

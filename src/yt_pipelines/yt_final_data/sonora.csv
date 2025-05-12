@@ -1,0 +1,8 @@
+state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
+Sonora,Income,-0.281292984869326,727,300,10780
+Sonora,Access To Health Services,-0.2044392523364486,428,300,10780
+Sonora,Educational Lag,0.011736214605067064,2684,300,10780
+Sonora,Access To Social Security,-0.10341726618705036,556,300,10780
+Sonora,Housing,-0.15044742729306487,894,300,10780
+Sonora,Access To Food,-0.18333333333333332,180,300,10780
+Sonora,Social Cohesion,0.18181818181818182,1056,300,10780
