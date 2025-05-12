@@ -1,5 +1,6 @@
 import pymongo
 import pymongo.errors
+from pymongo import UpdateOne, errors as pymongo_errors
 
 from time import sleep
 
@@ -151,6 +152,40 @@ class MongoWrapper:
             message=f'Could not insert new videos into collection: {e}',
             level="error"
             )
+
+    def update_collection_entries(
+        self,
+        collection_name: str,
+        updates: list[dict],
+    ) -> None:
+        if not updates:
+            return
+
+        bulk_ops = [
+            UpdateOne({"_id": u["_id"]}, {"$set": u["update_data"]})
+            for u in updates
+        ]
+
+        try:
+            result = self.database[collection_name].bulk_write(bulk_ops, ordered=False)
+
+            modified = result.modified_count
+            if modified:
+                self.logger.log(
+                    message=f"Updated {modified} documents in '{collection_name}' collection",
+                    level="info",
+                )
+            else:
+                self.logger.log(
+                    message=f"No documents were updated in '{collection_name}' collection",
+                    level="warning",
+                )
+
+        except pymongo_errors.PyMongoError as e:
+            self.logger.log(
+                message=f"Error updating batch in '{collection_name}' collection: {e}",
+                level="error",
+            )
     
     def save_new_yt_comments(self, comments: list[dict]):
         cleaned_comments = self.remove_duplicates(comments)
@@ -268,6 +303,64 @@ class MongoWrapper:
                 level="error"
             )
             return []
+        
+    def create_new_news_pagination_collection(self, collection_name: str) -> None:
+        try:
+            self.database.create_collection(collection_name)
+            self.logger.log(message=f'Collection for {collection_name} was created', level="info")
+
+        except Exception as e:
+            self.logger.log(message=f'Could not create new collection for {collection_name}: {e}', level="error")
+            raise ConnectionError(f'Can not create new collection for {collection_name}: {e}')
+        
+    def save_new_pagination_news(self, news: list[dict], collection_name: str) -> None:
+        """
+        :param news: list of news articles
+        :param collection_name: name of the collection
+
+        Method either saves new data to existing collection in db or creates new collection and saves all the data passed
+        """
+        if collection_name not in self.get_all_collections():
+            self.logger.log(message=f'Collection for {collection_name} was not found in db. Creating...', level="info")
+            self.create_new_news_pagination_collection(collection_name)
+
+        serialized_news = self.assign_entry_ids(news, name="id", custom=True)
+
+        existing_news = self.get_collection_entries(collection=collection_name)
+        if not existing_news:
+            existing_news = []
+
+        existing_ids = {post["_id"] for post in existing_news}
+
+        new_news = [p for p in serialized_news if p["_id"] not in existing_ids]
+
+        if new_news:
+            try:
+                new_news = list(filter(
+                    lambda item: item["_id"] not in existing_ids,
+                    map(
+                        lambda d: {
+                            **{k: v for k, v in d.items() if k != 'indexed_date'},
+                            'publish_date': d['publish_date'].isoformat()
+                        },
+                        serialized_news
+                    )
+                )) if "gnews" not in collection_name else new_news
+                self.database[collection_name].insert_many(new_news)
+                self.logger.log(
+                    message=f'Inserted {len(new_news)} new news into collection {collection_name}',
+                    level="info"
+                )
+            except Exception as e:
+                self.logger.log(
+                    message=f'Could not insert new news into {collection_name}: {e}',
+                    level="error"
+                )
+        else:
+            self.logger.log(
+                message=f'No new news to insert for {collection_name}',
+                level="info"
+            )
     
     def create_new_channel_collection(self, channel_name: str) -> None:
         """
