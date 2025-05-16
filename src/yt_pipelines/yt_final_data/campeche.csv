@@ -1,8 +1,8 @@
 state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Campeche,Income,-0.5613645538958417,2477,300,21570
-Campeche,Access To Health Services,-0.18156108597285067,884,300,21570
-Campeche,Educational Lag,-0.17833247555326814,5829,300,21570
-Campeche,Access To Social Security,-0.48884892086330933,1390,300,21570
-Campeche,Housing,-0.39352428393524286,1606,300,21570
-Campeche,Access To Food,-0.2987951807228916,415,300,21570
-Campeche,Social Cohesion,-0.02664504170528267,2158,300,21570
+Campeche,Income,-0.47783276626456334,9699,300,24947
+Campeche,Access To Health Services,-0.31561461794019935,1204,300,24947
+Campeche,Educational Lag,-0.16715511827506804,4777,300,24947
+Campeche,Access To Social Security,-0.4177115987460815,638,300,24947
+Campeche,Housing,-0.5042935206869633,1281,300,24947
+Campeche,Access To Food,-0.42691564713457825,1553,300,24947
+Campeche,Social Cohesion,-0.12484823957911777,2471,300,24947

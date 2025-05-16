@@ -1,8 +1,8 @@
 state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Ciudad de México,Income,-0.5133623368551895,1609,300,15207
-Ciudad de México,Access To Health Services,-0.32899461400359065,1114,300,15207
-Ciudad de México,Educational Lag,-0.13755725190839696,3275,300,15207
-Ciudad de México,Access To Social Security,-0.443024494142705,939,300,15207
-Ciudad de México,Housing,-0.3740085417937767,1639,300,15207
-Ciudad de México,Access To Food,-0.24567474048442905,289,300,15207
-Ciudad de México,Social Cohesion,-0.013710618436406068,1714,300,15207
+Ciudad de México,Income,-0.4236769654328541,6538,300,19223
+Ciudad de México,Access To Health Services,-0.43859060402684563,1490,300,19223
+Ciudad de México,Educational Lag,-0.11999214454045562,2546,300,19223
+Ciudad de México,Access To Social Security,-0.4722921914357683,397,300,19223
+Ciudad de México,Housing,-0.519155206286837,2036,300,19223
+Ciudad de México,Access To Food,-0.34093023255813953,1075,300,19223
+Ciudad de México,Social Cohesion,-0.14119964973730298,2284,300,19223

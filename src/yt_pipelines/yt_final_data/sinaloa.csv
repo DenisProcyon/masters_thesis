@@ -1,8 +1,8 @@
 state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Sinaloa,Income,-0.4912146676852559,1309,300,13467
-Sinaloa,Access To Health Services,-0.3072916666666667,864,300,13467
-Sinaloa,Educational Lag,-0.17090479006505027,3382,300,13467
-Sinaloa,Access To Social Security,-0.26549865229110514,742,300,13467
-Sinaloa,Housing,-0.2858024691358025,810,300,13467
-Sinaloa,Access To Food,-0.3107142857142857,280,300,13467
-Sinaloa,Social Cohesion,0.008264462809917356,1210,300,13467
+Sinaloa,Income,-0.37965952450836515,3407,300,9139
+Sinaloa,Access To Health Services,-0.3893728222996516,574,300,9139
+Sinaloa,Educational Lag,-0.07529335071707953,1534,300,9139
+Sinaloa,Access To Social Security,-0.29596412556053814,223,300,9139
+Sinaloa,Housing,-0.46551724137931033,406,300,9139
+Sinaloa,Access To Food,-0.3447986577181208,596,300,9139
+Sinaloa,Social Cohesion,-0.10081585081585082,858,300,9139

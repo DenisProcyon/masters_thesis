@@ -1,8 +1,8 @@
 state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Morelos,Income,-0.5658401026079521,2339,300,20289
-Morelos,Access To Health Services,-0.4330294530154278,1426,300,20289
-Morelos,Educational Lag,-0.2510656436487639,4692,300,20289
-Morelos,Access To Social Security,-0.5094108019639935,1222,300,20289
-Morelos,Housing,-0.43765084473049076,1243,300,20289
-Morelos,Access To Food,-0.371875,320,300,20289
-Morelos,Social Cohesion,-0.17724583109198494,1859,300,20289
+Morelos,Income,-0.5200913242009132,7665,300,19707
+Morelos,Access To Health Services,-0.492330383480826,1695,300,19707
+Morelos,Educational Lag,-0.24764533939590777,3079,300,19707
+Morelos,Access To Social Security,-0.40997830802603036,461,300,19707
+Morelos,Housing,-0.5395010395010394,962,300,19707
+Morelos,Access To Food,-0.4409486931268151,1033,300,19707
+Morelos,Social Cohesion,-0.27679474216380184,1978,300,19707

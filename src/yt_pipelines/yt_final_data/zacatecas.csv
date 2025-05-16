@@ -1,8 +1,8 @@
 state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Zacatecas,Income,-0.4101633393829401,1653,300,17707
-Zacatecas,Access To Health Services,-0.3361884368308351,934,300,17707
-Zacatecas,Educational Lag,-0.011331155573703552,4898,300,17707
-Zacatecas,Access To Social Security,-0.3609154929577465,852,300,17707
-Zacatecas,Housing,-0.21021159153633856,1087,300,17707
-Zacatecas,Access To Food,-0.05803571428571429,560,300,17707
-Zacatecas,Social Cohesion,0.0137524557956778,2036,300,17707
+Zacatecas,Income,-0.44621680307332556,5987,300,16161
+Zacatecas,Access To Health Services,-0.43626943005181346,965,300,16161
+Zacatecas,Educational Lag,-0.15626168224299064,2675,300,16161
+Zacatecas,Access To Social Security,-0.40843621399176955,486,300,16161
+Zacatecas,Housing,-0.5284178187403994,651,300,16161
+Zacatecas,Access To Food,-0.44014447884416924,969,300,16161
+Zacatecas,Social Cohesion,-0.26666666666666666,2220,300,16161
