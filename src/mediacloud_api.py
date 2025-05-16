@@ -100,33 +100,8 @@ def main():
     mc_search = mediacloud.api.SearchApi(MEDIACLOUD_API_KEY)
     
     states = [
-        "Chiapas",
-        "Chihuahua",
-        "Coahuila",
-        "Colima",
-        "Durango",
-        "Guerrero",
-        "Hidalgo",
-        "Jalisco",
-        "Mexico",
-        "Michoacan",
-        "Morelos",
-        "Nayarit",
-        "Nuevo Leon",
-        "Oaxaca",
-        "Puebla",
-        "Queretaro",
-        "Quintana Roo",
-        "San Luis Potosi",
-        "Sinaloa",
-        "Sonora",
-        "Tabasco",
-        "Tamaulipas",
-        "Tlaxcala",
-        "Veracruz",
-        "Yucatan",
-        "Ciudad de México",
-        "Zacatecas"
+        "Baja California",
+        "Baja California Sur"
     ]
 
     for state in states:
