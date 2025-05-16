@@ -65,13 +65,45 @@ def get_data(gnews_engine: GNews, keyword: str, start_date: datetime, end_date: 
 
 def main():
     gnews_engine = GNews()
-    get_data(
-        gnews_engine,
-        keyword="desempleo",
-        start_date=datetime(2020, 1, 1),
-        end_date=datetime(2022, 12, 1),
-        country_domain="mx"
-    )
+
+    states = [
+        "Chiapas",
+        "Chihuahua",
+        "Coahuila",
+        "Colima",
+        "Durango",
+        "Guerrero",
+        "Hidalgo",
+        "Jalisco",
+        "Mexico",
+        "Michoacan",
+        "Morelos",
+        "Nayarit",
+        "Nuevo Leon",
+        "Oaxaca",
+        "Puebla",
+        "Queretaro",
+        "Quintana Roo",
+        "San Luis Potosi",
+        "Sinaloa",
+        "Sonora",
+        "Tabasco",
+        "Tamaulipas",
+        "Tlaxcala",
+        "Veracruz",
+        "Yucatan",
+        "Ciudad de México",
+        "Zacatecas"
+    ]
+
+    for state in states:
+        get_data(
+            gnews_engine,
+            keyword=state,
+            start_date=datetime(2020, 1, 1),
+            end_date=datetime(2023, 12, 1),
+            country_domain="mx"
+        )
 
 if __name__ == "__main__":
     main()

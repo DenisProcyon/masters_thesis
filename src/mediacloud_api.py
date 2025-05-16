@@ -98,8 +98,40 @@ def get_data(mediacloud_engine: mediacloud.api.SearchApi, keyword: str, start_da
 
 def main():
     mc_search = mediacloud.api.SearchApi(MEDIACLOUD_API_KEY)
+    
+    states = [
+        "Chiapas",
+        "Chihuahua",
+        "Coahuila",
+        "Colima",
+        "Durango",
+        "Guerrero",
+        "Hidalgo",
+        "Jalisco",
+        "Mexico",
+        "Michoacan",
+        "Morelos",
+        "Nayarit",
+        "Nuevo Leon",
+        "Oaxaca",
+        "Puebla",
+        "Queretaro",
+        "Quintana Roo",
+        "San Luis Potosi",
+        "Sinaloa",
+        "Sonora",
+        "Tabasco",
+        "Tamaulipas",
+        "Tlaxcala",
+        "Veracruz",
+        "Yucatan",
+        "Ciudad de México",
+        "Zacatecas"
+    ]
 
-    get_data(mc_search, "desempleo", date(2020, 1, 1), date(2022, 12, 1))
+    for state in states:
+        get_data(mc_search, state, date(2020, 1, 1), date(2023, 12, 1))
+        sleep(60)
     
 
 if __name__ == "__main__":

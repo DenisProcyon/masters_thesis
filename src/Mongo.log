@@ -3340,3 +3340,6 @@
 2025-05-12 10:56:04,483 INFO Connected to thesis database on 206.81.16.39
 2025-05-12 11:14:10,564 WARNING Logger Mongo was configured with True console stream
 2025-05-12 11:14:10,968 INFO Connected to thesis database on 206.81.16.39
+2025-05-16 22:31:27,565 WARNING Logger Mongo was configured with True console stream
+2025-05-16 22:31:27,943 INFO Connected to news_outlets database on 206.81.16.39
+2025-05-16 22:35:31,669 INFO Connected to news_outlets database on 206.81.16.39
