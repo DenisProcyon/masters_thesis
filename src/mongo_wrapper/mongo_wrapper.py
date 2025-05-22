@@ -217,6 +217,19 @@ class MongoWrapper:
                 message=f'No new comments to insert',
                 level="info"
             )
+
+    def save_new_serpapi_search(self, collection: str, data: dict[str, str]) -> None:
+        try:
+            self.database[collection].insert_one(data)
+            self.logger.log(
+                message=f'Inserted new search into collection {collection}',
+                level="info"
+            )
+        except Exception as e:
+            self.logger.log(
+                message=f'Could not insert new search into collection: {e}',
+                level="error"
+            )
     
     def get_comments_by_video_id(self, video_id: str) -> list[dict]:
         try:

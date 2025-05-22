@@ -1,0 +1,25 @@
+sites:
+  crypto_news:
+    base_url: "https://crypto.news"
+    mode: "html"
+    selectors:
+      feed: ".home-latest-news__item.home-latest-news-item"
+      title: ".post-detail__title"
+      summary: ".is-style-lead"
+      text: ".post-detail__content.blocks"
+      date: ".post-detail__date"
+      tags: ".tags__link"
+      image: ".post-detail__image.wp-post-image > img"
+    
+  coin_telegraph:
+    base_url: "https://cointelegraph.com/rss"
+    mode: "rss"
+    selectors:
+      feed: ".market-news-slider__link"
+      title: ".post__title"
+      summary: ".post__lead"
+      text: ".post-content.relative"
+      date: ".post-meta__publish-date"
+      tags: ".tags-list__link"
+      image: 
+    
