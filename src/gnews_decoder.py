@@ -89,12 +89,16 @@ def update_articles_multithread(collection: str, articles: list[dict], max_worke
 # Main execution
 def main():
     states = [
-        "Chihuahua", "Coahuila", "Colima", "Durango",
-        "Guerrero", "Hidalgo", "Jalisco", "Mexico", "Michoacan",
-        "Morelos", "Nayarit", "Nuevo Leon", "Oaxaca", "Puebla",
-        "Queretaro", "Quintana Roo", "San Luis Potosi", "Sinaloa",
-        "Sonora", "Tabasco", "Tamaulipas", "Tlaxcala", "Veracruz",
-        "Yucatan", "Ciudad de México", "Zacatecas"
+        "Aguascalientes",
+        "Baja California Sur",
+        "Campeche",
+        "Coahuila",
+        "Colima",
+        "Nayarit",
+        "Sinaloa",
+        "Tabasco",
+        "Tlaxcala",
+        "Zacatecas"
     ]
     for state in states:
         debug_logger.log(f"Processing state '{state}'...", "info")

@@ -23,8 +23,8 @@ mongo_client = MongoWrapper(
     port=MONGO_PORT
 )
 
-def save_data(params: dict[str, str], data: dict) -> None:
-    collection_name = f"serpapi_{params['q']}"
+def save_data(params: dict[str, str], data: dict, data_type: str) -> None:
+    collection_name = f"serpapi_{data_type}_{params['q']}"
 
     mongo_client.save_new_serpapi_search(collection=collection_name, data=data)
 
@@ -43,7 +43,7 @@ def main():
     ]
 
     for index, keyword_set in enumerate(keywords):
-        params = {
+        params_geo = {
             "engine": "google_trends",
             "q": keyword_set,
             "data_type": "GEO_MAP",
@@ -53,9 +53,20 @@ def main():
             "api_key": SERPAPI_API_KEY
         }
 
-        data = get_data(params)
+        params_timeseries = {
+            "engine": "google_trends",
+            "q": keyword_set,
+            "data_type": "TIMESERIES",
+            "hl": "es",
+            "geo": "MX",
+            "api_key": SERPAPI_API_KEY
+        }
 
-        save_data(params, data)
+        geo_data = get_data(params_geo)
+        timeseries_data = get_data(params_timeseries)
+
+        save_data(params_geo, geo_data, "geo")
+        save_data(params_timeseries, timeseries_data, "timeseries")
 
         print(f'{index + 1} / {len(keywords)}')
 

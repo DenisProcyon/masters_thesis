@@ -18,7 +18,7 @@ load_dotenv()
 # MongoDB setup
 MONGO_IP = os.getenv("MONGO_IP")
 MONGO_PORT = os.getenv("MONGO_PORT")
-MONGO_DB = "news_outlets_test"
+MONGO_DB = "news_outlets"
 MONGO_USERNAME = os.getenv("MONGO_USERNAME")
 MONGO_PASSWORD = os.getenv("MONGO_PASSWORD")
 
@@ -110,18 +110,22 @@ def process_state(state: str, start_date: datetime, end_date: datetime, max_work
 # Main execution
 def main():
     states = [
-        "Aguascalientes"
-        "Baja California",
+        "Aguascalientes",
         "Baja California Sur",
         "Campeche",
-        "Guanajuato",
-        "Sonora", 
+        "Coahuila",
+        "Colima",
+        "Nayarit",
+        "Sinaloa",
+        "Tabasco",
+        "Tlaxcala",
+        "Zacatecas"
     ]
     for state in states:
         process_state(
             state,
             start_date=datetime(2020, 1, 1),
-            end_date=datetime(2022, 12, 31),
+            end_date=datetime(2020, 12, 1),
             max_workers=25
         )
 
