@@ -1,0 +1,8 @@
+state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
+Michoacán,Income,-0.42615146147032773,4516,300,14676
+Michoacán,Access To Health Services,-0.5146484375,1024,300,14676
+Michoacán,Educational Lag,-0.23935091277890466,2958,300,14676
+Michoacán,Access To Social Security,-0.375,576,300,14676
+Michoacán,Housing,-0.5857142857142857,525,300,14676
+Michoacán,Access To Food,-0.4337485843714609,883,300,14676
+Michoacán,Social Cohesion,-0.21063218390804597,1740,300,14676
