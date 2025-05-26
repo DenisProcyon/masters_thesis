@@ -220,7 +220,7 @@ class MongoWrapper:
 
     def save_new_serpapi_search(self, collection: str, data: dict[str, str]) -> None:
         try:
-            self.database[collection].insert_one(data)
+            self.database[collection].insert_one(data)            
             self.logger.log(
                 message=f'Inserted new search into collection {collection}',
                 level="info"

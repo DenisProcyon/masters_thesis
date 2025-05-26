@@ -3397,3 +3397,7 @@
 2025-05-20 19:03:00,118 INFO Connected to news_outlets database on 206.81.16.39
 2025-05-20 20:50:01,388 WARNING Logger Mongo was configured with True console stream
 2025-05-20 20:50:01,733 INFO Connected to news_outlets database on 206.81.16.39
+2025-05-26 21:10:02,651 WARNING Logger Mongo was configured with True console stream
+2025-05-26 21:10:02,934 INFO Connected to serpapi database on 206.81.16.39
+2025-05-26 21:44:58,900 WARNING Logger Mongo was configured with True console stream
+2025-05-26 21:44:59,194 INFO Connected to serpapi database on 206.81.16.39
