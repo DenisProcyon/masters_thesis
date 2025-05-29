@@ -70,11 +70,9 @@ def get_data(params: dict[str, str]) -> dict:
 
 def main():
     keywords = [
-        "crisis,desempleo,pobreza,conflictos,discriminación",
-        "violencia,becas,escuela secundaria,enfermedad,centro de salud",
-        "pensiones,seguro social,ayuda alimentaria,banco de alimentos,comedor comunitario",
-        "comida barata,receta pobre,apoyo Infonavit,ayuda renta,renta barata",
-        "servicios en la vivienda,vivienda del gobierno"
+        "crisis,desempleo,pobreza",
+        "conflictos,discriminación",
+        "gua potable, FOVISSSTE"
     ]
 
     for index_k, keyword_set in enumerate(keywords):
