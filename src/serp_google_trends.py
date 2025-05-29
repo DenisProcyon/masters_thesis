@@ -70,39 +70,35 @@ def get_data(params: dict[str, str]) -> dict:
 
 def main():
     keywords = [
-        "crisis,desempleo,pobreza,conflictos,discriminación",
-        "violencia,becas,escuela secundaria,enfermedad,centro de salud",
-        "pensiones,seguro social,ayuda alimentaria,banco de alimentos,comedor comunitario",
-        "comida barata,receta pobre,apoyo Infonavit,ayuda renta,renta barata",
-        "servicios en la vivienda,vivienda del gobierno"
+        "agua potable, FOVISSSTE"
     ]
 
     for index_k, keyword_set in enumerate(keywords):
-        params_geo = {
-            "engine": "google_trends",
-            "q": keyword_set,
-            "data_type": "GEO_MAP",
-            "hl": "es",
-            "geo": "MX",
-            "date": "all",
-            "region": "REGION",
-            "api_key": SERPAPI_API_KEY
-        }
+        # params_geo = {
+        #     "engine": "google_trends",
+        #     "q": keyword_set,
+        #     "data_type": "GEO_MAP",
+        #     "hl": "es",
+        #     "geo": "MX",
+        #     "date": "all",
+        #     "region": "REGION",
+        #     "api_key": SERPAPI_API_KEY
+        # }
 
-        collection_name = f'serpapi_geo_{keyword_set}'
-        if collection_name in mongo_client.get_all_collections():
-            print(f'Collection {collection_name} already exists. Skipping...')
+        # collection_name = f'serpapi_geo_{keyword_set}'
+        # if collection_name in mongo_client.get_all_collections():
+        #     print(f'Collection {collection_name} already exists. Skipping...')
 
-            pass
+        #     pass
 
-        try:
-            geo_data = get_data(params_geo)
+        # try:
+        #     geo_data = get_data(params_geo)
 
-            save_data(params_geo, geo_data, "geo")
-        except Exception as e:
-            print(f'Error fetching geo data for keyword "{keyword_set}": {e}')
+        #     save_data(params_geo, geo_data, "geo")
+        # except Exception as e:
+        #     print(f'Error fetching geo data for keyword "{keyword_set}": {e}')
 
-            pass 
+        #     pass 
 
         for index, state in enumerate(STATES):
             params_timeseries = {
