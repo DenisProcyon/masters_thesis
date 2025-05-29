@@ -1,0 +1,8 @@
+state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
+Tamaulipas,Income,-0.381547619047619,4200,300,13011
+Tamaulipas,Access To Health Services,-0.41682156133828996,1076,300,13011
+Tamaulipas,Educational Lag,-0.1210076473234368,2223,300,13011
+Tamaulipas,Access To Social Security,-0.18044354838709678,496,300,13011
+Tamaulipas,Housing,-0.5384615384615384,637,300,13011
+Tamaulipas,Access To Food,-0.33876404494382023,890,300,13011
+Tamaulipas,Social Cohesion,-0.0231980115990058,1207,300,13011

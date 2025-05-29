@@ -1,8 +1,0 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Chihuahua,Income,-0.5081793395940624,3301,300,9629
-Chihuahua,Access To Health Services,-0.4069373942470389,591,300,9629
-Chihuahua,Educational Lag,-0.27102803738317754,1712,300,9629
-Chihuahua,Access To Social Security,-0.4811320754716981,371,300,9629
-Chihuahua,Housing,-0.7246941045606229,899,300,9629
-Chihuahua,Access To Food,-0.5573529411764706,680,300,9629
-Chihuahua,Social Cohesion,-0.24078212290502793,895,300,9629

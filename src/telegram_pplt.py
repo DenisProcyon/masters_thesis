@@ -27,7 +27,9 @@ CHANNEL_USERNAMES = [
     "@lajornada_unofficial",
     "@larazondemexico",
     "@sinembargomx",
-    "@elpaisamerica"]
+    "@elpaisamerica",
+    "@animalpolitico",
+    "@ElEconomista_MTY",]
 
 TARGET_STRINGS = [" "]
 
@@ -35,7 +37,7 @@ START = "01/01/2022"
 END = "31/12/2022"
 
 async def save_to_mongo(mongo_client: MongoWrapper, posts: list[Any], channel_username: str):
-    mongo_client.save_new_channel_posts(channel=channel_username, posts=posts)
+    mongo_client.save_new_channel_posts(channel=f'{channel_username}_2022', posts=posts)
 
 async def main():
     date_format = "%d/%m/%Y"

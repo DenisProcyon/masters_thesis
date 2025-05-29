@@ -179,7 +179,7 @@ class YouTubeClient:
                 if not next_page_token:
                     break
 
-            self.mongo_client.save_new_keyword_videos(videos=videos, keyword=keyword)
+            self.mongo_client.save_new_keyword_videos(videos=videos, keyword=f'{keyword}_2020')
 
             return videos
         except Exception as e:

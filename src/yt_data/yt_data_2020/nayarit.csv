@@ -1,0 +1,8 @@
+state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
+Nayarit,Income,-0.34864275327193406,4126,300,11299
+Nayarit,Access To Health Services,-0.3797284190106692,1031,300,11299
+Nayarit,Educational Lag,-0.04790575916230366,1910,300,11299
+Nayarit,Access To Social Security,-0.5084745762711864,354,300,11299
+Nayarit,Housing,-0.5301369863013699,730,300,11299
+Nayarit,Access To Food,-0.37131147540983606,610,300,11299
+Nayarit,Social Cohesion,0.1070811744386874,1158,300,11299

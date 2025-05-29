@@ -1,0 +1,8 @@
+state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
+Guanajuato,Income,-0.5100542931831892,4973,300,12458
+Guanajuato,Access To Health Services,-0.4570957095709571,909,300,12458
+Guanajuato,Educational Lag,-0.23113887554060547,2081,300,12458
+Guanajuato,Access To Social Security,-0.4438405797101449,276,300,12458
+Guanajuato,Housing,-0.5710955710955711,429,300,12458
+Guanajuato,Access To Food,-0.39092996555683124,871,300,12458
+Guanajuato,Social Cohesion,-0.21621621621621623,1221,300,12458

@@ -1,0 +1,8 @@
+state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
+Baja California Sur,Income,-0.21953675730110775,993,300,3447
+Baja California Sur,Access To Health Services,-0.4202586206896552,232,300,3447
+Baja California Sur,Educational Lag,0.017746913580246913,648,300,3447
+Baja California Sur,Access To Social Security,-0.3584905660377358,106,300,3447
+Baja California Sur,Housing,-0.36666666666666664,420,300,3447
+Baja California Sur,Access To Food,-0.3175182481751825,274,300,3447
+Baja California Sur,Social Cohesion,0.14909638554216867,332,300,3447

@@ -1,0 +1,8 @@
+state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
+Durango,Income,-0.3168381665107577,5345,300,16797
+Durango,Access To Health Services,-0.4236613603473227,1382,300,16797
+Durango,Educational Lag,0.00017568517217146873,2846,300,16797
+Durango,Access To Social Security,-0.20739910313901344,446,300,16797
+Durango,Housing,-0.5137211855104281,911,300,16797
+Durango,Access To Food,-0.3530741410488246,1106,300,16797
+Durango,Social Cohesion,-0.0005952380952380953,1680,300,16797
