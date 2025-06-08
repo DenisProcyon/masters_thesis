@@ -5,10 +5,10 @@ from pymongo import UpdateOne, errors as pymongo_errors
 from time import sleep
 
 from text_objects.telegram import Post
-from text_objects.youtube import Comment
 from logger.logger import Logger
 
 def serialize_posts(posts: list[Post]) -> list[dict]:
+    # Convert Post objects (with comments) to dicts for MongoDB
     result = []
     for post in posts:
         post_comments = [
@@ -33,17 +33,18 @@ def serialize_posts(posts: list[Post]) -> list[dict]:
         )
 
     return result
-
 class MongoWrapper:
     def __init__(self, db: str, user: str, password: str, ip: str = "localhost", port: int = 27017):
+        # Create connection to MongoDB
         self.mongo_client = pymongo.MongoClient(
             f'mongodb://{user}:{password}@{ip}:{port}/',
             serverSelectionTimeoutMS=1000
         )
 
+        # Use internal logger
         self.logger = Logger(logger_type="Mongo", stream_handler=True)
 
-        # Check if reachable and there is db
+        # Validate connection + database presence
         if self.__connected() and db in self.mongo_client.list_database_names():
             self.logger.log(f'Connected to {db} database on {ip}', level="info")
             self.database = self.mongo_client[db]
@@ -51,18 +52,20 @@ class MongoWrapper:
             self.logger.log(f'No {db} in database list or not connected', level="error")
 
     def __connected(self):
+        # Try to reach Mongo server with retries
         connections = 0
         while connections <= 5:
             try:
-                # Check if host reachable
                 self.mongo_client.admin.command("ismaster")
                 return True
             except Exception as e:
                 self.logger.log(f'Can not connect to mongo client host: {e}. Reconnecting.', level="error")
-                connections = connections + 1
+                connections += 1
                 sleep(1)
 
+
     def remove_duplicates(self, entries: list[dict], custom_key: str = None) -> list[dict]:
+        # Drop duplicates by given field or 'id'
         original_length = len(entries)
 
         if custom_key:
@@ -81,50 +84,33 @@ class MongoWrapper:
         return self.database.list_collection_names()
     
     def get_all_db_entries(self) -> list:
+        # Pull everything from all collections
         collections = self.get_all_collections()
-        
         result = []
         for collection in collections:
             data = self.database[collection].find()
             for i in data:
                 result.append(i)
-
         return result
 
     def get_collection_entries(self, collection: str):
+        # Grab all docs from one collection
         try:
             existing_collection = self.database[collection]
-            
             result = [i for i in existing_collection.find()]
-
             return result
         except Exception as e:
             self.logger.log(f'Can not get collection {collection} from db: {e}', level="error")
-
             return []
 
     def get_document_by_id(self, collection: str, id: str):
-        collection = self.database[collection]
-
         try:
-            result = collection.find_one(
-                {
-                    "_id": id
-                }
-            )
-
-            return result
+            return self.database[collection].find_one({"_id": id})
         except Exception as e:
             self.logger.log(f'Can not get document from {collection} with {id} id - {e}', level="error")
 
     def assign_entry_ids(self, entries: list[dict], name: str = None, custom: bool = True) -> list[dict]:
-        """
-        :param entries: entries
-        :param name: name of the field to be _id
-        :param custom: if True, pass the name param to be _id, otherwise will be saved with incremental id
-
-        Since mongo needs _id field, we assign it for each of the entry
-        """
+        # Assign Mongo _id field (custom or auto)
         if custom:
             change_key = lambda d, old_key, new_key: {new_key if k == old_key else k: v for k, v in d.items()}
             entries = list(map(lambda d: change_key(d, name, '_id'), entries))

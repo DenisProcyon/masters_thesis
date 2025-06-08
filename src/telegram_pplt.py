@@ -29,7 +29,8 @@ CHANNEL_USERNAMES = [
     "@sinembargomx",
     "@elpaisamerica",
     "@animalpolitico",
-    "@ElEconomista_MTY",]
+    "@ElEconomista_MTY"
+    ]
 
 TARGET_STRINGS = [" "]
 

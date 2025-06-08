@@ -15,7 +15,10 @@ MONGO_PASSWORD = os.getenv("MONGO_PASSWORD")
 
 class YouTubeClient:
     def __init__(self, api_key: str):
+        # Build YouTube API client
         self.client = build("youtube", "v3", developerKey=api_key)
+
+        # Init Mongo connection
         self.mongo_client = MongoWrapper(
             db=MONGO_DB,
             ip=MONGO_IP,
@@ -23,6 +26,8 @@ class YouTubeClient:
             password=MONGO_PASSWORD,
             port=MONGO_PORT
         )
+
+        # Init internal logger
         self.logger = Logger(logger_type="yt_client", stream_handler=True)
 
     def _get_channel_id_by_handle(self, handle: str) -> str:

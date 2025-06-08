@@ -10,7 +10,6 @@ from tqdm import tqdm
 
 from mongo_wrapper.mongo_wrapper import MongoWrapper
 
-# Принудительно ставим метод spawn для подпроцессов
 multiprocessing.set_start_method("spawn", force=True)
 
 def chunked(iterable: Iterable, size: int) -> Iterable[List]:
@@ -39,7 +38,6 @@ def process_and_update(art: Dict, mongo_client: MongoWrapper, collection: str) -
                 [{"_id": art["_id"], "update_data": {"content": text}}]
             )
     except Exception as e:
-        # Любые ошибки «гасим» здесь
         print(f"[{collection}] Error fetching {art['decoded_url']}: {e}")
 
 def get_articles_content_threaded(
@@ -63,15 +61,13 @@ def get_articles_content_threaded(
             desc=f"Processing {collection}",
             unit="article"
         ):
-            # Здесь мы можем логировать неудачные futures, 
-            # но исключения внутри уже пойманы в process_and_update
             if future.exception():
                 art = futures[future]
                 print(f"[{collection}] Future error on {art['decoded_url']}: {future.exception()}")
 
 def process_state(state: str) -> None:
     try:
-        load_dotenv()  # подгружаем переменные в каждом подпроцессе
+        load_dotenv()
         mongo_client = MongoWrapper(
             db="news_outlets",
             user=os.getenv("MONGO_USERNAME"),
@@ -85,7 +81,6 @@ def process_state(state: str) -> None:
         get_articles_content_threaded(articles, mongo_client, coll, max_workers=50)
         print(f"=== Done {state} ===")
     except Exception as e:
-        # Любая фатальная ошибка в рамках state не убьёт весь pool
         print(f"[process_state:{state}] Fatal error: {e}")
 
 def main() -> None:
@@ -99,7 +94,6 @@ def main() -> None:
         "Baja California", "Baja California Sur", "Campeche", "Guanajuato"
     ]
 
-    # Указываем контекст spawn, чтобы ProcessPoolExecutor тоже создавал spawn-процессы
     ctx = multiprocessing.get_context("spawn")
     with ProcessPoolExecutor(max_workers=10, mp_context=ctx) as proc_pool:
         futures = {proc_pool.submit(process_state, st): st for st in states}
