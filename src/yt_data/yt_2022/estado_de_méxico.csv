@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Estado de México,Income,-0.46086706311145215,5213,300,13504
-Estado de México,Access To Health Services,-0.4479768786127168,1038,300,13504
-Estado de México,Educational Lag,-0.20515021459227467,2330,300,13504
-Estado de México,Access To Social Security,-0.3645533141210375,347,300,13504
-Estado de México,Housing,-0.6092931937172775,764,300,13504
-Estado de México,Access To Food,-0.39727582292849034,881,300,13504
-Estado de México,Social Cohesion,-0.17693981145757795,1379,300,13504
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Estado de México,Income,-0.4271000965561635,3107,39.726377701061246,300,7825
+Estado de México,Access To Health Services,-0.48623063683304646,581,7.4287175552998335,300,7825
+Estado de México,Educational Lag,-0.11662817551963048,1299,16.609129267357115,300,7825
+Estado de México,Access To Social Security,-0.29,200,2.557217747091165,300,7825
+Estado de México,Housing,-0.5650759219088937,461,5.894386907045135,300,7825
+Estado de México,Access To Food,-0.3815789473684211,532,6.802199207262498,300,7825
+Estado de México,Social Cohesion,-0.1603658536585366,820,10.484592763073776,300,7825
+Estado de México,Other,-0.5828258221680876,821,10.497378851809232,300,7825

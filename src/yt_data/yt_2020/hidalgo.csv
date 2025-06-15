@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Hidalgo,Income,-0.28863636363636364,1100,300,2768
-Hidalgo,Access To Health Services,-0.3458498023715415,253,300,2768
-Hidalgo,Educational Lag,0.007368421052631579,475,300,2768
-Hidalgo,Access To Social Security,-0.37109375,128,300,2768
-Hidalgo,Housing,-0.5611111111111111,180,300,2768
-Hidalgo,Access To Food,-0.38461538461538464,221,300,2768
-Hidalgo,Social Cohesion,0.1400709219858156,282,300,2768
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Hidalgo,Income,-0.39901593252108714,2134,35.43673198272999,300,5910
+Hidalgo,Access To Health Services,-0.4025229357798165,436,7.240119561607439,300,5910
+Hidalgo,Educational Lag,-0.068,1125,18.68150116240452,300,5910
+Hidalgo,Access To Social Security,-0.5408921933085502,269,4.466954500166058,300,5910
+Hidalgo,Housing,-0.3804945054945055,364,6.04450348721355,300,5910
+Hidalgo,Access To Food,-0.34988179669030733,423,7.024244437064098,300,5910
+Hidalgo,Social Cohesion,0.037825059101654845,423,7.024244437064098,300,5910
+Hidalgo,Other,-0.6061320754716981,848,14.08170043175025,300,5910

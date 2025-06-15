@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Nuevo León,Income,-0.3938223938223938,1554,300,4624
-Nuevo León,Access To Health Services,-0.47368421052631576,703,300,4624
-Nuevo León,Educational Lag,-0.14335664335664336,858,300,4624
-Nuevo León,Access To Social Security,-0.2784090909090909,88,300,4624
-Nuevo León,Housing,-0.6336477987421384,318,300,4624
-Nuevo León,Access To Food,-0.5076530612244898,392,300,4624
-Nuevo León,Social Cohesion,-0.13343108504398826,341,300,4624
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Nuevo León,Income,-0.37177121771217714,1626,31.67738164815897,300,5006
+Nuevo León,Access To Health Services,-0.4904632152588556,734,14.299629846093904,300,5006
+Nuevo León,Educational Lag,-0.14149947201689547,947,18.44924995129554,300,5006
+Nuevo León,Access To Social Security,-0.3008474576271186,118,2.2988505747126435,300,5006
+Nuevo León,Housing,-0.5866141732283464,381,7.422559906487434,300,5006
+Nuevo León,Access To Food,-0.49534883720930234,430,8.377167348529126,300,5006
+Nuevo León,Social Cohesion,-0.11178247734138973,331,6.44847067991428,300,5006
+Nuevo León,Other,-0.5901060070671378,566,11.026690044808104,300,5006

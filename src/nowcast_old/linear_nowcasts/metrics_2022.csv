@@ -1,0 +1,7 @@
+,r2,rmse,mae,features_used,n_features
+educational_lag,0.308419848725089,4.134210238843191,2.962887754281792,"['educational_lag', 'educational_lag_avg_sentiment', 'educational_lag_pct_tg', 'educational_lag_pct_yt']",4
+health,0.12680850651374287,11.622673713698926,9.521675394824365,"['access_to_health_services_avg_sentiment', 'access_to_health_services_pct_tg', 'access_to_health_services_pct_yt', 'health', 'health_gt']",5
+social_security,0.27906208173306424,11.959560644529667,9.886072146580805,"['access_to_social_security_avg_sentiment', 'access_to_social_security_pct_tg', 'access_to_social_security_pct_yt', 'public_services', 'social_gt']",5
+income,0.025976838199235575,13.757599136072713,11.326331759995522,"['economy', 'income_avg_sentiment', 'income_gt', 'income_pct_tg', 'income_pct_yt']",5
+food,0.035906413953566974,6.0882045753576755,4.752179419055334,"['access_to_food_avg_sentiment', 'access_to_food_pct_tg', 'access_to_food_pct_yt', 'food_gt']",4
+housing,0.053313193349417975,10.230612502307356,8.497601817488334,"['housing_avg_sentiment', 'housing_gt', 'housing_pct_tg', 'housing_pct_yt', 'public_services']",5

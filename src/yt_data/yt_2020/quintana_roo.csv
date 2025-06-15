@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Quintana Roo,Income,-0.14635473340587596,919,300,2968
-Quintana Roo,Access To Health Services,-0.35271317829457366,258,300,2968
-Quintana Roo,Educational Lag,0.1640926640926641,518,300,2968
-Quintana Roo,Access To Social Security,-0.12048192771084337,83,300,2968
-Quintana Roo,Housing,-0.5743494423791822,269,300,2968
-Quintana Roo,Access To Food,-0.29835390946502055,243,300,2968
-Quintana Roo,Social Cohesion,0.1828358208955224,402,300,2968
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Quintana Roo,Income,-0.11310259579728059,809,30.713743356112378,300,2442
+Quintana Roo,Access To Health Services,-0.29959514170040485,247,9.377372817008352,300,2442
+Quintana Roo,Educational Lag,0.1380952380952381,420,15.945330296127564,300,2442
+Quintana Roo,Access To Social Security,-0.2037037037037037,54,2.050113895216401,300,2442
+Quintana Roo,Housing,-0.5267857142857143,224,8.5041761579347,300,2442
+Quintana Roo,Access To Food,-0.2652582159624413,213,8.086560364464694,300,2442
+Quintana Roo,Social Cohesion,0.16539440203562342,393,14.92027334851936,300,2442
+Quintana Roo,Other,-0.5036496350364964,274,10.402429764616553,300,2442

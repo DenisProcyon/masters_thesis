@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Oaxaca,Income,-0.30374649859943975,2856,300,7797
-Oaxaca,Access To Health Services,-0.3155430711610487,534,300,7797
-Oaxaca,Educational Lag,-0.013533834586466165,1330,300,7797
-Oaxaca,Access To Social Security,-0.4,165,300,7797
-Oaxaca,Housing,-0.361228813559322,472,300,7797
-Oaxaca,Access To Food,-0.2814625850340136,588,300,7797
-Oaxaca,Social Cohesion,-0.034119106699751864,806,300,7797
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Oaxaca,Income,-0.2836127266507013,2923,35.65938758082225,300,8402
+Oaxaca,Access To Health Services,-0.3115079365079365,504,6.148590947907771,300,8402
+Oaxaca,Educational Lag,-0.0310407790626902,1643,20.04391850677077,300,8402
+Oaxaca,Access To Social Security,-0.3181818181818182,176,2.147126997682079,300,8402
+Oaxaca,Housing,-0.3997821350762527,459,5.599609613273149,300,8402
+Oaxaca,Access To Food,-0.25321100917431194,545,6.648773941685983,300,8402
+Oaxaca,Social Cohesion,-0.02564102564102564,858,10.467244113700135,300,8402
+Oaxaca,Other,-0.566574839302112,1089,13.285348298157862,300,8402

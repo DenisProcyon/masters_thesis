@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Tlaxcala,Income,-0.3485623003194888,1565,300,4148
-Tlaxcala,Access To Health Services,-0.42905405405405406,296,300,4148
-Tlaxcala,Educational Lag,-0.05026455026455026,756,300,4148
-Tlaxcala,Access To Social Security,-0.3584070796460177,113,300,4148
-Tlaxcala,Housing,-0.5366666666666666,150,300,4148
-Tlaxcala,Access To Food,-0.36349693251533743,326,300,4148
-Tlaxcala,Social Cohesion,-0.20109689213893966,547,300,4148
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Tlaxcala,Income,-0.27871720116618076,1715,34.84355952864689,300,4850
+Tlaxcala,Access To Health Services,-0.3289855072463768,345,7.009345794392523,300,4850
+Tlaxcala,Educational Lag,0.04179566563467492,969,19.687119057293785,300,4850
+Tlaxcala,Access To Social Security,-0.2920353982300885,113,2.2958147094676957,300,4850
+Tlaxcala,Housing,-0.5202702702702703,148,3.0069077610727346,300,4850
+Tlaxcala,Access To Food,-0.3458333333333333,360,7.314099959366112,300,4850
+Tlaxcala,Social Cohesion,-0.145985401459854,685,13.917106867127185,300,4850
+Tlaxcala,Other,-0.565587734241908,587,11.926046322633075,300,4850

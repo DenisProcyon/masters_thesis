@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Yucatán,Income,-0.16097560975609757,820,300,2971
-Yucatán,Access To Health Services,-0.27586206896551724,203,300,2971
-Yucatán,Educational Lag,0.22016129032258064,620,300,2971
-Yucatán,Access To Social Security,-0.14457831325301204,83,300,2971
-Yucatán,Housing,-0.31,300,300,2971
-Yucatán,Access To Food,-0.21578947368421053,285,300,2971
-Yucatán,Social Cohesion,0.43983957219251335,374,300,2971
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Yucatán,Income,-0.19439421338155516,553,25.901639344262296,300,1956
+Yucatán,Access To Health Services,-0.28104575163398693,153,7.166276346604215,300,1956
+Yucatán,Educational Lag,0.20396270396270397,429,20.09367681498829,300,1956
+Yucatán,Access To Social Security,-0.12244897959183673,49,2.2950819672131146,300,1956
+Yucatán,Housing,-0.3287671232876712,219,10.257611241217798,300,1956
+Yucatán,Access To Food,-0.23444976076555024,209,9.789227166276348,300,1956
+Yucatán,Social Cohesion,0.42971887550200805,249,11.662763466042154,300,1956
+Yucatán,Other,-0.3795620437956204,274,12.833723653395785,300,1956

@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Querétaro,Income,-0.44949968730456535,3198,300,8876
-Querétaro,Access To Health Services,-0.4835164835164835,728,300,8876
-Querétaro,Educational Lag,-0.16349017272185826,1679,300,8876
-Querétaro,Access To Social Security,-0.6046195652173914,368,300,8876
-Querétaro,Housing,-0.479020979020979,429,300,8876
-Querétaro,Access To Food,-0.4438860971524288,597,300,8876
-Querétaro,Social Cohesion,-0.10719530102790015,681,300,8876
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Querétaro,Income,-0.41810459251393683,3767,35.65209161461291,300,10747
+Querétaro,Access To Health Services,-0.48146067415730337,890,8.42324436872989,300,10747
+Querétaro,Educational Lag,-0.13164026095060577,2146,20.310429680106,300,10747
+Querétaro,Access To Social Security,-0.5016025641025641,312,2.9528676888131744,300,10747
+Querétaro,Housing,-0.4049904030710173,521,4.930910467537384,300,10747
+Querétaro,Access To Food,-0.38866930171277997,759,7.183418512208972,300,10747
+Querétaro,Social Cohesion,-0.05980603448275862,928,8.78288851031611,300,10747
+Querétaro,Other,-0.6295253419147224,1243,11.764149157675563,300,10747

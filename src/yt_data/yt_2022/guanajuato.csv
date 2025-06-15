@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Guanajuato,Income,-0.4357050079376533,6929,300,18924
-Guanajuato,Access To Health Services,-0.437192118226601,1218,300,18924
-Guanajuato,Educational Lag,-0.12844036697247707,3161,300,18924
-Guanajuato,Access To Social Security,-0.3156862745098039,510,300,18924
-Guanajuato,Housing,-0.5693012600229095,873,300,18924
-Guanajuato,Access To Food,-0.3644067796610169,1121,300,18924
-Guanajuato,Social Cohesion,-0.21524872152487215,2151,300,18924
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Guanajuato,Income,-0.48163059889280324,1987,33.638056543084474,300,5755
+Guanajuato,Access To Health Services,-0.4771084337349398,415,7.02556289148468,300,5755
+Guanajuato,Educational Lag,-0.17289719626168223,1070,18.114101912984594,300,5755
+Guanajuato,Access To Social Security,-0.35714285714285715,147,2.488572879634332,300,5755
+Guanajuato,Housing,-0.656896551724138,290,4.909429490435077,300,5755
+Guanajuato,Access To Food,-0.2772151898734177,395,6.686981547316743,300,5755
+Guanajuato,Social Cohesion,-0.27159590043923865,683,11.562552903335026,300,5755
+Guanajuato,Other,-0.6005434782608695,920,15.574741831725072,300,5755

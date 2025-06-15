@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Tabasco,Income,-0.39827107131830813,3239,300,8958
-Tabasco,Access To Health Services,-0.3518111964873765,911,300,8958
-Tabasco,Educational Lag,-0.03719655442443226,1277,300,8958
-Tabasco,Access To Social Security,-0.37209302325581395,258,300,8958
-Tabasco,Housing,-0.59695603156708,887,300,8958
-Tabasco,Access To Food,-0.4525801952580195,717,300,8958
-Tabasco,Social Cohesion,-0.069375,800,300,8958
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Tabasco,Income,-0.3674562887760857,3546,37.12311557788945,300,9579
+Tabasco,Access To Health Services,-0.41746411483253587,836,8.752093802345058,300,9579
+Tabasco,Educational Lag,-0.027045769764216365,1442,15.096314907872696,300,9579
+Tabasco,Access To Social Security,-0.39338235294117646,272,2.8475711892797317,300,9579
+Tabasco,Housing,-0.5793650793650794,882,9.233668341708542,300,9579
+Tabasco,Access To Food,-0.43902439024390244,779,8.15536013400335,300,9579
+Tabasco,Social Cohesion,-0.0027624309392265192,905,9.474455611390285,300,9579
+Tabasco,Other,-0.5853932584269663,890,9.317420435510888,300,9579

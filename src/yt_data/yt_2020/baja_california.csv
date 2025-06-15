@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Baja California,Income,-0.42852087756546353,1413,300,3708
-Baja California,Access To Health Services,-0.4874429223744292,438,300,3708
-Baja California,Educational Lag,-0.14502529510961215,593,300,3708
-Baja California,Access To Social Security,-0.3416666666666667,120,300,3708
-Baja California,Housing,-0.4363957597173145,283,300,3708
-Baja California,Access To Food,-0.43238993710691825,318,300,3708
-Baja California,Social Cohesion,-0.10952380952380952,315,300,3708
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Baja California,Income,-0.43612334801762115,1362,37.325294601260616,300,3510
+Baja California,Access To Health Services,-0.4845605700712589,421,11.53740750890655,300,3510
+Baja California,Educational Lag,-0.15092592592592594,540,14.798574952041655,300,3510
+Baja California,Access To Social Security,-0.3434343434343434,99,2.7130720745409698,300,3510
+Baja California,Housing,-0.39846743295019155,261,7.152644560153466,300,3510
+Baja California,Access To Food,-0.4563106796116505,309,8.468073444779392,300,3510
+Baja California,Social Cohesion,-0.12745098039215685,306,8.385859139490272,300,3510
+Baja California,Other,-0.5726495726495726,351,9.619073718827076,300,3510

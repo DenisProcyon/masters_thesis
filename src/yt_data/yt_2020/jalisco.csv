@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Jalisco,Income,-0.4271043093032622,2483,300,6985
-Jalisco,Access To Health Services,-0.3019169329073482,626,300,6985
-Jalisco,Educational Lag,-0.1726568005637773,1419,300,6985
-Jalisco,Access To Social Security,-0.4756756756756757,185,300,6985
-Jalisco,Housing,-0.611336032388664,247,300,6985
-Jalisco,Access To Food,-0.46673596673596673,481,300,6985
-Jalisco,Social Cohesion,-0.1790633608815427,726,300,6985
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Jalisco,Income,-0.44034334763948496,2330,36.6064414768264,300,6284
+Jalisco,Access To Health Services,-0.3647469458987784,573,9.002356637863315,300,6284
+Jalisco,Educational Lag,-0.26371681415929205,1130,17.75333857030636,300,6284
+Jalisco,Access To Social Security,-0.4451219512195122,164,2.576590730557738,300,6284
+Jalisco,Housing,-0.6644736842105263,228,3.582089552238806,300,6284
+Jalisco,Access To Food,-0.5124434389140271,442,6.944226237234878,300,6284
+Jalisco,Social Cohesion,-0.2791461412151067,609,9.567949725058916,300,6284
+Jalisco,Other,-0.6822272215973003,889,13.96700706991359,300,6284

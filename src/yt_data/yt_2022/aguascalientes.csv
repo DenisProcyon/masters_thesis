@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Aguascalientes,Income,-0.4949807906803817,8069,200,22355
-Aguascalientes,Access To Health Services,-0.5526760563380282,1775,200,22355
-Aguascalientes,Educational Lag,-0.18244274809160305,3275,200,22355
-Aguascalientes,Access To Social Security,-0.3957816377171216,403,200,22355
-Aguascalientes,Housing,-0.6350224502886466,1559,200,22355
-Aguascalientes,Access To Food,-0.4201359388275276,1177,200,22355
-Aguascalientes,Social Cohesion,-0.21845204711160965,1783,200,22355
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Aguascalientes,Income,-0.5124059385804353,4917,35.68991797924077,300,14058
+Aguascalientes,Access To Health Services,-0.5548654244306418,966,7.0116861435726205,300,14058
+Aguascalientes,Educational Lag,-0.17129851461427886,2087,15.148435798795093,300,14058
+Aguascalientes,Access To Social Security,-0.4552980132450331,302,2.1920592291500327,300,14058
+Aguascalientes,Housing,-0.5948795180722891,996,7.229440371633883,300,14058
+Aguascalientes,Access To Food,-0.3720787207872079,813,5.901139580460187,300,14058
+Aguascalientes,Social Cohesion,-0.2375968992248062,1290,9.363431806634246,300,14058
+Aguascalientes,Other,-0.6340399002493765,2406,17.463889090513174,300,14058

@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Chihuahua,Income,-0.4400206825232678,4835,300,11571
-Chihuahua,Access To Health Services,-0.3803230543318649,681,300,11571
-Chihuahua,Educational Lag,-0.15256478053939715,1891,300,11571
-Chihuahua,Access To Social Security,-0.4207920792079208,303,300,11571
-Chihuahua,Housing,-0.5478424015009381,533,300,11571
-Chihuahua,Access To Food,-0.43645251396648044,716,300,11571
-Chihuahua,Social Cohesion,-0.14414802065404475,1162,300,11571
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Chihuahua,Income,-0.3698282119525768,4133,41.18174571542447,300,10629
+Chihuahua,Access To Health Services,-0.4939209726443769,658,6.556396970904743,300,10629
+Chihuahua,Educational Lag,-0.05121293800539083,1855,18.48345954563571,300,10629
+Chihuahua,Access To Social Security,-0.3922018348623853,218,2.172180151454763,300,10629
+Chihuahua,Housing,-0.5080459770114942,435,4.3343961737744126,300,10629
+Chihuahua,Access To Food,-0.38906009244992296,649,6.46671980868872,300,10629
+Chihuahua,Social Cohesion,-0.07047325102880658,972,9.68513351933041,300,10629
+Chihuahua,Other,-0.5421146953405018,1116,11.119968114786767,300,10629

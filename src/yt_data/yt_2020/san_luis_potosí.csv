@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-San Luis Potosí,Income,-0.4855721393034826,1005,300,3394
-San Luis Potosí,Access To Health Services,-0.5320069204152249,578,300,3394
-San Luis Potosí,Educational Lag,-0.28964194373401536,782,300,3394
-San Luis Potosí,Access To Social Security,-0.36507936507936506,63,300,3394
-San Luis Potosí,Housing,-0.46107784431137727,167,300,3394
-San Luis Potosí,Access To Food,-0.5208333333333334,240,300,3394
-San Luis Potosí,Social Cohesion,-0.34672619047619047,336,300,3394
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+San Luis Potosí,Income,-0.49476987447698745,956,28.142478657639092,300,3245
+San Luis Potosí,Access To Health Services,-0.5338491295938105,517,15.219311156903151,300,3245
+San Luis Potosí,Educational Lag,-0.2940026075619296,767,22.578745952310864,300,3245
+San Luis Potosí,Access To Social Security,-0.29069767441860467,43,1.2658227848101267,300,3245
+San Luis Potosí,Housing,-0.45481927710843373,166,4.886664704150721,300,3245
+San Luis Potosí,Access To Food,-0.49353448275862066,232,6.8295554901383575,300,3245
+San Luis Potosí,Social Cohesion,-0.4096209912536443,343,10.097144539299382,300,3245
+San Luis Potosí,Other,-0.6501340482573726,373,10.980276714748308,300,3245

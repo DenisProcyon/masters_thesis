@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Tamaulipas,Income,-0.3822952961672474,4592,300,11686
-Tamaulipas,Access To Health Services,-0.3003384094754653,591,300,11686
-Tamaulipas,Educational Lag,-0.048749361919346604,1959,300,11686
-Tamaulipas,Access To Social Security,-0.2971014492753623,414,300,11686
-Tamaulipas,Housing,-0.5103686635944701,434,300,11686
-Tamaulipas,Access To Food,-0.4056372549019608,816,300,11686
-Tamaulipas,Social Cohesion,-0.09171143514965464,1303,300,11686
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Tamaulipas,Income,-0.38848512377924144,4403,39.48878923766816,300,11411
+Tamaulipas,Access To Health Services,-0.3861646234676007,571,5.121076233183857,300,11411
+Tamaulipas,Educational Lag,-0.04207285787583376,1949,17.47982062780269,300,11411
+Tamaulipas,Access To Social Security,-0.31176470588235294,340,3.0493273542600896,300,11411
+Tamaulipas,Housing,-0.5126315789473684,475,4.260089686098654,300,11411
+Tamaulipas,Access To Food,-0.4087112171837709,838,7.515695067264574,300,11411
+Tamaulipas,Social Cohesion,-0.13505747126436782,1218,10.923766816143496,300,11411
+Tamaulipas,Other,-0.5379793510324484,1356,12.161434977578475,300,11411

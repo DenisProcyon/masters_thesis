@@ -1,0 +1,7 @@
+dimension,r2,rmse,mae,mean_pct_error,features_used
+income,0.019752507113459772,13.801486944243065,11.15045828410691,35.27723836080162,"['income_gt', 'income_avg_sentiment', 'income_pct_yt', 'income_pct_tg', 'economy', 'public_services', 'health']"
+health,0.07925021451699499,11.934991415771206,9.617567647092361,27.844798034460652,"['health_gt', 'access_to_health_services_avg_sentiment', 'access_to_health_services_pct_yt', 'access_to_health_services_pct_tg', 'economy', 'public_services', 'health']"
+education,0.13812201055663498,4.615238969704873,3.5461911222382017,18.89928437380135,"['educational_lag_avg_sentiment', 'educational_lag_pct_yt', 'educational_lag_pct_tg', 'economy', 'public_services', 'health']"
+social_security,0.03668130028451533,13.824559011941464,11.622358767607874,27.024910942309955,"['access_to_social_security_avg_sentiment', 'access_to_social_security_pct_yt', 'access_to_social_security_pct_tg', 'economy', 'public_services', 'health']"
+housing,0.10760948470711551,9.932897320473115,7.92922345539646,95.62093681166365,"['housing_gt', 'housing_avg_sentiment', 'housing_pct_yt', 'housing_pct_tg', 'economy', 'public_services', 'health']"
+food,0.21126141299155332,5.506760447121897,4.575929130135937,28.035327248064405,"['food_gt', 'access_to_food_avg_sentiment', 'access_to_food_pct_yt', 'access_to_food_pct_tg', 'economy', 'public_services', 'health']"

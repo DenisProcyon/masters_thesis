@@ -1,8 +1,9 @@
-state,dimension,avg_sentiment,mentions_count,videos_analyzed,comments_analyzed
-Coahuila,Income,-0.32629452809401394,2723,300,8449
-Coahuila,Access To Health Services,-0.48269742679680566,1127,300,8449
-Coahuila,Educational Lag,-0.16395348837209303,1720,300,8449
-Coahuila,Access To Social Security,-0.5047846889952153,209,300,8449
-Coahuila,Housing,-0.6128608923884514,381,300,8449
-Coahuila,Access To Food,-0.4444444444444444,495,300,8449
-Coahuila,Social Cohesion,-0.1555683122847302,871,300,8449
+state,dimension,avg_sentiment,mentions_count,percentage_of_total,videos_analyzed,comments_analyzed
+Coahuila,Income,-0.265527950310559,2898,32.928076354959664,300,8799
+Coahuila,Access To Health Services,-0.4783783783783784,1110,12.612203158731964,300,8799
+Coahuila,Educational Lag,-0.16342952275249722,1802,20.47494602886036,300,8799
+Coahuila,Access To Social Security,-0.3888888888888889,153,1.7384388137711624,300,8799
+Coahuila,Housing,-0.5913173652694611,334,3.795023292807635,300,8799
+Coahuila,Access To Food,-0.45866141732283466,508,5.772071355527781,300,8799
+Coahuila,Social Cohesion,-0.1408685968819599,898,10.203385978866038,300,8799
+Coahuila,Other,-0.5623861566484517,1098,12.475855016475402,300,8799
