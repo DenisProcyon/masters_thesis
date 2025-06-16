@@ -1,365 +1,152 @@
+# Real-Time Multidimensional Poverty Nowcasting in Mexico
 
-## 🧱 Repository Structure
+## Overview  
+This project develops a data-driven tool for real-time detection and quantification of **multidimensional poverty** across all 32 Mexican states. By leveraging text-rich data from social media platforms and news outlets, the tool bridges the gap between **outdated official statistics** and **real-time needs**, enabling more timely and targeted social interventions.
 
-```bash
-mexico-social-data-pipeline/
-├── src/
-│   ├── telegram/              # Telegram post/comment models and logic
-│   ├── youtube/               # YouTube API wrapper
-│   ├── news_data/             # News parsing and preprocessing
-│   ├── gt_data/               # Google Trends scraping
-│   ├── mongo_wrapper/         # MongoDB integration layer
-│   ├── logger/                # Logging abstraction (file + console)
-├── tg_scraper.py              # Telegram collection logic
-├── yt_client.py               # YouTube video/comment retriever
-├── main_pipeline.py           # Orchestration of all sources
-├── notebooks/                 # Data exploration and correlation notebooks
-├── data/                      # Example exports and raw samples
-├── requirements.txt
-├── .env.example               # Template for API keys and DB access
-└── README.md
-```
+This work is part of a thesis project aimed at creating a robust framework for nowcasting poverty across its multiple dimensions. The urgency of this task is particularly high in the Mexican context, where persistent structural problems — including poverty, inequality, and lack of state presence — provide fertile ground for the expansion of criminal organizations.
 
 ---
 
-## 🌐 Chapter I — Social Media Data Collection
+## 🎯 Motivation  
+Traditional poverty estimation methods rely on **infrequent surveys** and often **outdated data**. Mexico’s latest official multidimensional poverty statistics date back to **2022**, creating a lag in capturing current socioeconomic dynamics.
 
-Our first and most direct source of public opinion is **social media**. We focus on two key platforms:
-
-### 📲 1. Telegram
-
-Telegram is widely used in Latin America for public and semi-anonymous discussions on politics, economy, and society.
-It offers unfiltered insights from both citizens and grassroots media outlets.
-
-We use the [`telethon`](https://github.com/LonamiWebs/Telethon) library to:
-
-* Scrape historical messages from public channels
-* Filter posts based on target keywords (e.g. *"crisis"*, *"violencia"*)
-* Optionally collect user comments per post
-
-```python
-from tg_scraper import get_posts
-from telethon.sync import TelegramClient
-
-client = TelegramClient("anon", api_id, api_hash)
-
-posts = await get_posts(
-    client=client,
-    channel="@NoticiasMexico",
-    start="01/03/2024",
-    end="01/04/2024",
-    target_strings=["crisis", "violencia", "alimentos"]
-)
-```
-
-Each message is converted into a structured `Post` object, which is later stored in MongoDB.
+This project responds to the need for:
+- Real-time insights into poverty dynamics  
+- Early-warning systems for deteriorating conditions  
+- Enhanced intervention targeting based on current conditions  
 
 ---
 
-### 📺 2. YouTube
+## 🗂 Repository Structure  
 
-YouTube provides semi-structured video content, news reports, and public commentary.
-We retrieve both **video metadata** and **comment threads** via the YouTube Data API v3.
-
-#### Videos can be fetched by:
-
-* Public **channel handle** (e.g. `@MilenoNoticias`)
-* **Keyword queries** (e.g. `"protestas en Chiapas"`)
-
-```python
-from youtube.yt_client import YouTubeClient
-
-yt_client = YouTubeClient(api_key=YOUTUBE_API_KEY)
-
-# Fetch videos
-videos = yt_client.get_videos_by_handle("@NoticiasMexico")
-
-# Fetch comments for a specific video
-comments = yt_client.get_comments_by_video_id(video_id="abc123xyz")
-```
-
-
-## 🗄️ Chapter II — MongoDB and Why It Matters
-
-### 🧾 Why MongoDB?
-
-| Feature                  | Why it matters for us                                                                                                 |
-| ------------------------ | --------------------------------------------------------------------------------------------------------------------- |
-| ✅ **Human-readable**     | Documents are plain JSON, easy to inspect, version, or export                                                        |
-| 🔄 **Flexible schema**   | Different platforms (Telegram, YouTube, News) have different structures. No need to normalize prematurely             |
-| 🚀 **Lightweight setup** | Can be installed locally in 1 min (`brew`, `apt`, or Docker) - ideal for reproducible academic setups                 |
-| ♻️ **Reusable**          | Anyone can swap out our data and reuse the same logic with their own region, topic, or keywords                       |
-| 🔍 **Queryable**         | Supports slicing by region, timestamp, keyword, etc. in one line, great for building datasets per state or timeframe |
 
 ---
 
-### 🧪 Example: Telegram Post Document in MongoDB
+## 🌐 Data Collection  
 
-```json
-{
-  "_id": 18932,
-  "text": "La situación alimentaria en Oaxaca es crítica...",
-  "author": 546118323,
-  "posting_ts": 1710000123.0,
-  "comments": [
-    {
-      "id": 98182,
-      "text": "Es verdad, no hay nada en los supermercados",
-      "author": 129993,
-      "posting_ts": 1710001523.0,
-      "post_id": 18932
-    }
-  ]
-}
-```
+We use four heterogeneous sources to capture different forms of textual expression and public discourse:
 
-No need for migrations, schema files, or foreign key constraints.
-Each post and its comments live in the same document — making inspection and analysis easier for non-technical researchers too.
+### 1. **Telegram**  
+- Scraped using [`telethon`](https://github.com/LonamiWebs/Telethon)  
+- Political and economic Mexican channels (e.g., *El Universal*, *Sin Embargo MX*)  
+- Messages are classified by State and stored in MongoDB  
+- Posts are categorized into poverty dimensions using Spanish keyword embeddings  
 
----
+### 2. **YouTube**  
+- Scraped using the official Google API  
+- For each state: `state + noticias/economía/news`  
+- 300 videos per state and up to 300 comments per video  
+- No MongoDB storage: comments are processed after scraping  
+- Comments classified by dimension using multilingual embeddings  
 
-### 🧪 Example: YouTube Video Document
+### 3. **News Outlets**  
+- Data from **Google News** and **MediaCloud**  
+- Filtered by articles mentioning each Mexican state  
+- Decoded redirected URLs and scraped full text using `trafilatura`  
+- News processed via LDA to extract topics per state/year  
 
-```json
-{
-  "_id": "zXY2abc390",
-  "snippet": {
-    "title": "Protestas en Chiapas",
-    "publishedAt": "2024-03-12T10:00:00Z",
-    "description": "Miles de personas salen a la calle...",
-    "channelTitle": "Noticias México"
-  },
-  "statistics": {
-    "viewCount": "10492",
-    "likeCount": "301"
-  }
-}
-```
-
-Again — rich, nested structure, flexible fields, no schema rigidity.
-It’s also ready for symbolic transformation or filtering (e.g. only videos from Oaxaca between two dates).
+### 4. **Google Trends**  
+- Accessed via **SerpApi**  
+- Queried using 3–4 keywords per poverty dimension  
+- We aggregate interest over time per dimension and state  
 
 ---
 
-## 📰 Chapter III — News & Public Discourse
+## 🧪 Data Processing  
 
-While social media gives us informal, bottom-up signals, **news media** reflects structured, editorially curated coverage. It’s especially important for tracking:
+Each source required tailored NLP approaches due to the diversity in formality, language, and depth:
 
-* Government announcements
-* Regional disasters
-* Food or violence spikes
-* Political events
+### Word Embedding Classification  
+Used to assign YouTube comments and Telegram posts to poverty dimensions.
 
-We collect news data from two sources:
-➡️ **Google News** (via `gnews`)
-➡️ **MediaCloud** (public news database focused on media ecosystems)
+- **YouTube**:  
+  `paraphrase-multilingual-MiniLM-L12-v2` – multilingual, informal/jargon-rich  
+- **Telegram**:  
+  `hiiamsid/sentence_similarity_spanish_es` – formal, Spanish-optimized  
 
----
+### Sentiment Analysis (YouTube Only)  
+- Model: `nlptown/bert-base-multilingual-uncased-sentiment`  
+- Original scores [0–5] normalized to [-1, 1]  
+- Not applied to Telegram, as posts are factual/news-like  
 
-### 🧭 Strategy: What We Collect
-
-* Articles mentioning each **Mexican state** by name
-* From **2020**, covering the pre- and post-pandemic period
-* Stored per state into MongoDB for exploration and filtering
-
----
-
-## 🧪 A. Google News via `gnews`
-
-We split the full year into **10-day chunks**, then query Google News for each state name.
-
-```python
-from newsapi_parser import process_state
-from datetime import datetime
-
-process_state(
-    state="Oaxaca",
-    start_date=datetime(2020, 1, 1),
-    end_date=datetime(2020, 12, 1),
-    max_workers=20
-)
-```
-
-Each article is:
-
-* Proxied via `proxies.txt` to avoid throttling
-* Assigned a unique ID (hashed URL)
-* Stored under collection `gnews_{state}` in Mongo
-
-✅ Articles are downloaded in parallel using threads for speed.
-✅ Stored in JSON format, ready for querying or symbolic transformation.
+### LDA Topic Modeling (News)  
+- 8 topics fitted per state/year  
+- Reduced topic overlap via `eta` and `alpha` tuning  
+- LDA output: topic share vector per state  
 
 ---
 
-## 🧪 B. MediaCloud API
+## 🧩 Components Retrieved  
 
-To supplement GNews with **independent or niche outlets**, we also use [`mediacloud`](https://mediacloud.org/), an academic-grade API.
+From the above analysis, we extract the following components:
 
-```python
-from mediacloud.api import SearchApi
-from datetime import date
-from mediacloud_collector import get_data
-
-mc = SearchApi(MEDIACLOUD_API_KEY)
-
-get_data(
-    mediacloud_engine=mc,
-    keyword="Veracruz",
-    start_date=date(2020, 1, 1),
-    end_date=date(2020, 12, 1)
-)
-```
-
-Key features:
-
-* Supports **pagination** across large result sets
-* Pulls from **dozens of Mexican collections** (print, digital, and local news)
-* Saves to Mongo under `mediacloud_{state}`
----
-
-### 🧾 Example document
-
-```json
-{
-  "_id": 839221231,
-  "title": "Violencia aumenta en Veracruz según informe local",
-  "url": "https://noticiasveracruz.mx/article/violencia-2020",
-  "publish_date": "2020-07-15",
-  "source_name": "Noticias Veracruz",
-  "summary": "El artículo informa sobre el aumento de violencia en zonas rurales de Veracruz...",
-  "state": "Veracruz"
-}
-```
-
-This document is **rich in metadata** but still lacks the full body text, which is critical for deeper semantic analysis.
+- **YouTube Conditional Sentiment Score**: average sentiment per dimension and state  
+- **YouTube Dimension Share**: percentage of comments discussing each dimension  
+- **Telegram Dimension Share**: percentage of posts discussing each dimension  
+- **LDA Topic Shares**: state-level topic distribution from news  
+- **Google Trends Interest**: average interest per poverty dimension  
 
 ---
 
+## 📈 PLS Regression for Nowcasting  
 
-## 🧾 Chapter IV — Extracting Full Article Content
+To estimate current poverty levels, we use **Partial Least Squares Regression (PLS)** on the above components.
 
-By default, the articles we fetch from GNews and MediaCloud **do not contain full content** — only titles, snippets, and links.
-Moreover, Google News often provides **redirect URLs**, not direct links to the article.
-
-To solve this, we implement a **three-stage content pipeline**:
-
----
-
-### 🧩 Step 1: Decode Google News Redirect URLs
-
-Google often returns links like:
-
-```
-https://news.google.com/articles/CBMiMWh0dHBzOi8vd3d3LmVsdW5pdmVyc2FsLmNvbS5teC9ub3RpY2lhL29he...
-```
-
-These are just wrappers. We resolve the actual URLs using a custom utility `gnewsdecoder` + rotating proxies:
-
-```python
-decoded = gnewsdecoder("https://news.google.com/articles/...", proxy="http://IP:PORT")
-```
-
-We do this in parallel:
-
-```python
-from decode_urls import update_articles_multithread
-
-articles = mongo_client.get_collection_entries("gnews_Oaxaca")
-update_articles_multithread("gnews_Oaxaca", articles, max_workers=30)
-```
-
-This creates a new field in MongoDB:
-
-```json
-{
-  "_id": "...",
-  "url": "https://news.google.com/...",
-  "decoded_url": "https://eluniversal.com.mx/article-about-violence"
-}
-```
+- The model is trained using available ground truth (2020 and 2022 official data)  
+- Weights from PLS are used to nowcast poverty for the latest year  
+- Two approaches are tested:
+  1. Training on 2020 only → testing on 2022  
+  2. Training on 2020 + 2022 → validating on 2022  
 
 ---
 
-Отлично! Вот как мы можем расширить и улучшить раздел `🔍 Step 2`, чтобы объяснить, **что такое `trafilatura`**, зачем мы её выбрали, и какие альтернативы могли бы быть.
+## Results
 
----
+### 🔢 Mean Absolute Error (MAE) by Dimension
 
-### 🔍 Step 2: Scrape Clean Article Text with `trafilatura`
+| Dimension         | MAE       |
+|------------------|-----------|
+| income           | 12.77     |
+| health           | 11.76     |
+| food             | 6.04      |
+| education        | 3.32      |
+| social_security  | 9.50      |
+| housing          | 6.09      |
+| **Average**      | **8.25**  |
 
-Once we decode the URLs and reach the actual news websites, we need a tool that can extract only the **core article content** — without headers, footers, ads, navigation bars, or comments.
+> Note: `r²` values and features used per dimension are available in `metrics.csv`
 
-For this, we use [`trafilatura`](https://github.com/adbar/trafilatura), a modern and **high-precision web scraping library** built specifically for news and academic web content.
+### 📈 Visual Results
 
----
+#### ❌ Worst Performing Dimensions
 
-### 🧠 What is `trafilatura`?
+The following dimensions showed the **poorest predictive performance**. This is likely due to the fact that they are **highly sensitive to short-term economic and health shocks**, such as those caused by the COVID-19 pandemic. Since the model was trained on data from 2020 (a year deeply impacted by the pandemic) and validated on 2022 (a partial recovery period), the underlying conditions for these dimensions changed significantly between training and prediction periods.
 
-`trafilatura` is a Python library for **article content extraction**. Unlike generic HTML parsers, it uses a hybrid rule-based and NLP approach to identify the actual readable part of a page — the article body — and discard all the boilerplate.
+- **Income**: Subject to large fluctuations due to lockdowns, informal work disruption, and government aid  
+- **Health**: Severely impacted by pandemic-related strain on the healthcare system  
+- **Food**: Affected by supply chain interruptions and inflation in basic goods  
 
-#### Key Features:
+![income](src/pls_out_sample/income.png)  
+![health](src/pls_out_sample/health.png)  
+![food](src/pls_out_sample/food.png)  
 
-* 🚀 No JavaScript rendering required (fast and lightweight)
-* 🧼 Built-in cleaning of noise, ads, and unrelated elements
-* 🌍 Language-aware (handles Spanish and multilingual text)
-* ✅ Suitable for academic-scale scraping
+#### ✅ Best Performing Dimensions
 
----
+These dimensions achieved **better prediction accuracy**, as they reflect more **structural and slowly-evolving aspects** of multidimensional poverty. Unlike income or health, they are less influenced by short-term shocks like the COVID-19 crisis, and thus the model generalizes more robustly across years.
 
-### 🧪 How we use it
+- **Education**: Although affected by school closures, structural gaps remain stable over time  
+- **Social Security**: Mostly tied to institutional access, which evolves gradually  
+- **Housing**: Based on physical conditions or infrastructure, typically slow-changing  
 
-```python
-from trafilatura import fetch_url, extract
+![education](src/pls_out_sample/education.png)  
+![social_security](src/pls_out_sample/social_security.png)  
+![housing](src/pls_out_sample/housing.png)
 
-html = fetch_url("https://eluniversal.com.mx/article-about-veracruz")
 
-text = extract(
-    html
-    output_format="txt"
-)
-```
 
-We wrap this logic into a multithreaded batch runner to extract dozens of articles per state:
 
-```python
-from fetch_article_texts import get_articles_content_threaded
 
-get_articles_content_threaded(
-    articles=articles,
-    mongo_client=mongo_client,
-    collection="gnews_Oaxaca",
-    max_workers=30
-)
-```
 
----
 
-### 📦 Why we chose `trafilatura`
 
-| Feature                  | Reason                                            |
-| -------------------------- | ---------------------------------------------------- |
-| No browser needed          | Much faster than headless Chrome (e.g. Selenium), especially in our case, for hundreds of thousands articles     |
-| Language-aware             | Handles Spanish text structure well                  |
-| Customizable output        | Choose between plain text or HTML with metadata      |
-| Designed for news articles | Works out of the box for press websites, blogs, etc. |
 
-We evaluated other tools (like `newspaper3k`, `readability-lxml`, and `goose3`), but `trafilatura` provided the **best recall and consistency**, especially for non-English content.
-
----
-
-### Final Mongo Document Structure
-
-```json
-{
-  "_id": "...",
-  "title": "Crisis alimentaria en Oaxaca",
-  "url": "https://news.google.com/...",
-  "decoded_url": "https://eluniversal.com.mx/real-article-url",
-  "content": "The article reports that access to basic food supplies in Oaxaca..."
-}
-```
-
-This allows us to:
-
-* Perform **topic classification** using full text
-* Compute **sentiment scores** or **symbolic encodings**
-* Link coverage to **state-level metrics** over time
