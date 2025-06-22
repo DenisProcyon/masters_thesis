@@ -88,15 +88,25 @@ From the above analysis, we extract the following components:
 
 ---
 
-## 📈 PLS Regression for Nowcasting  
+## 📈 Stacked Regression for Poverty Nowcasting  
 
-To estimate current poverty levels, we use **Partial Least Squares Regression (PLS)** on the above components.
+We implement a **three-stage stacking ensemble** to nowcast multidimensional poverty:
 
-- The model is trained using available ground truth (2020 and 2022 official data)  
-- Weights from PLS are used to nowcast poverty for the latest year  
-- Two approaches are tested:
-  1. Training on 2020 only → testing on 2022  
-  2. Training on 2020 + 2022 → validating on 2022  
+**Stage 1 - Feature Selection**: LASSO regression (α=1.0) independently selects relevant predictors for each poverty dimension from 39 text-based indicators, addressing the high-dimensional, small-sample challenge.
+
+**Stage 2 - Base Learners**: Two complementary models generate predictions:
+- **Random Forest**: Captures non-linear relationships and feature interactions (low bias, moderate variance)
+- **PLS Regression**: Provides stable linear modeling with 2 latent components (higher bias, low variance)
+
+**Stage 3 - Meta-Learning**: Linear regression optimally combines base learner predictions using 5-fold cross-validation to prevent overfitting.
+
+The ensemble leverages bias-variance complementarity: Random Forest handles complex patterns while PLS ensures prediction stability in small-sample settings. Fixed hyperparameters prevent CV instability common with limited observations (32 states).
+
+### Data & Evaluation
+
+**Training**: 2020 poverty data  
+**Validation**: 2022 out-of-sample predictions  
+**Metrics**: R², MAE across six poverty dimensions (income, health, education, social security, housing, food)
 
 ---
 
@@ -106,13 +116,13 @@ To estimate current poverty levels, we use **Partial Least Squares Regression (P
 
 | Dimension         | MAE       |
 |------------------|-----------|
-| income           | 12.77     |
-| health           | 11.76     |
-| food             | 6.04      |
-| education        | 3.32      |
-| social_security  | 9.50      |
-| housing          | 6.09      |
-| **Average**      | **8.25**  |
+| income           | 9.44      |
+| health           | 11.48     |
+| food             | 4.38      |
+| education        | 3.24      |
+| social_security  | 8.97      |
+| housing          | 5.31      |
+| **Average**      | **7.14**  |
 
 > Note: `r²` values and features used per dimension are available in `metrics.csv`
 
@@ -126,9 +136,9 @@ The following dimensions showed the **poorest predictive performance**. This is 
 - **Health**: Severely impacted by pandemic-related strain on the healthcare system  
 - **Food**: Affected by supply chain interruptions and inflation in basic goods  
 
-![income](src/pls_out_sample/income.png)  
-![health](src/pls_out_sample/health.png)  
-![food](src/pls_out_sample/food.png)  
+![income](src/out_sample_val/income_plot.png)  
+![health](src/out_sample_val/health_plot.png)  
+![food](src/out_sample_val/food_plot.png)  
 
 #### ✅ Best Performing Dimensions
 
@@ -138,15 +148,26 @@ These dimensions achieved **better prediction accuracy**, as they reflect more *
 - **Social Security**: Mostly tied to institutional access, which evolves gradually  
 - **Housing**: Based on physical conditions or infrastructure, typically slow-changing  
 
-![education](src/pls_out_sample/education.png)  
-![social_security](src/pls_out_sample/social_security.png)  
-![housing](src/pls_out_sample/housing.png)
+![education](src/out_sample_val/education_plot.png)  
+![social_security](src/out_sample_val/social_security_plot.png)  
+![housing](src/out_sample_val/housing_plot.png)
 
 
 
+## 📉 PCA for Nowcasting without Targets
+
+Since social cohesion lacks a direct target variable, we construct a **latent index** using **Principal Component Analysis (PCA)**. We implemented the following steps:
+
+- **Feature Selection**: All variables containing "cohesion" are selected.
+
+- **PCA Extraction**: After standardization, we retained the **first principal component (PC1)**, which captures maximum variance and serves as a unified cohesion index summarizing shared signal across all proxies.
+
+- **Sign Correction**: Since PCA components are sign-invariant, we ensure consistent interpretation by checking the sum of loadings. If negative, we invert scores so that **higher values = worse social cohesion**.
+
+- **Normalization**: Scores are scaled to 0-100 using MinMaxScaler for consistency with CONEVAL poverty indicators, where 100 represents maximum deprivation.
 
 
-
+![social_cohesion](src/plots/social_pca_score.png) 
 
 
 
