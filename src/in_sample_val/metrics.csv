@@ -1,0 +1,7 @@
+dimension,r2,mae,n_selected_features,selected_features
+income,0.8858,3.1034,15,"health_gt, access_to_social_security_avg_sentiment, housing_avg_sentiment, income_avg_sentiment, other_avg_sentiment, access_to_health_services_pct_yt, housing_pct_yt, other_pct_yt, social_cohesion_pct_yt, access_to_social_security_pct_tg, housing_pct_tg, other_pct_tg, social_cohesion_pct_tg, women_family, breaking_news"
+health,0.7761,4.8073,14,"health_gt, social_gt, food_gt, access_to_health_services_avg_sentiment, social_cohesion_avg_sentiment, access_to_health_services_pct_yt, access_to_social_security_pct_yt, educational_lag_pct_yt, housing_pct_yt, income_pct_yt, housing_pct_tg, income_pct_tg, social_cohesion_pct_tg, breaking_news"
+education,0.7532,1.9939,5,"health_gt, educational_lag, educational_lag_pct_yt, housing_pct_yt, housing_pct_tg"
+social_security,0.8791,3.7397,14,"health_gt, educational_lag, social_gt, access_to_social_security_avg_sentiment, income_avg_sentiment, other_avg_sentiment, housing_pct_yt, other_pct_yt, access_to_social_security_pct_tg, housing_pct_tg, other_pct_tg, social_cohesion_pct_tg, breaking_news, politics"
+housing,0.9337,1.9972,11,"income_gt, health_gt, educational_lag, access_to_health_services_avg_sentiment, educational_lag_pct_yt, housing_pct_tg, other_pct_tg, women_family, public_services, health, breaking_news"
+food,0.807,2.0025,8,"health_gt, social_gt, access_to_food_pct_yt, social_cohesion_pct_yt, access_to_food_pct_tg, educational_lag_pct_tg, public_services, security"
