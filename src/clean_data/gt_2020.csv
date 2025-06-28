@@ -1,4 +1,4 @@
-state,income_gt,health_gt,educational_lag,social_gt,food_gt,housing_gt,cohesion_gt
+state,income_gt,health_gt,education_gt,social_gt,food_gt,housing_gt,cohesion_gt
 Aguascalientes,16.08,12.75,15.75,35.88,0.92,3.28,19.42
 Baja California,18.22,10.95,9.29,39.42,9.14,42.31,21.03
 Baja California Sur,1.72,3.5,3.83,5.66,0.88,20.08,3.06
