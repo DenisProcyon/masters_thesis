@@ -167,7 +167,8 @@ Since social cohesion lacks a direct target variable, we construct a **latent in
 - **Normalization**: Scores are scaled to 0-100 using MinMaxScaler for consistency with CONEVAL poverty indicators, where 100 represents maximum deprivation.
 
 
-![social_cohesion](src/plots/social_pca_score.png) 
+![image](https://github.com/user-attachments/assets/33e4026a-307b-47e3-b4d9-520261de2532)
+
 
 
 
