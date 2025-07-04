@@ -43,7 +43,8 @@ Core source code directory containing:
 **Scraping files**
 - Telegram: The `telegram_pplt.py` script launches the scraping of posts and comments from specified Telegram channels using Telethon. The logic is split between `post.py` (for extracting post metadata) and `comment.py` (for retrieving associated comments). To reproduce the pipeline, insert your Telegram API credentials and run `telegram_pplt.py` with a list of target channels.
 - YouTube: The `yt_client.py` script handles both video and comment scraping via the YouTube Data API. It retrieves videos from specific channels or keyword searches, then extracts and stores their metadata and associated comments. To reproduce the pipeline, provide your API key and run the relevant functions in `yt_client.py`.
-- News: `src/newsapi_parser.py` - Google News scraper with proxy, `src/mediacloud_api.py` - MediaCloud API scraper
+- Media Cloud: The `mediacloud_api.py` script queries the Media Cloud API to retrieve articles based on keyword and date filters, returning metadata such as title, publish date, and media source. To reproduce the scraping, insert your API key and run the script with a list of keywords or topics.
+- Google News: The process starts with `newsapi_parser.py`, which queries NewsAPI to collect article URLs and metadata by keyword and date. These URLs are then passed to `gnews_decoder.py` to extract full article content when available. The `tra.p`y script coordinates both steps. To reproduce, run `tra.py` with the desired filters to perform the full scrape-and-decode pipeline.
 - Google Trends: The `serp_google_trends.py` script collects search interest data from Google Trends using the pytrends API. It builds time series for a list of keywords over specified timeframes and regions. To reproduce the scraping, define your keyword list and run the script to retrieve and store trend data.
 
 ---
