@@ -33,37 +33,18 @@ masters_thesis/
 
 ### `src`
 
-This folder contains all the core components of the thesis pipeline:
+Core source code directory containing:
 
-- **Data scraping modules**  
-  Code to collect text data from YouTube, Telegram, Google Trends, MediaCloud, and online news.  
+- **Data collection modules** - API clients and scrapers for extracting raw text data from social media and news sources
+- **Data processing pipelines** - Jupyter notebooks (`*_FINAL.ipynb`) that transform raw data into structured features for modeling
+- **Modeling and analysis** - Nowcasting model implementation (`FINAL_NOWCAST.ipynb`) and validation results
+- **Production automation** - Web interface (`app.py`) and Grafana dashboard configuration for operational deployment   
 
-- **Main analysis notebooks**  
-  Jupyter notebooks for processing and analyzing each digital signal (`*_FINAL.ipynb`), storing the resuling data (`*_data`) and building the nowcasting model (`FINAL_NOWCAST.ipynb`).
-
-- **Production-level code**  
-  Code to automate the entire pipeline in a user-friendly interface and create the Grafana dashboard.   
-
-Each data source has dedicated parsing modules:
-
-**Telegram Parsing:**
-- `src/telegram_pplt.py` - Main Telegram scraper using Telethon API
-- `src/tg_scraper/` - Telegram scraping utilities
-
-**YouTube Parsing:**
-- `src/yt_client/yt_client.py` - YouTube API client for video and comment extraction
-
-**News Outlets Parsing:**
-- `src/newsapi_parser.py` - Google News API parser with proxy support
-- `src/mediacloud_api.py` - MediaCloud API integration
-- `src/gnews_decoder.py` - URL decoding for Google News articles
-
-**Google Trends Parsing:**
-- `src/serp_google_trends.py` - SerpAPI Google Trends scraper
-
-**Data Storage & Processing:**
-- `src/mongo_wrapper/mongo_wrapper.py` - MongoDB interface for all data sources
-- `src/logger/logger.py` - Logging system for all parsers
+**Scraping files**
+- Telegram: `src/telegram_pplt.py` - Main scraper 
+- YouTube: `src/yt_client/yt_client.py` - YouTube API client for extracting videos and comments
+- News: `src/newsapi_parser.py` - Google News scraper with proxy, `src/mediacloud_api.py` - MediaCloud API scraper
+- Google Trends: `src/serp_google_trends.py` - SerpAPI client for collecting Google Trends
 
 ---
 
