@@ -20,6 +20,31 @@ This project responds to the need for:
 ## 🗂 Repository Structure  
 
 
+```plaintext
+masters_thesis/
+├── archive/                  # Archived files (content not shown)
+├── requirements.txt          # Python dependencies
+├── src/                      # Source code and main notebooks
+├── README.md                 # Project overview
+├── Mongo.log                 # MongoDB log file
+├── url_decoder.log           # URL decoder log
+
+
+### `src/` – 
+
+This folder contains all the core components of the thesis pipeline:
+
+- **Data scraping modules**  
+  Code to collect text data from YouTube, Telegram, Google Trends, MediaCloud, and online news.  
+
+- **Main analysis notebooks**  
+  Jupyter notebooks for processing and analyzing each digital signal (`*_FINAL.ipynb`), storing the resuling data (`*_data`) and building the nowcasting model (`FINAL_NOWCAST.ipynb`).
+
+- **Production-level code**  
+  Code to automate the entire pipeline in a user-friendly interface and create the Grafana dashboard.   
+
+
+
 ---
 
 ## 🌐 Data Collection  
