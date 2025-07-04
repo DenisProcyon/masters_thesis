@@ -19,7 +19,7 @@ proxies_path = Path(__file__).parent / "files/proxies.txt"
 
 # Initialize MongoDB client
 mongo_client = MongoWrapper(
-    db="news_outlets",
+    db="news_outlets_final",
     user=os.getenv("MONGO_USERNAME"),
     password=os.getenv("MONGO_PASSWORD"),
     ip=os.getenv("MONGO_IP"),
@@ -89,7 +89,7 @@ def update_articles_multithread(collection: str, articles: list[dict], max_worke
 # Main execution
 def main():
     states = [
-        "Aguascalientes",
+        "Guerrero",
         "Baja California Sur",
         "Campeche",
         "Coahuila",

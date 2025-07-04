@@ -16,52 +16,9 @@ from tqdm import tqdm
 load_dotenv()
 YT_API_KEY = os.getenv("YT_API_KEY")
 
-# Neutral keyword-based descriptions for poverty dimensions: around 30 words per dimension 
-# (60% standard spanish, 30% mexican/spanish slang and 10% english)
-# POVERTY_DIMENSIONS = {
-#     "INCOME": """
-#     empleo trabajo salario ingresos dinero economía sueldo ahorro impuestos
-#     chamba lana nómina billete jale job salary income money
-#     """,
-    
-#     "ACCESS TO HEALTH SERVICES": """
-#     salud médico hospital medicina tratamiento atención clínica seguro
-#     sistema de salud servicios médicos doctor cuidado ir al doctor health insurance
-#     seguro médico doctor particular ir a consulta healthcare medical treatment 
-#     """,
-    
-#     "EDUCATIONAL LAG": """
-#     educación escuela universidad maestro estudiante aprendizaje escuela pública
-#     clases formación conocimiento título bachillerato preparatoria escuela secundaria
-#     """,
-    
-#     "ACCESS TO SOCIAL SECURITY": """
-#     seguridad social pensión jubilación contrato derechos laborales
-#     prestaciones protección IMSS ISSSTE afore finiquito ahorro para retiro
-#     cotizar retirement benefits social security worker rights informal job
-#     """,
-    
-#     "HOUSING": """
-#     vivienda casa habitación hogar alquiler renta depa housing utilities
-#     servicios agua luz gas electricidad construcción propiedad rent 
-#     techo colonia vecindario urbanización asentamiento cuartito mortgage
-#     """,
-    
-#     "ACCESS TO FOOD": """
-#     alimentación comida nutrición alimentos dieta cocinar recetas
-#     canasta básica food security nutrition meal groceries
-#     comida saludable dieta balanceada comida rápida comida chatarra
-#     """,
-    
-#     "SOCIAL COHESION": """
-#     comunidad sociedad integración participación convivencia barrio raza community
-#     respeto diversidad solidaridad inclusión pertenencia 
-#     vecinos apoyo redes sociales confianza belonging inclusion
-#     """}
-
 # limits for scraping
 MAX_VIDEOS_PER_SEARCH = 5
-MAX_COMMENTS_PER_VIDEO = 300  
+MAX_COMMENTS_PER_VIDEO = 10  
 API_SLEEP_TIME = 0.5  
 
 class TextProcessor:

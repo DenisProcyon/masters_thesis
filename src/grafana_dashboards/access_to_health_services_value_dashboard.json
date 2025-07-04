@@ -1,0 +1,179 @@
+{
+  "annotations": {
+    "list": [
+      {
+        "builtIn": 1,
+        "datasource": {
+          "type": "grafana",
+          "uid": "-- Grafana --"
+        },
+        "enable": true,
+        "hide": true,
+        "iconColor": "rgba(0, 211, 255, 1)",
+        "name": "Annotations & Alerts",
+        "type": "dashboard"
+      }
+    ]
+  },
+  "editable": true,
+  "fiscalYearStartMonth": 0,
+  "graphTooltip": 0,
+  "id": null,
+  "links": [],
+  "liveNow": false,
+  "panels": [
+    {
+      "id": 1,
+      "gridPos": {
+        "h": 8,
+        "w": 12,
+        "x": 0,
+        "y": 0
+      },
+      "type": "geomap",
+      "title": "Access To Health Services",
+      "targets": [
+        {
+          "refId": "A",
+          "expr": "your_geojson_query_here",
+          "format": "json"
+        }
+      ],
+      "fieldConfig": {
+        "defaults": {
+          "color": {
+            "mode": "thresholds"
+          },
+          "mappings": [],
+          "thresholds": {
+            "mode": "absolute",
+            "steps": [
+              {
+                "color": "rgb(144,238,144)",
+                "value": 0.0
+              },
+              {
+                "color": "rgb(128,222,128)",
+                "value": 11.11111111111111
+              },
+              {
+                "color": "rgb(112,207,112)",
+                "value": 22.22222222222222
+              },
+              {
+                "color": "rgb(96,192,96)",
+                "value": 33.333333333333336
+              },
+              {
+                "color": "rgb(80,176,80)",
+                "value": 44.44444444444444
+              },
+              {
+                "color": "rgb(64,161,64)",
+                "value": 55.55555555555556
+              },
+              {
+                "color": "rgb(48,146,48)",
+                "value": 66.66666666666667
+              },
+              {
+                "color": "rgb(32,130,32)",
+                "value": 77.77777777777777
+              },
+              {
+                "color": "rgb(16,115,16)",
+                "value": 88.88888888888889
+              },
+              {
+                "color": "rgb(0,100,0)",
+                "value": 100.0
+              }
+            ]
+          }
+        },
+        "overrides": []
+      },
+      "options": {
+        "basemap": {
+          "config": {},
+          "name": "Layer 0",
+          "type": "default"
+        },
+        "controls": {
+          "mouseWheelZoom": true,
+          "showAttribution": true,
+          "showDebug": false,
+          "showMeasure": false,
+          "showScale": false,
+          "showZoom": true
+        },
+        "layers": [
+          {
+            "config": {
+              "showLegend": true,
+              "style": {
+                "color": {
+                  "fixed": "dark-green"
+                },
+                "rotation": {
+                  "fixed": 0,
+                  "max": 360,
+                  "min": -360,
+                  "mode": "mod"
+                },
+                "size": {
+                  "fixed": 5,
+                  "max": 15,
+                  "min": 2
+                },
+                "symbol": {
+                  "fixed": "img/icons/marker/circle.svg",
+                  "mode": "fixed"
+                },
+                "textConfig": {
+                  "fontSize": 12,
+                  "offsetX": 0,
+                  "offsetY": 0,
+                  "textAlign": "center",
+                  "textBaseline": "middle"
+                }
+              }
+            },
+            "location": {
+              "mode": "auto"
+            },
+            "name": "Layer 1",
+            "tooltip": true,
+            "type": "markers"
+          }
+        ],
+        "tooltip": {
+          "mode": "details"
+        },
+        "view": {
+          "id": "zero",
+          "lat": 0,
+          "lon": 0,
+          "zoom": 1
+        }
+      }
+    }
+  ],
+  "refresh": "5s",
+  "schemaVersion": 38,
+  "style": "dark",
+  "tags": [],
+  "templating": {
+    "list": []
+  },
+  "time": {
+    "from": "now-6h",
+    "to": "now"
+  },
+  "timepicker": {},
+  "timezone": "",
+  "title": "Access To Health Services",
+  "uid": "access_to_health_services",
+  "version": 1,
+  "weekStart": ""
+}
