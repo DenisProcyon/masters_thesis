@@ -29,8 +29,9 @@ masters_thesis/
 ├── Mongo.log                 # MongoDB log file
 ├── url_decoder.log           # URL decoder log
 
+```
 
-### `src/` – 
+### `src`
 
 This folder contains all the core components of the thesis pipeline:
 
@@ -43,9 +44,6 @@ This folder contains all the core components of the thesis pipeline:
 - **Production-level code**  
   Code to automate the entire pipeline in a user-friendly interface and create the Grafana dashboard.   
 
-
-
----
 
 ## 🌐 Data Collection  
 
