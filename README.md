@@ -53,23 +53,14 @@ Each data source has dedicated parsing modules:
 
 **YouTube Parsing:**
 - `src/yt_client/yt_client.py` - YouTube API client for video and comment extraction
-- `src/yt_production/__init__.py` - Production YouTube data processing
-- `src/YT_FINAL.ipynb` - YouTube data analysis and processing pipeline
 
 **News Outlets Parsing:**
 - `src/newsapi_parser.py` - Google News API parser with proxy support
 - `src/mediacloud_api.py` - MediaCloud API integration
-- `src/google_news_production/` - Production Google News processing
-- `src/mediacloud_production/__init__.py` - Production MediaCloud processing
-- `src/trafilatura_production/__init__.py` - Content extraction from news URLs
 - `src/gnews_decoder.py` - URL decoding for Google News articles
-- `src/NEWS_FINAL.ipynb` - News data analysis and LDA topic modeling
 
 **Google Trends Parsing:**
 - `src/serp_google_trends.py` - SerpAPI Google Trends scraper
-- `src/serpapi_production/__init__.py` - Production SerpAPI processing
-- `src/gt_production/__init__.py` - Google Trends data processing
-- `src/GT_final.ipynb` - Google Trends analysis pipeline
 
 **Data Storage & Processing:**
 - `src/mongo_wrapper/mongo_wrapper.py` - MongoDB interface for all data sources
