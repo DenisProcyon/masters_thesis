@@ -41,7 +41,7 @@ Core source code directory containing:
 - **Production automation** - Web interface (`app.py`) and Grafana dashboard configuration for operational deployment   
 
 **Scraping files**
-- Telegram: `src/telegram_pplt.py` - Main scraper 
+- Telegram: The telegram_pplt.py script launches the scraping of posts and comments from specified Telegram channels using Telethon. The logic is split between post.py (for extracting post metadata) and comment.py (for retrieving associated comments). To reproduce the pipeline, insert your Telegram API credentials and run telegram_pplt.py with a list of target channels.
 - YouTube: `src/yt_client/yt_client.py` - YouTube API client for extracting videos and comments
 - News: `src/newsapi_parser.py` - Google News scraper with proxy, `src/mediacloud_api.py` - MediaCloud API scraper
 - Google Trends: `src/serp_google_trends.py` - SerpAPI client for collecting Google Trends
