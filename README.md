@@ -49,7 +49,6 @@ Each data source has dedicated parsing modules:
 **Telegram Parsing:**
 - `src/telegram_pplt.py` - Main Telegram scraper using Telethon API
 - `src/tg_scraper/` - Telegram scraping utilities
-- `src/tg_production/__init__.py` - Production Telegram data processing
 
 **YouTube Parsing:**
 - `src/yt_client/yt_client.py` - YouTube API client for video and comment extraction
