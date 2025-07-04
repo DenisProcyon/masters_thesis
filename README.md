@@ -74,7 +74,6 @@ Each data source has dedicated parsing modules:
 **Data Storage & Processing:**
 - `src/mongo_wrapper/mongo_wrapper.py` - MongoDB interface for all data sources
 - `src/logger/logger.py` - Logging system for all parsers
-- `src/clean_data.ipynb` - Data cleaning and preprocessing pipeline
 
 ---
 
