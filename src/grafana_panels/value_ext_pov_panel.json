@@ -1,0 +1,174 @@
+{
+  "datasource": {
+    "type": "geojson",
+    "uid": "your-geojson-datasource-uid"
+  },
+  "fieldConfig": {
+    "defaults": {
+      "color": {
+        "mode": "thresholds"
+      },
+      "custom": {
+        "hideFrom": {
+          "legend": false,
+          "tooltip": false,
+          "vis": false
+        },
+        "thresholds": {
+          "mode": "absolute",
+          "steps": [
+            {
+              "color": "rgba(0, 255, 0, 1)",
+              "value": 2.8
+            },
+            {
+              "color": "rgba(28, 226, 0, 1)",
+              "value": 6.555555555555555
+            },
+            {
+              "color": "rgba(56, 198, 0, 1)",
+              "value": 10.311111111111112
+            },
+            {
+              "color": "rgba(85, 170, 0, 1)",
+              "value": 14.066666666666666
+            },
+            {
+              "color": "rgba(113, 141, 0, 1)",
+              "value": 17.822222222222223
+            },
+            {
+              "color": "rgba(141, 113, 0, 1)",
+              "value": 21.577777777777783
+            },
+            {
+              "color": "rgba(170, 85, 0, 1)",
+              "value": 25.333333333333336
+            },
+            {
+              "color": "rgba(198, 56, 0, 1)",
+              "value": 29.088888888888892
+            },
+            {
+              "color": "rgba(226, 28, 0, 1)",
+              "value": 32.84444444444445
+            },
+            {
+              "color": "rgba(255, 0, 0, 1)",
+              "value": 36.6
+            }
+          ]
+        }
+      },
+      "mappings": [],
+      "thresholds": {
+        "mode": "absolute",
+        "steps": [
+          {
+            "color": "rgba(0, 255, 0, 1)",
+            "value": 2.8
+          },
+          {
+            "color": "rgba(28, 226, 0, 1)",
+            "value": 6.555555555555555
+          },
+          {
+            "color": "rgba(56, 198, 0, 1)",
+            "value": 10.311111111111112
+          },
+          {
+            "color": "rgba(85, 170, 0, 1)",
+            "value": 14.066666666666666
+          },
+          {
+            "color": "rgba(113, 141, 0, 1)",
+            "value": 17.822222222222223
+          },
+          {
+            "color": "rgba(141, 113, 0, 1)",
+            "value": 21.577777777777783
+          },
+          {
+            "color": "rgba(170, 85, 0, 1)",
+            "value": 25.333333333333336
+          },
+          {
+            "color": "rgba(198, 56, 0, 1)",
+            "value": 29.088888888888892
+          },
+          {
+            "color": "rgba(226, 28, 0, 1)",
+            "value": 32.84444444444445
+          },
+          {
+            "color": "rgba(255, 0, 0, 1)",
+            "value": 36.6
+          }
+        ]
+      }
+    },
+    "overrides": []
+  },
+  "gridPos": {
+    "h": 9,
+    "w": 12,
+    "x": 0,
+    "y": 0
+  },
+  "id": 8,
+  "options": {
+    "basemap": {
+      "type": "default"
+    },
+    "controls": {
+      "mouseWheelZoom": true,
+      "showZoom": true
+    },
+    "layers": [
+      {
+        "config": {
+          "style": {
+            "color": {
+              "field": "value_ext_pov",
+              "fixed": "dark-green"
+            },
+            "opacity": 0.8,
+            "size": {
+              "fixed": 5,
+              "max": 15,
+              "min": 2
+            }
+          }
+        },
+        "location": {
+          "mode": "auto"
+        },
+        "name": "Layer 1",
+        "tooltip": true,
+        "type": "markers"
+      }
+    ],
+    "tooltip": {
+      "mode": "details"
+    },
+    "view": {
+      "allLayers": true,
+      "id": "coords",
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "zoom": 5
+    }
+  },
+  "pluginVersion": "9.0.0",
+  "targets": [
+    {
+      "datasource": {
+        "type": "geojson",
+        "uid": "your-geojson-datasource-uid"
+      },
+      "refId": "A"
+    }
+  ],
+  "title": "Ext Pov",
+  "type": "geomap"
+}

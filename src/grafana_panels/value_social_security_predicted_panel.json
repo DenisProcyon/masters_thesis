@@ -1,0 +1,174 @@
+{
+  "datasource": {
+    "type": "geojson",
+    "uid": "your-geojson-datasource-uid"
+  },
+  "fieldConfig": {
+    "defaults": {
+      "color": {
+        "mode": "thresholds"
+      },
+      "custom": {
+        "hideFrom": {
+          "legend": false,
+          "tooltip": false,
+          "vis": false
+        },
+        "thresholds": {
+          "mode": "absolute",
+          "steps": [
+            {
+              "color": "rgba(0, 255, 0, 1)",
+              "value": 33.563370374402325
+            },
+            {
+              "color": "rgba(28, 226, 0, 1)",
+              "value": 36.87901081230487
+            },
+            {
+              "color": "rgba(56, 198, 0, 1)",
+              "value": 40.19465125020741
+            },
+            {
+              "color": "rgba(85, 170, 0, 1)",
+              "value": 43.510291688109945
+            },
+            {
+              "color": "rgba(113, 141, 0, 1)",
+              "value": 46.82593212601249
+            },
+            {
+              "color": "rgba(141, 113, 0, 1)",
+              "value": 50.141572563915034
+            },
+            {
+              "color": "rgba(170, 85, 0, 1)",
+              "value": 53.45721300181757
+            },
+            {
+              "color": "rgba(198, 56, 0, 1)",
+              "value": 56.772853439720116
+            },
+            {
+              "color": "rgba(226, 28, 0, 1)",
+              "value": 60.08849387762265
+            },
+            {
+              "color": "rgba(255, 0, 0, 1)",
+              "value": 63.4041343155252
+            }
+          ]
+        }
+      },
+      "mappings": [],
+      "thresholds": {
+        "mode": "absolute",
+        "steps": [
+          {
+            "color": "rgba(0, 255, 0, 1)",
+            "value": 33.563370374402325
+          },
+          {
+            "color": "rgba(28, 226, 0, 1)",
+            "value": 36.87901081230487
+          },
+          {
+            "color": "rgba(56, 198, 0, 1)",
+            "value": 40.19465125020741
+          },
+          {
+            "color": "rgba(85, 170, 0, 1)",
+            "value": 43.510291688109945
+          },
+          {
+            "color": "rgba(113, 141, 0, 1)",
+            "value": 46.82593212601249
+          },
+          {
+            "color": "rgba(141, 113, 0, 1)",
+            "value": 50.141572563915034
+          },
+          {
+            "color": "rgba(170, 85, 0, 1)",
+            "value": 53.45721300181757
+          },
+          {
+            "color": "rgba(198, 56, 0, 1)",
+            "value": 56.772853439720116
+          },
+          {
+            "color": "rgba(226, 28, 0, 1)",
+            "value": 60.08849387762265
+          },
+          {
+            "color": "rgba(255, 0, 0, 1)",
+            "value": 63.4041343155252
+          }
+        ]
+      }
+    },
+    "overrides": []
+  },
+  "gridPos": {
+    "h": 9,
+    "w": 12,
+    "x": 0,
+    "y": 0
+  },
+  "id": 11,
+  "options": {
+    "basemap": {
+      "type": "default"
+    },
+    "controls": {
+      "mouseWheelZoom": true,
+      "showZoom": true
+    },
+    "layers": [
+      {
+        "config": {
+          "style": {
+            "color": {
+              "field": "value_social_security_predicted",
+              "fixed": "dark-green"
+            },
+            "opacity": 0.8,
+            "size": {
+              "fixed": 5,
+              "max": 15,
+              "min": 2
+            }
+          }
+        },
+        "location": {
+          "mode": "auto"
+        },
+        "name": "Layer 1",
+        "tooltip": true,
+        "type": "markers"
+      }
+    ],
+    "tooltip": {
+      "mode": "details"
+    },
+    "view": {
+      "allLayers": true,
+      "id": "coords",
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "zoom": 5
+    }
+  },
+  "pluginVersion": "9.0.0",
+  "targets": [
+    {
+      "datasource": {
+        "type": "geojson",
+        "uid": "your-geojson-datasource-uid"
+      },
+      "refId": "A"
+    }
+  ],
+  "title": "Social Security Predicted (Predicted)",
+  "type": "geomap"
+}

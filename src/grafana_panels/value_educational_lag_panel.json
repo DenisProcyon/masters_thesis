@@ -1,0 +1,118 @@
+{
+  "gridPos": {
+    "h": 8,
+    "w": 12,
+    "x": 0,
+    "y": 0
+  },
+  "id": 1,
+  "options": {
+    "basemap": {
+      "name": "Layer 0",
+      "type": "default"
+    },
+    "controls": {
+      "mouseWheelZoom": true,
+      "showAttribution": true,
+      "showDebug": false,
+      "showMeasure": false,
+      "showScale": false,
+      "showZoom": true
+    },
+    "layers": [
+      {
+        "config": {
+          "showLegend": true,
+          "style": {
+            "color": {
+              "field": "value_educational_lag",
+              "mode": "thresholds",
+              "thresholds": [
+                {
+                  "color": "#00FF00",
+                  "value": null
+                },
+                {
+                  "color": "#80FF00",
+                  "value": 16.666666666666668
+                },
+                {
+                  "color": "#FFFF00",
+                  "value": 33.333333333333336
+                },
+                {
+                  "color": "#FFB300",
+                  "value": 50.0
+                },
+                {
+                  "color": "#FF7000",
+                  "value": 66.66666666666667
+                },
+                {
+                  "color": "#FF3000",
+                  "value": 83.33333333333334
+                },
+                {
+                  "color": "#FF0000",
+                  "value": 100.0
+                }
+              ]
+            },
+            "opacity": 1.0,
+            "rotation": {
+              "fixed": 0,
+              "max": 360,
+              "min": -360,
+              "mode": "mod"
+            },
+            "size": {
+              "fixed": 5,
+              "max": 10,
+              "min": 2
+            },
+            "symbol": {
+              "fixed": "img/icons/marker/circle.svg",
+              "mode": "fixed"
+            },
+            "textConfig": {
+              "fontSize": 12,
+              "offsetX": 0,
+              "offsetY": 0,
+              "textAlign": "center",
+              "textBaseline": "middle"
+            }
+          }
+        },
+        "location": {
+          "mode": "auto"
+        },
+        "name": "Layer 1",
+        "tooltip": true,
+        "type": "geojson"
+      }
+    ],
+    "tooltip": {
+      "mode": "details"
+    },
+    "view": {
+      "allLayers": true,
+      "id": "zero",
+      "lat": 23.634501,
+      "lon": -102.552784,
+      "zoom": 5
+    }
+  },
+  "pluginVersion": "9.5.2",
+  "targets": [
+    {
+      "datasource": {
+        "type": "grafana-googlesheets-datasource",
+        "uid": "d7b47536-52f0-4bba-a46f-e13c592d4c38"
+      },
+      "refId": "A",
+      "spreadsheet": "YOUR_SPREADSHEET_ID"
+    }
+  ],
+  "title": "Educational Lag",
+  "type": "geomap"
+}
