@@ -1,0 +1,174 @@
+{
+  "datasource": {
+    "type": "geojson",
+    "uid": "your-geojson-datasource-uid"
+  },
+  "fieldConfig": {
+    "defaults": {
+      "color": {
+        "mode": "thresholds"
+      },
+      "custom": {
+        "hideFrom": {
+          "legend": false,
+          "tooltip": false,
+          "vis": false
+        },
+        "thresholds": {
+          "mode": "absolute",
+          "steps": [
+            {
+              "color": "rgba(0, 255, 0, 1)",
+              "value": 26.73091042271939
+            },
+            {
+              "color": "rgba(28, 226, 0, 1)",
+              "value": 28.312685884720725
+            },
+            {
+              "color": "rgba(56, 198, 0, 1)",
+              "value": 29.89446134672206
+            },
+            {
+              "color": "rgba(85, 170, 0, 1)",
+              "value": 31.476236808723396
+            },
+            {
+              "color": "rgba(113, 141, 0, 1)",
+              "value": 33.05801227072473
+            },
+            {
+              "color": "rgba(141, 113, 0, 1)",
+              "value": 34.63978773272607
+            },
+            {
+              "color": "rgba(170, 85, 0, 1)",
+              "value": 36.2215631947274
+            },
+            {
+              "color": "rgba(198, 56, 0, 1)",
+              "value": 37.80333865672874
+            },
+            {
+              "color": "rgba(226, 28, 0, 1)",
+              "value": 39.38511411873007
+            },
+            {
+              "color": "rgba(255, 0, 0, 1)",
+              "value": 40.96688958073141
+            }
+          ]
+        }
+      },
+      "mappings": [],
+      "thresholds": {
+        "mode": "absolute",
+        "steps": [
+          {
+            "color": "rgba(0, 255, 0, 1)",
+            "value": 26.73091042271939
+          },
+          {
+            "color": "rgba(28, 226, 0, 1)",
+            "value": 28.312685884720725
+          },
+          {
+            "color": "rgba(56, 198, 0, 1)",
+            "value": 29.89446134672206
+          },
+          {
+            "color": "rgba(85, 170, 0, 1)",
+            "value": 31.476236808723396
+          },
+          {
+            "color": "rgba(113, 141, 0, 1)",
+            "value": 33.05801227072473
+          },
+          {
+            "color": "rgba(141, 113, 0, 1)",
+            "value": 34.63978773272607
+          },
+          {
+            "color": "rgba(170, 85, 0, 1)",
+            "value": 36.2215631947274
+          },
+          {
+            "color": "rgba(198, 56, 0, 1)",
+            "value": 37.80333865672874
+          },
+          {
+            "color": "rgba(226, 28, 0, 1)",
+            "value": 39.38511411873007
+          },
+          {
+            "color": "rgba(255, 0, 0, 1)",
+            "value": 40.96688958073141
+          }
+        ]
+      }
+    },
+    "overrides": []
+  },
+  "gridPos": {
+    "h": 9,
+    "w": 12,
+    "x": 0,
+    "y": 0
+  },
+  "id": 10,
+  "options": {
+    "basemap": {
+      "type": "default"
+    },
+    "controls": {
+      "mouseWheelZoom": true,
+      "showZoom": true
+    },
+    "layers": [
+      {
+        "config": {
+          "style": {
+            "color": {
+              "field": "value_health_predicted",
+              "fixed": "dark-green"
+            },
+            "opacity": 0.8,
+            "size": {
+              "fixed": 5,
+              "max": 15,
+              "min": 2
+            }
+          }
+        },
+        "location": {
+          "mode": "auto"
+        },
+        "name": "Layer 1",
+        "tooltip": true,
+        "type": "markers"
+      }
+    ],
+    "tooltip": {
+      "mode": "details"
+    },
+    "view": {
+      "allLayers": true,
+      "id": "coords",
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "zoom": 5
+    }
+  },
+  "pluginVersion": "9.0.0",
+  "targets": [
+    {
+      "datasource": {
+        "type": "geojson",
+        "uid": "your-geojson-datasource-uid"
+      },
+      "refId": "A"
+    }
+  ],
+  "title": "Health Predicted (Predicted)",
+  "type": "geomap"
+}

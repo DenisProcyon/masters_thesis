@@ -1,0 +1,174 @@
+{
+  "datasource": {
+    "type": "geojson",
+    "uid": "your-geojson-datasource-uid"
+  },
+  "fieldConfig": {
+    "defaults": {
+      "color": {
+        "mode": "thresholds"
+      },
+      "custom": {
+        "hideFrom": {
+          "legend": false,
+          "tooltip": false,
+          "vis": false
+        },
+        "thresholds": {
+          "mode": "absolute",
+          "steps": [
+            {
+              "color": "rgba(0, 255, 0, 1)",
+              "value": 12.762722242617013
+            },
+            {
+              "color": "rgba(28, 226, 0, 1)",
+              "value": 14.039332362234871
+            },
+            {
+              "color": "rgba(56, 198, 0, 1)",
+              "value": 15.31594248185273
+            },
+            {
+              "color": "rgba(85, 170, 0, 1)",
+              "value": 16.59255260147059
+            },
+            {
+              "color": "rgba(113, 141, 0, 1)",
+              "value": 17.86916272108845
+            },
+            {
+              "color": "rgba(141, 113, 0, 1)",
+              "value": 19.145772840706307
+            },
+            {
+              "color": "rgba(170, 85, 0, 1)",
+              "value": 20.422382960324168
+            },
+            {
+              "color": "rgba(198, 56, 0, 1)",
+              "value": 21.698993079942028
+            },
+            {
+              "color": "rgba(226, 28, 0, 1)",
+              "value": 22.975603199559885
+            },
+            {
+              "color": "rgba(255, 0, 0, 1)",
+              "value": 24.252213319177745
+            }
+          ]
+        }
+      },
+      "mappings": [],
+      "thresholds": {
+        "mode": "absolute",
+        "steps": [
+          {
+            "color": "rgba(0, 255, 0, 1)",
+            "value": 12.762722242617013
+          },
+          {
+            "color": "rgba(28, 226, 0, 1)",
+            "value": 14.039332362234871
+          },
+          {
+            "color": "rgba(56, 198, 0, 1)",
+            "value": 15.31594248185273
+          },
+          {
+            "color": "rgba(85, 170, 0, 1)",
+            "value": 16.59255260147059
+          },
+          {
+            "color": "rgba(113, 141, 0, 1)",
+            "value": 17.86916272108845
+          },
+          {
+            "color": "rgba(141, 113, 0, 1)",
+            "value": 19.145772840706307
+          },
+          {
+            "color": "rgba(170, 85, 0, 1)",
+            "value": 20.422382960324168
+          },
+          {
+            "color": "rgba(198, 56, 0, 1)",
+            "value": 21.698993079942028
+          },
+          {
+            "color": "rgba(226, 28, 0, 1)",
+            "value": 22.975603199559885
+          },
+          {
+            "color": "rgba(255, 0, 0, 1)",
+            "value": 24.252213319177745
+          }
+        ]
+      }
+    },
+    "overrides": []
+  },
+  "gridPos": {
+    "h": 9,
+    "w": 12,
+    "x": 0,
+    "y": 0
+  },
+  "id": 9,
+  "options": {
+    "basemap": {
+      "type": "default"
+    },
+    "controls": {
+      "mouseWheelZoom": true,
+      "showZoom": true
+    },
+    "layers": [
+      {
+        "config": {
+          "style": {
+            "color": {
+              "field": "value_educational_lag_predicted",
+              "fixed": "dark-green"
+            },
+            "opacity": 0.8,
+            "size": {
+              "fixed": 5,
+              "max": 15,
+              "min": 2
+            }
+          }
+        },
+        "location": {
+          "mode": "auto"
+        },
+        "name": "Layer 1",
+        "tooltip": true,
+        "type": "markers"
+      }
+    ],
+    "tooltip": {
+      "mode": "details"
+    },
+    "view": {
+      "allLayers": true,
+      "id": "coords",
+      "lat": 23.6345,
+      "lon": -102.5528,
+      "zoom": 5
+    }
+  },
+  "pluginVersion": "9.0.0",
+  "targets": [
+    {
+      "datasource": {
+        "type": "geojson",
+        "uid": "your-geojson-datasource-uid"
+      },
+      "refId": "A"
+    }
+  ],
+  "title": "Educational Lag Predicted (Predicted)",
+  "type": "geomap"
+}
